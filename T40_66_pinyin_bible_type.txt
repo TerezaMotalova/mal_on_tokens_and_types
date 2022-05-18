@@ -1,0 +1,3606 @@
+pinyin	phoneme	syll	syll_n	letter_n	sound_n	
+ya4bo2la1han3	ya4bwo2la1han3	['ya', 'bo', 'la', 'han']	4	9	10	
+de	de	['de']	1	2	2	
+hou4yi4	h#4yi4	['hou', 'yi']	2	5	4	
+da4wei4	da4w#4	['da', 'wei']	2	5	4	
+zi3sun1	zi3swən1	['zi', 'sun']	2	5	6	
+ye1su1	ye1su1	['ye', 'su']	2	4	4	
+ji1du1	ji1du1	['ji', 'du']	2	4	4	
+jia1pu3	jia1pu3	['jia', 'pu']	2	5	5	
+yuan2wen2	ɥæn2wen2	['yuan', 'wen']	2	7	6	
+dou1	d#1	['dou']	1	3	2	
+zuo4	zuo4	['zuo']	1	3	3	
+er2zi	er2zi	['er', 'zi']	2	4	4	
+xia4	xia4	['xia']	1	3	3	
+tong2	toŋ2	['tong']	1	4	3	
+sheng1	$eŋ1	['sheng']	1	5	3	
+yi3sa1	yi3sa1	['yi', 'sa']	2	4	4	
+ya3ge4	ya3ge4	['ya', 'ge']	2	4	4	
+you2da4	y#2da4	['you', 'da']	2	5	4	
+he2	he2	['he']	1	2	2	
+ta1de	ta1de	['ta', 'de']	2	4	4	
+di4xiong1	di4xioŋ1	['di', 'xiong']	2	7	6	
+cong2	coŋ2	['cong']	1	4	3	
+ta1ma3	ta1ma3	['ta', 'ma']	2	4	4	
+shi4	$i4	['shi']	1	3	2	
+fa3lei1si1	fa3l#1si1	['fa', 'lei', 'si']	3	7	6	
+xie4la1	xie4la1	['xie', 'la']	2	5	5	
+xi1si1lun2	xi1si1lwən2	['xi', 'si', 'lun']	3	7	8	
+ya4lan2	ya4lan2	['ya', 'lan']	2	5	5	
+ya4mi3na2da2	ya4mi3na2da2	['ya', 'mi', 'na', 'da']	4	8	8	
+na2shun4	na2$wən4	['na', 'shun']	2	6	6	
+sa1men2	sa1men2	['sa', 'men']	2	5	5	
+la3he2	la3he2	['la', 'he']	2	4	4	
+bo0e1si1	bwo0e1si1	['bo', 'e', 'si']	3	5	6	
+lu4de2	lu4de2	['lu', 'de']	2	4	4	
+e2bei4de2	e2b#4de2	['e', 'bei', 'de']	3	6	5	
+ye1xi1	ye1xi1	['ye', 'xi']	2	4	4	
+wang2	waŋ2	['wang']	1	4	3	
+wu1li4ya4	wu1li4ya4	['wu', 'li', 'ya']	3	6	6	
+qi1zi	qi1zi	['qi', 'zi']	2	4	4	
+suo3luo2men2	suo3luo2men2	['suo', 'luo', 'men']	3	9	9	
+luo2bo1an1	luo2bwo1an1	['luo', 'bo', 'an']	3	7	8	
+ya4bi3ya3	ya4bi3ya3	['ya', 'bi', 'ya']	3	6	6	
+ya4sa1	ya4sa1	['ya', 'sa']	2	4	4	
+yue1sha1fa3	ɥe1$a1fa3	['yue', 'sha', 'fa']	3	8	6	
+yue1lan2	ɥe1lan2	['yue', 'lan']	2	6	5	
+wu1xi1ya4	wu1xi1ya4	['wu', 'xi', 'ya']	3	6	6	
+yue1tan3	ɥe1tan3	['yue', 'tan']	2	6	5	
+ya4ha1si1	ya4ha1si1	['ya', 'ha', 'si']	3	6	6	
+xi1xi1jia1	xi1xi1jia1	['xi', 'xi', 'jia']	3	7	7	
+ma3na2xi1	ma3na2xi1	['ma', 'na', 'xi']	3	6	6	
+ya4men2	ya4men2	['ya', 'men']	2	5	5	
+yue1xi1ya4	ɥe1xi1ya4	['yue', 'xi', 'ya']	3	7	6	
+bai3xing4	b#3xjəŋ4	['bai', 'xing']	2	7	6	
+bei4	b#4	['bei']	1	3	2	
+qia1	qia1	['qia']	1	3	3	
+dao4	d#4	['dao']	1	3	2	
+ba1bi3lun2	ba1bi3lwən2	['ba', 'bi', 'lun']	3	7	8	
+shi2hou	$i2h#	['shi', 'hou']	2	6	4	
+ye1ge1ni2ya3	ye1ge1ni2ya3	['ye', 'ge', 'ni', 'ya']	4	8	8	
+zhi1	$i1	['zhi']	1	3	2	
+hou4	h#4	['hou']	1	3	2	
+sa3la1tie3	sa3la1tie3	['sa', 'la', 'tie']	3	7	7	
+suo3luo2ba1bo2	suo3luo2ba1bwo2	['suo', 'luo', 'ba', 'bo']	4	10	11	
+ya4bi3yu4	ya4bi3yu4	['ya', 'bi', 'yu']	3	6	6	
+yi3li4ya4jing4	yi3li4ya4jjəŋ4	['yi', 'li', 'ya', 'jing']	4	10	10	
+ya4suo3	ya4suo3	['ya', 'suo']	2	5	5	
+sa1du1	sa1du1	['sa', 'du']	2	4	4	
+ya4jin1	ya4jin1	['ya', 'jin']	2	5	5	
+yi3lv4	yi3lv4	['yi', 'lv']	2	4	4	
+yi3li4ya4sa1	yi3li4ya4sa1	['yi', 'li', 'ya', 'sa']	4	8	8	
+ma3dan4	ma3dan4	['ma', 'dan']	2	5	5	
+yue1se4	ɥe1se4	['yue', 'se']	2	5	4	
+jiu4	jiu4	['jiu']	1	3	3	
+ma3li4ya4	ma3li4ya4	['ma', 'li', 'ya']	3	6	6	
+zhang4fu	$aŋ4fu	['zhang', 'fu']	2	7	5	
+na4	na4	['na']	1	2	2	
+cheng1wei4	$eŋ1w#4	['cheng', 'wei']	2	8	5	
+zhe4yang4	$e4yaŋ4	['zhe', 'yang']	2	7	5	
+gong4	goŋ4	['gong']	1	4	3	
+you3	y#3	['you']	1	3	2	
+shi2	$i2	['shi']	1	3	2	
+si4	si4	['si']	1	2	2	
+dai4	d#4	['dai']	1	3	2	
+zhi4	$i4	['zhi']	1	3	2	
+ye3	ye3	['ye']	1	2	2	
+you4	y#4	['you']	1	3	2	
+jiang4sheng1	jiaŋ4$eŋ1	['jiang', 'sheng']	2	10	7	
+ji4	ji4	['ji']	1	2	2	
+zai4	z#4	['zai']	1	3	2	
+xia4mian4	xia4mian4	['xia', 'mian']	2	7	7	
+ta1	ta1	['ta']	1	2	2	
+mu3qin	mu3qin	['mu', 'qin']	2	5	5	
+yi3jing	yi3jjəŋ	['yi', 'jing']	2	6	6	
+xu3pei4	xu3p#4	['xu', 'pei']	2	5	4	
+le	le	['le']	1	2	2	
+hai2	h#2	['hai']	1	3	2	
+mei2you3	m#2y#3	['mei', 'you']	2	6	4	
+ying2	yiŋ2	['ying']	1	4	3	
+qu3	qu3	['qu']	1	2	2	
+sheng4ling2	$eŋ4ljəŋ2	['sheng', 'ling']	2	9	7	
+huai2	hu#2	['huai']	1	4	3	
+yun4	yun4	['yun']	1	3	3	
+ge	ge	['ge']	1	2	2	
+yi4	yi4	['yi']	1	2	2	
+ren2	ren2	['ren']	1	3	3	
+bu2	bu2	['bu']	1	2	2	
+yuan4yi4	ɥæn4yi4	['yuan', 'yi']	2	6	5	
+ming2	mjəŋ2	['ming']	1	4	4	
+xiu1ru3	xiu1ru3	['xiu', 'ru']	2	5	5	
+xiang3	xiaŋ3	['xiang']	1	5	4	
+an4an4	an4an4	['an', 'an']	2	4	4	
+ba3	ba3	['ba']	1	2	2	
+xiu1	xiu1	['xiu']	1	3	3	
+zheng4	$eŋ4	['zheng']	1	5	3	
+si1nian4	si1nian4	['si', 'nian']	2	6	6	
+zhe4	$e4	['zhe']	1	3	2	
+zhu3	$u3	['zhu']	1	3	2	
+shi3zhe3	$i3$e3	['shi', 'zhe']	2	6	4	
+xiang4	xiaŋ4	['xiang']	1	5	4	
+meng4	meŋ4	['meng']	1	4	3	
+zhong1	$oŋ1	['zhong']	1	5	3	
+xian3xian4	xian3xian4	['xian', 'xian']	2	8	8	
+shuo1	$uo1	['shuo']	1	4	3	
+bu2yao4	bu2y#4	['bu', 'yao']	2	5	4	
+pa4	pa4	['pa']	1	2	2	
+zhi3guan3	$i3guan3	['zhi', 'guan']	2	7	6	
+guo1	guo1	['guo']	1	3	3	
+ni3de	ni3de	['ni', 'de']	2	4	4	
+lai2	l#2	['lai']	1	3	2	
+yin1	yin1	['yin']	1	3	3	
+suo3	suo3	['suo']	1	3	3	
+jiang1yao4	jiaŋ1y#4	['jiang', 'yao']	2	8	6	
+yi1	yi1	['yi']	1	2	2	
+ni3	ni3	['ni']	1	2	2	
+yao4	y#4	['yao']	1	3	2	
+gei3	g#3	['gei']	1	3	2	
+qi3ming2	qi3mjəŋ2	['qi', 'ming']	2	6	6	
+jiao4	ji#4	['jiao']	1	4	3	
+jiang1	jiaŋ1	['jiang']	1	5	4	
+zi4ji3	zi4ji3	['zi', 'ji']	2	4	4	
+zui4e4	zui4e4	['zui', 'e']	2	4	4	
+li3	li3	['li']	1	2	2	
+chu1lai	$u1l#	['chu', 'lai']	2	6	4	
+yi1qie4	yi1qie4	['yi', 'qie']	2	5	5	
+cheng2jiu4	$eŋ2jiu4	['cheng', 'jiu']	2	8	6	
+ying4yan4	yiŋ4yan4	['ying', 'yan']	2	7	6	
+jie4	jie4	['jie']	1	3	3	
+xian1zhi1	xian1$i1	['xian', 'zhi']	2	7	6	
+hua4	hua4	['hua']	1	3	3	
+bi4	bi4	['bi']	1	2	2	
+tong2nv3	toŋ2nv3	['tong', 'nv']	2	6	5	
+huai2yun4	hu#2yun4	['huai', 'yun']	2	7	6	
+zi3	zi3	['zi']	1	2	2	
+cheng1	$eŋ1	['cheng']	1	5	3	
+wei2	w#2	['wei']	1	3	2	
+yi3ma3nei4li4	yi3ma3n#4li4	['yi', 'ma', 'nei', 'li']	4	9	8	
+fan1	fan1	['fan']	1	3	3	
+shen2	$en2	['shen']	1	4	3	
+yu3	yu3	['yu']	1	2	2	
+wo3men	wo3men	['wo', 'men']	2	5	5	
+xing3	xjəŋ3	['xing']	1	4	4	
+qi3lai	qi3l#	['qi', 'lai']	2	5	4	
+zun1	zwən1	['zun']	1	3	4	
+zhe	$e	['zhe']	1	3	2	
+fen1fu	fen1fu	['fen', 'fu']	2	5	5	
+guo	guo	['guo']	1	3	3	
+zhi3shi4	$i3$i4	['zhi', 'shi']	2	6	4	
+tong2fang2	toŋ2faŋ2	['tong', 'fang']	2	8	6	
+deng3	deŋ3	['deng']	1	4	3	
+gu3	gu3	['gu']	1	2	2	
+juan4	juan4	['juan']	1	4	4	
+tou2tai1	t#2t#1	['tou', 'tai']	2	6	4	
+dang1	daŋ1	['dang']	1	4	3	
+xi1lv4	xi1lv4	['xi', 'lv']	2	4	4	
+you2tai4	y#2t#4	['you', 'tai']	2	6	4	
+bo2li4heng2	bwo2li4heŋ2	['bo', 'li', 'heng']	3	8	8	
+ji3	ji3	['ji']	1	2	2	
+bo2shi4	bwo2$i4	['bo', 'shi']	2	5	5	
+dong1fang1	doŋ1faŋ1	['dong', 'fang']	2	8	6	
+ye1lu4sa3leng3	ye1lu4sa3leŋ3	['ye', 'lu', 'sa', 'leng']	4	10	9	
+na4li	na4li	['na', 'li']	2	4	4	
+kan4jian	kan4jian	['kan', 'jian']	2	7	7	
+xing1	xjəŋ1	['xing']	1	4	4	
+te4	te4	['te']	1	2	2	
+bai4	b#4	['bai']	1	3	2	
+ting1jian	tjəŋ1jian	['ting', 'jian']	2	8	8	
+xin1li	xin1li	['xin', 'li']	2	5	5	
+bu4	bu4	['bu']	1	2	2	
+an1	an1	['an']	1	2	2	
+cheng2	$eŋ2	['cheng']	1	5	3	
+zhao4	$#4	['zhao']	1	4	2	
+ji4si1zhang3	ji4si1$aŋ3	['ji', 'si', 'zhang']	3	9	7	
+min2jian1	min2jian1	['min', 'jian']	2	7	7	
+wen2shi4	wen2$i4	['wen', 'shi']	2	6	5	
+wen4	wen4	['wen']	1	3	3	
+ta1men	ta1men	['ta', 'men']	2	5	5	
+he2chu	he2$u	['he', 'chu']	2	5	4	
+hui2da2	hui2da2	['hui', 'da']	2	5	5	
+yin1wei	yin1w#	['yin', 'wei']	2	6	5	
+di4	di4	['di']	1	2	2	
+a	a	['a']	1	1	1	
+zhu1	$u1	['zhu']	1	3	2	
+bing4	bjəŋ4	['bing']	1	4	4	
+zui4	zui4	['zui']	1	3	3	
+xiao3	xi#3	['xiao']	1	4	3	
+jiang1lai2	jiaŋ1l#2	['jiang', 'lai']	2	8	6	
+wei4	w#4	['wei']	1	3	2	
+jun1wang2	jun1waŋ2	['jun', 'wang']	2	7	6	
+mu4	mu4	['mu']	1	2	2	
+yang3	yaŋ3	['yang']	1	4	3	
+wo3	wo3	['wo']	1	2	2	
+yi3se4lie4	yi3se4lie4	['yi', 'se', 'lie']	3	7	7	
+min2	min2	['min']	1	3	3	
+dang1xia4	daŋ1xia4	['dang', 'xia']	2	7	6	
+a4nan4	a4nan4	['a', 'nan']	2	4	4	
+xi4	xi4	['xi']	1	2	2	
+shen2me	$en2me	['shen', 'me']	2	6	5	
+chu1xian4	$u1xian4	['chu', 'xian']	2	7	6	
+chai1	$#1	['chai']	1	4	2	
+wang3	waŋ3	['wang']	1	4	3	
+qu4	qu4	['qu']	1	2	2	
+ni3men	ni3men	['ni', 'men']	2	5	5	
+zi3xi4	zi3xi4	['zi', 'xi']	2	4	4	
+xun2	xun2	['xun']	1	3	3	
+fang3	faŋ3	['fang']	1	4	3	
+hai2zi	h#2zi	['hai', 'zi']	2	5	4	
+bao4xin4	b#4xin4	['bao', 'xin']	2	6	5	
+hao3	h#3	['hao']	1	3	2	
+hu1ran2	hu1ran2	['hu', 'ran']	2	5	5	
+qian2tou	qian2t#	['qian', 'tou']	2	7	6	
+xing2	xjəŋ2	['xing']	1	4	4	
+zhi2	$i2	['zhi']	1	3	2	
+di4fang	di4faŋ	['di', 'fang']	2	6	5	
+shang4	$aŋ4	['shang']	1	5	3	
+tou2	t#2	['tou']	1	3	2	
+ting2	tjəŋ2	['ting']	1	4	4	
+zhu4	$u4	['zhu']	1	3	2	
+da4da4	da4da4	['da', 'da']	2	4	4	
+huan1xi3	huan1xi3	['huan', 'xi']	2	6	6	
+jin4	jin4	['jin']	1	3	3	
+fang2zi	faŋ2zi	['fang', 'zi']	2	6	5	
+fu3fu2	fu3fu2	['fu', 'fu']	2	4	4	
+jie1kai1	jie1k#1	['jie', 'kai']	2	6	5	
+bao3	b#3	['bao']	1	3	2	
+na2	na2	['na']	1	2	2	
+huang2jin1	huaŋ2jin1	['huang', 'jin']	2	8	7	
+ru3xiang1	ru3xiaŋ1	['ru', 'xiang']	2	7	6	
+mo4yao4	mwo4y#4	['mo', 'yao']	2	5	5	
+li3wu4	li3wu4	['li', 'wu']	2	4	4	
+xian4	xian4	['xian']	1	4	4	
+hui2	hui2	['hui']	1	3	3	
+jian4	jian4	['jian']	1	4	4	
+bie2de	bie2de	['bie', 'de']	2	5	5	
+lu4	lu4	['lu']	1	2	2	
+ben3	ben3	['ben']	1	3	3	
+tao2	t#2	['tao']	1	3	2	
+ai1ji2	#1ji2	['ai', 'ji']	2	4	3	
+xun2zhao3	xun2$#3	['xun', 'zhao']	2	7	5	
+chu2mie3	$u2mie3	['chu', 'mie']	2	6	5	
+ye4	ye4	['ye']	1	2	2	
+jian1	jian1	['jian']	1	4	4	
+zhi2dao4	$i2d#4	['zhi', 'dao']	2	6	4	
+si3	si3	['si']	1	2	2	
+chu1	$u1	['chu']	1	3	2	
+wo3de	wo3de	['wo', 'de']	2	4	4	
+yu2nong4	yu2noŋ4	['yu', 'nong']	2	6	5	
+fa1nu4	fa1nu4	['fa', 'nu']	2	4	4	
+jing4	jjəŋ4	['jing']	1	4	4	
+suo3you3de	suo3y#3de	['suo', 'you', 'de']	3	8	7	
+nan2hai2	nan2h#2	['nan', 'hai']	2	6	5	
+cha2wen4	$a2wen4	['cha', 'wen']	2	6	5	
+fan2	fan2	['fan']	1	3	3	
+liang3	liaŋ3	['liang']	1	5	4	
+sui4	sui4	['sui']	1	3	3	
+yi3	yi3	['yi']	1	2	2	
+sha1	$a1	['sha']	1	3	2	
+ying4	yiŋ4	['ying']	1	4	3	
+ye1li4mi3	ye1li4mi3	['ye', 'li', 'mi']	3	6	6	
+la1ma3	la1ma3	['la', 'ma']	2	4	4	
+hao2	h#2	['hao']	1	3	2	
+da4	da4	['da']	1	2	2	
+ku1	ku1	['ku']	1	2	2	
+sheng1yin1	$eŋ1yin1	['sheng', 'yin']	2	8	6	
+la1jie2	la1jie2	['la', 'jie']	2	5	5	
+er2nv3	er2nv3	['er', 'nv']	2	4	4	
+ken3	ken3	['ken']	1	3	3	
+shou4	$#4	['shou']	1	4	2	
+an1wei4	an1w#4	['an', 'wei']	2	5	4	
+yi3hou4	yi3h#4	['yi', 'hou']	2	5	4	
+hai4	h#4	['hai']	1	3	2	
+xing4meng2	xjəŋ4meŋ2	['xing', 'meng']	2	8	7	
+zhi3	$i3	['zhi']	1	3	2	
+ya4ji1lao3	ya4ji1l#3	['ya', 'ji', 'lao']	3	7	6	
+jie1	jie1	['jie']	1	3	3	
+fu4qin	fu4qin	['fu', 'qin']	2	5	5	
+bian4	bian4	['bian']	1	4	4	
+jia1li4li4	jia1li4li4	['jia', 'li', 'li']	3	7	7	
+nei4	n#4	['nei']	1	3	2	
+na2sa3le4	na2sa3le4	['na', 'sa', 'le']	3	6	6	
+na4shi2	na4$i2	['na', 'shi']	2	5	4	
+shi1xi3de0yue1han4	$i1xi3de0ɥe1han4	['shi', 'xi', 'de', 'yue', 'han']	5	13	11	
+kuang4ye3	kuaŋ4ye3	['kuang', 'ye']	2	7	6	
+chuan2	$uan2	['chuan']	1	5	4	
+tian1guo2	tian1guo2	['tian', 'guo']	2	7	7	
+ying1dang1	yiŋ1daŋ1	['ying', 'dang']	2	8	6	
+hui3gai3	hui3g#3	['hui', 'gai']	2	6	5	
+yi3sai4ya4	yi3s#4ya4	['yi', 'sai', 'ya']	3	7	6	
+han3	han3	['han']	1	3	3	
+yu4bei4	yu4b#4	['yu', 'bei']	2	5	4	
+yue1han4	ɥe1han4	['yue', 'han']	2	6	5	
+shen1	$en1	['shen']	1	4	3	
+chuan1	$uan1	['chuan']	1	5	4	
+luo4tuo	luo4tuo	['luo', 'tuo']	2	6	6	
+mao2	m#2	['mao']	1	3	2	
+yi1fu	yi1fu	['yi', 'fu']	2	4	4	
+shu4	$u4	['shu']	1	3	2	
+pi2	pi2	['pi']	1	2	2	
+chi1	$i1	['chi']	1	3	2	
+huang2chong2	huaŋ2$oŋ2	['huang', 'chong']	2	10	7	
+mi4	mi4	['mi']	1	2	2	
+quan2	quan2	['quan']	1	4	4	
+yue1dan4he2	ɥe1dan4he2	['yue', 'dan', 'he']	3	8	7	
+qu	qu	['qu']	1	2	2	
+cheng2ren4	$eŋ2ren4	['cheng', 'ren']	2	8	6	
+ta1men0de	ta1men0de	['ta', 'men', 'de']	3	7	7	
+xi3	xi3	['xi']	1	2	2	
+xu3duo1	xu3duo1	['xu', 'duo']	2	5	5	
+fa3li4sai4ren2	fa3li4s#4ren2	['fa', 'li', 'sai', 'ren']	4	10	9	
+sa1du1gai1	sa1du1g#1	['sa', 'du', 'gai']	3	7	6	
+shou4xi3	$#4xi3	['shou', 'xi']	2	6	4	
+dui4	dui4	['dui']	1	3	3	
+du2she2	du2$e2	['du', 'she']	2	5	4	
+zhong3lei4	$oŋ3l#4	['zhong', 'lei']	2	8	5	
+shei2	$#2	['shei']	1	4	2	
+tao2bi4	t#2bi4	['tao', 'bi']	2	5	4	
+fen4	fen4	['fen']	1	3	3	
+nu4	nu4	['nu']	1	2	2	
+ne	ne	['ne']	1	2	2	
+guo3zi	guo3zi	['guo', 'zi']	2	5	5	
+xin1	xin1	['xin']	1	3	3	
+xiang1chen4	xiaŋ1$en4	['xiang', 'chen']	2	9	7	
+zu3zong	zu3zoŋ	['zu', 'zong']	2	6	5	
+gao4su	g#4su	['gao', 'su']	2	5	4	
+neng2	neŋ2	['neng']	1	4	3	
+zhe4xie	$e4xie	['zhe', 'xie']	2	6	5	
+shi2tou	$i2t#	['shi', 'tou']	2	6	4	
+xing1qi3	xjəŋ1qi3	['xing', 'qi']	2	6	6	
+xian4zai4	xian4z#4	['xian', 'zai']	2	7	6	
+fu3zi	fu3zi	['fu', 'zi']	2	4	4	
+fang4	faŋ4	['fang']	1	4	3	
+shu4gen1	$u4gen1	['shu', 'gen']	2	6	5	
+shang	$aŋ	['shang']	1	5	3	
+kan3	kan3	['kan']	1	3	3	
+diu1	diu1	['diu']	1	3	3	
+huo3	huo3	['huo']	1	3	3	
+yong4	yoŋ4	['yong']	1	4	3	
+shui3	$ui3	['shui']	1	4	3	
+shi1xi3	$i1xi3	['shi', 'xi']	2	5	4	
+dan4	dan4	['dan']	1	3	3	
+neng2li4	neŋ2li4	['neng', 'li']	2	6	5	
+bi3	bi3	['bi']	1	2	2	
+geng4	geŋ4	['geng']	1	4	3	
+ti2	ti2	['ti']	1	2	2	
+xie2	xie2	['xie']	1	3	3	
+pei4	p#4	['pei']	1	3	2	
+shou3	$#3	['shou']	1	4	2	
+bo4ji	bwo4ji	['bo', 'ji']	2	4	5	
+yang2	yaŋ2	['yang']	1	4	3	
+chang2	$aŋ2	['chang']	1	5	3	
+mai4zi	m#4zi	['mai', 'zi']	2	5	4	
+shou1	$#1	['shou']	1	4	2	
+cang1	caŋ1	['cang']	1	4	3	
+kang1	kaŋ1	['kang']	1	4	3	
+mie4	mie4	['mie']	1	3	3	
+huo3shao4	huo3$#4	['huo', 'shao']	2	7	5	
+lan2	lan2	['lan']	1	3	3	
+fan3	fan3	['fan']	1	3	3	
+zhe4li3	$e4li3	['zhe', 'li']	2	5	4	
+ma	ma	['ma']	1	2	2	
+zan4qie3	zan4qie3	['zan', 'qie']	2	6	6	
+xu3	xu3	['xu']	1	2	2	
+ban1	ban1	['ban']	1	3	3	
+huo4	huo4	['huo']	1	3	3	
+yu2shi4	yu2$i4	['yu', 'shi']	2	5	4	
+sui2	sui2	['sui']	1	3	3	
+tian1	tian1	['tian']	1	4	4	
+kai1	k#1	['kai']	1	3	2	
+ling2	ljəŋ2	['ling']	1	4	4	
+fang3fu2	faŋ3fu2	['fang', 'fu']	2	6	5	
+ge1zi	ge1zi	['ge', 'zi']	2	4	4	
+jiang4	jiaŋ4	['jiang']	1	5	4	
+luo4	luo4	['luo']	1	3	3	
+shen1shang	$en1$aŋ	['shen', 'shang']	2	9	6	
+ai4	#4	['ai']	1	2	1	
+xi3yue4	xi3ɥe4	['xi', 'yue']	2	5	4	
+dang1shi2	daŋ1$i2	['dang', 'shi']	2	7	5	
+yin3dao4	yin3d#4	['yin', 'dao']	2	6	5	
+mo2gui3	mwo2gui3	['mo', 'gui']	2	5	6	
+shi4tan	$i4tan	['shi', 'tan']	2	6	5	
+jin4shi2	jin4$i2	['jin', 'shi']	2	6	5	
+zhou4ye4	$#4ye4	['zhou', 'ye']	2	6	4	
+hou4lai2	h#4l#2	['hou', 'lai']	2	6	4	
+e4	e4	['e']	1	1	1	
+qian2	qian2	['qian']	1	4	4	
+ruo4	ruo4	['ruo']	1	3	3	
+ke3yi3	ke3yi3	['ke', 'yi']	2	4	4	
+bian4cheng2	bian4$eŋ2	['bian', 'cheng']	2	9	7	
+shi2wu4	$i2wu4	['shi', 'wu']	2	5	4	
+que4	que4	['que']	1	3	3	
+jing1	jjəŋ1	['jing']	1	4	4	
+huo2	huo2	['huo']	1	3	3	
+dan1	dan1	['dan']	1	3	3	
+kao4	k#4	['kao']	1	3	2	
+nai3	n#3	['nai']	1	3	2	
+kou3	k#3	['kou']	1	3	2	
+sheng4	$eŋ4	['sheng']	1	5	3	
+zhan4	$an4	['zhan']	1	4	3	
+dian4	dian4	['dian']	1	4	4	
+ding3	djəŋ3	['ding']	1	4	4	
+chi4	$i4	['chi']	1	3	2	
+tiao4	ti#4	['tiao']	1	4	3	
+tuo1	tuo1	['tuo']	1	3	3	
+mian3de2	mian3de2	['mian', 'de']	2	6	6	
+jiao3	ji#3	['jiao']	1	4	3	
+peng4	peŋ4	['peng']	1	4	3	
+bu4ke3	bu4ke3	['bu', 'ke']	2	4	4	
+gao1	g#1	['gao']	1	3	2	
+shan1	$an1	['shan']	1	4	3	
+shi4shang	$i4$aŋ	['shi', 'shang']	2	8	5	
+wan4	wan4	['wan']	1	3	3	
+guo2	guo2	['guo']	1	3	3	
+rong2hua2	roŋ2hua2	['rong', 'hua']	2	7	6	
+kan4	kan4	['kan']	1	3	3	
+ci4gei3	ci4g#3	['ci', 'gei']	2	5	4	
+sa1dan4	sa1dan4	['sa', 'dan']	2	5	5	
+tui4	tui4	['tui']	1	3	3	
+ba	ba	['ba']	1	2	2	
+di3dang3	di3daŋ3	['di', 'dang']	2	6	5	
+yi4si	yi4si	['yi', 'si']	2	4	4	
+bie2	bie2	['bie']	1	3	3	
+shi4feng4	$i4feŋ4	['shi', 'feng']	2	7	5	
+li2	li2	['li']	1	2	2	
+tian1shi3	tian1$i3	['tian', 'shi']	2	7	6	
+ci4hou	ci4h#	['ci', 'hou']	2	5	4	
+li2kai1	li2k#1	['li', 'kai']	2	5	4	
+jia1bai3nong2	jia1b#3noŋ2	['jia', 'bai', 'nong']	3	10	8	
+hai3	h#3	['hai']	1	3	2	
+xi1bu4lun2	xi1bu4lwən2	['xi', 'bu', 'lun']	3	7	8	
+na2fu2ta1li4	na2fu2ta1li4	['na', 'fu', 'ta', 'li']	4	8	8	
+bian1jie4	bian1jie4	['bian', 'jie']	2	7	7	
+yan2hai3	yan2h#3	['yan', 'hai']	2	6	5	
+wai4	w#4	['wai']	1	3	2	
+wai4bang1ren2	w#4baŋ1ren2	['wai', 'bang', 'ren']	3	10	8	
+hei1an4	h#1an4	['hei', 'an']	2	5	4	
+guang1	guaŋ1	['guang']	1	5	4	
+yin4	yin4	['yin']	1	3	3	
+fa1xian4	fa1xian4	['fa', 'xian']	2	6	6	
+na4shi2hou4	na4$i2h#4	['na', 'shi', 'hou']	3	8	6	
+qi3	qi3	['qi']	1	2	2	
+bian1	bian1	['bian']	1	4	4	
+zou3	z#3	['zou']	1	3	2	
+er4	er4	['er']	1	2	2	
+cheng1hu	$eŋ1hu	['cheng', 'hu']	2	7	5	
+bi3de2	bi3de2	['bi', 'de']	2	4	4	
+xi1men2	xi1men2	['xi', 'men']	2	5	5	
+xiong1di	xioŋ1di	['xiong', 'di']	2	7	6	
+an1de2lie4	an1de2lie4	['an', 'de', 'lie']	3	7	7	
+sa1	sa1	['sa']	1	2	2	
+da3	da3	['da']	1	2	2	
+yu2	yu2	['yu']	1	2	2	
+gen1	gen1	['gen']	1	3	3	
+de2	de2	['de']	1	2	2	
+ru2	ru2	['ru']	1	2	2	
+yi2yang4	yi2yaŋ4	['yi', 'yang']	2	6	5	
+li4ke4	li4ke4	['li', 'ke']	2	4	4	
+she3	$e3	['she']	1	3	2	
+wang4	waŋ4	['wang']	1	4	3	
+xi1bi4tai4	xi1bi4t#4	['xi', 'bi', 'tai']	3	7	6	
+bu3	bu3	['bu']	1	2	2	
+zhao1hu1	$#1hu1	['zhao', 'hu']	2	6	4	
+ge4	ge4	['ge']	1	2	2	
+gong1tang2	goŋ1taŋ2	['gong', 'tang']	2	8	6	
+jiao4xun	ji#4xun	['jiao', 'xun']	2	7	6	
+fu2yin	fu2yin	['fu', 'yin']	2	5	5	
+yi1zhi4	yi1$i4	['yi', 'zhi']	2	5	4	
+ge4yang4	ge4yaŋ4	['ge', 'yang']	2	6	5	
+bing4zheng4	bjəŋ4$eŋ4	['bing', 'zheng']	2	9	7	
+ming2sheng	mjəŋ2$eŋ	['ming', 'sheng']	2	9	7	
+xi4li4ya4	xi4li4ya4	['xi', 'li', 'ya']	3	6	6	
+ji2bing4	ji2bjəŋ4	['ji', 'bing']	2	6	6	
+teng2tong4	teŋ2toŋ4	['teng', 'tong']	2	8	6	
+gui3	gui3	['gui']	1	3	3	
+fu4	fu4	['fu']	1	2	2	
+dian1xian2	dian1xian2	['dian', 'xian']	2	8	8	
+tan1huan4	tan1huan4	['tan', 'huan']	2	7	7	
+hao4	h#4	['hao']	1	3	2	
+di1jia1bo1li4	di1jia1bwo1li4	['di', 'jia', 'bo', 'li']	4	9	10	
+men2tu3	men2tu3	['men', 'tu']	2	5	5	
+gen1qian2	gen1qian2	['gen', 'qian']	2	7	7	
+kai1kou3	k#1k#3	['kai', 'kou']	2	6	4	
+xu1xin1	xu1xin1	['xu', 'xin']	2	5	5	
+fu2	fu2	['fu']	1	2	2	
+ai1	#1	['ai']	1	2	1	
+tong4	toŋ4	['tong']	1	4	3	
+wen1rou2	wen1r#2	['wen', 'rou']	2	6	5	
+cheng2shou4	$eŋ2$#4	['cheng', 'shou']	2	9	5	
+tu3	tu3	['tu']	1	2	2	
+ji1ke3	ji1ke3	['ji', 'ke']	2	4	4	
+bao3zu2	b#3zu2	['bao', 'zu']	2	5	4	
+lian2xu4	lian2xu4	['lian', 'xu']	2	6	6	
+meng2	meŋ2	['meng']	1	4	3	
+qing1	qjəŋ1	['qing']	1	4	4	
+shi3	$i3	['shi']	1	3	2	
+he2mu4	he2mu4	['he', 'mu']	2	4	4	
+bi1po4	bi1pwo4	['bi', 'po']	2	4	5	
+ru3ma4	ru3ma4	['ru', 'ma']	2	4	4	
+nie1zao4	nie1z#4	['nie', 'zao']	2	6	5	
+huai4hua4	hu#4hua4	['huai', 'hua']	2	7	6	
+hui3bang4	hui3baŋ4	['hui', 'bang']	2	7	6	
+kuai4le4	ku#4le4	['kuai', 'le']	2	6	5	
+shang3ci4	$aŋ3ci4	['shang', 'ci']	2	7	5	
+yi3qian2	yi3qian2	['yi', 'qian']	2	6	6	
+yan2	yan2	['yan']	1	3	3	
+shi1	$i1	['shi']	1	3	2	
+zen3	zen3	['zen']	1	3	3	
+xian2	xian2	['xian']	1	4	4	
+wu2yong4	wu2yoŋ4	['wu', 'yong']	2	6	5	
+guo4	guo4	['guo']	1	3	3	
+wai4mian4	w#4mian4	['wai', 'mian']	2	7	6	
+jian4ta4	jian4ta4	['jian', 'ta']	2	6	6	
+zao4	z#4	['zao']	1	3	2	
+bu4neng2	bu4neŋ2	['bu', 'neng']	2	6	5	
+yin3cang2	yin3caŋ2	['yin', 'cang']	2	7	6	
+dian3	dian3	['dian']	1	4	4	
+deng1	deŋ1	['deng']	1	4	3	
+dou3	d#3	['dou']	1	3	2	
+di3	di3	['di']	1	2	2	
+deng1tai2	deŋ1t#2	['deng', 'tai']	2	7	5	
+zhao4liang4	$#4liaŋ4	['zhao', 'liang']	2	9	6	
+jia1	jia1	['jia']	1	3	3	
+xing2wei2	xjəŋ2w#2	['xing', 'wei']	2	7	6	
+rong2yao4	roŋ2y#4	['rong', 'yao']	2	7	5	
+gui1	gui1	['gui']	1	3	3	
+mo4xiang3	mwo4xiaŋ3	['mo', 'xiang']	2	7	7	
+fei4diao4	f#4di#4	['fei', 'diao']	2	7	5	
+lv4fa3	lv4fa3	['lv', 'fa']	2	4	4	
+cheng2quan2	$eŋ2quan2	['cheng', 'quan']	2	9	7	
+shi2zai4	$i2z#4	['shi', 'zai']	2	6	4	
+tian1di4	tian1di4	['tian', 'di']	2	6	6	
+du1	du1	['du']	1	2	2	
+fei4	f#4	['fei']	1	3	2	
+yi2dian3	yi2dian3	['yi', 'dian']	2	6	6	
+suo3yi3	suo3yi3	['suo', 'yi']	2	5	5	
+wu2lun4	wu2lwən4	['wu', 'lun']	2	5	6	
+jie4meng2	jie4meŋ2	['jie', 'meng']	2	7	6	
+tiao2	ti#2	['tiao']	1	4	3	
+zun1xing2	zwən1xjəŋ2	['zun', 'xing']	2	7	8	
+duan4	duan4	['duan']	1	4	4	
+gu3ren2	gu3ren2	['gu', 'ren']	2	5	5	
+sha1ren2	$a1ren2	['sha', 'ren']	2	6	5	
+nan2mian3	nan2mian3	['nan', 'mian']	2	7	7	
+shen3pan4	$en3pan4	['shen', 'pan']	2	7	6	
+dong4nu4	doŋ4nu4	['dong', 'nu']	2	6	5	
+zi4	zi4	['zi']	1	2	2	
+wu2yuan2wu2gu4	wu2ɥæn2wu2gu4	['wu', 'yuan', 'wu', 'gu']	4	10	9	
+wu3	wu3	['wu']	1	2	2	
+ma4	ma4	['ma']	1	2	2	
+la1	la1	['la']	1	2	2	
+gong1hui4	goŋ1hui4	['gong', 'hui']	2	7	6	
+shen3	$en3	['shen']	1	4	3	
+mo2	mwo2	['mo']	1	2	3	
+li4	li4	['li']	1	2	2	
+di4yu4	di4yu4	['di', 'yu']	2	4	4	
+ji4tan2	ji4tan2	['ji', 'tan']	2	5	5	
+xiang3qi3	xiaŋ3qi3	['xiang', 'qi']	2	7	6	
+yuan4	ɥæn4	['yuan']	1	4	3	
+liu2	liu2	['liu']	1	3	3	
+tan2	tan2	['tan']	1	3	3	
+xian1	xian1	['xian']	1	4	4	
+he2hao3	he2h#3	['he', 'hao']	2	5	4	
+ran2hou4	ran2h#4	['ran', 'hou']	2	6	5	
+gao4	g#4	['gao']	1	3	2	
+dui4tou2	dui4t#2	['dui', 'tou']	2	6	5	
+gan3jin3	gan3jin3	['gan', 'jin']	2	6	6	
+xi1	xi1	['xi']	1	2	2	
+kong3pa4	koŋ3pa4	['kong', 'pa']	2	6	5	
+song4	soŋ4	['song']	1	4	3	
+guan1	guan1	['guan']	1	4	4	
+jiao1fu4	ji#1fu4	['jiao', 'fu']	2	6	5	
+ya2yi	ya2yi	['ya', 'yi']	2	4	4	
+jian1li3	jian1li3	['jian', 'li']	2	6	6	
+yi1wen2qian2	yi1wen2qian2	['yi', 'wen', 'qian']	3	9	9	
+huan2qing1	huan2qjəŋ1	['huan', 'qing']	2	8	8	
+jian1yin2	jian1yin2	['jian', 'yin']	2	7	7	
+fu4nv3	fu4nv3	['fu', 'nv']	2	4	4	
+dong4	doŋ4	['dong']	1	4	3	
+yin2nian4	yin2nian4	['yin', 'nian']	2	7	7	
+fan4	fan4	['fan']	1	3	3	
+yan3	yan3	['yan']	1	3	3	
+die1dao3	die1d#3	['die', 'dao']	2	6	5	
+wa1	wa1	['wa']	1	2	2	
+diu1diao4	diu1di#4	['diu', 'diao']	2	7	6	
+neng2ke3	neŋ2ke3	['neng', 'ke']	2	6	5	
+shi1qu4	$i1qu4	['shi', 'qu']	2	5	4	
+bai3	b#3	['bai']	1	3	2	
+ti3	ti3	['ti']	1	2	2	
+you4shou3	y#4$#3	['you', 'shou']	2	7	4	
+qi1	qi1	['qi']	1	2	2	
+shu1	$u1	['shu']	1	3	2	
+yin2luan4	yin2luan4	['yin', 'luan']	2	7	7	
+yuan2gu4	ɥæn2gu4	['yuan', 'gu']	2	6	5	
+yin2	yin2	['yin']	1	3	3	
+fu4ren2	fu4ren2	['fu', 'ren']	2	5	5	
+zong3	zoŋ3	['zong']	1	4	3	
+jin3	jin3	['jin']	1	3	3	
+qi3shi4	qi3$i4	['qi', 'shi']	2	5	4	
+zuo4wei	zuo4w#	['zuo', 'wei']	2	6	5	
+deng4	deŋ4	['deng']	1	4	3	
+jun1	jun1	['jun']	1	3	3	
+jing1cheng2	jjəŋ1$eŋ2	['jing', 'cheng']	2	9	7	
+tou2fa	t#2fa	['tou', 'fa']	2	5	4	
+hei1	h#1	['hei']	1	3	2	
+bai2	b#2	['bai']	1	3	2	
+duo1	duo1	['duo']	1	3	3	
+chu1yu2	$u1yu2	['chu', 'yu']	2	5	4	
+zhe3	$e3	['zhe']	1	3	2	
+huan2	huan2	['huan']	1	4	4	
+ya2	ya2	['ya']	1	2	2	
+zuo4dui4	zuo4dui4	['zuo', 'dui']	2	6	6	
+lian3	lian3	['lian']	1	4	4	
+lian2	lian2	['lian']	1	4	4	
+zuo3	zuo3	['zuo']	1	3	3	
+zhuan3	$uan3	['zhuan']	1	5	4	
+you2	y#2	['you']	1	3	2	
+wai4yi1	w#4yi1	['wai', 'yi']	2	5	4	
+qiang3bi1	qiaŋ3bi1	['qiang', 'bi']	2	7	6	
+qiu2	qiu2	['qiu']	1	3	3	
+tui1ci2	tui1ci2	['tui', 'ci']	2	5	5	
+lin2she4	lin2$e4	['lin', 'she']	2	6	5	
+hen4	hen4	['hen']	1	3	3	
+chou2di2	$#2di2	['chou', 'di']	2	6	4	
+dao3gao4	d#3g#4	['dao', 'gao']	2	6	4	
+ri4tou	ri4t#	['ri', 'tou']	2	5	4	
+dai3	d#3	['dai']	1	3	2	
+shui4li4	$ui4li4	['shui', 'li']	2	6	5	
+qing3	qjəŋ3	['qing']	1	4	4	
+chu	$u	['chu']	1	3	2	
+wan2quan2	wan2quan2	['wan', 'quan']	2	7	7	
+xiao3xin1	xi#3xin1	['xiao', 'xin']	2	7	6	
+shan4	$an4	['shan']	1	4	3	
+mian4qian2	mian4qian2	['mian', 'qian']	2	8	8	
+gu4yi4	gu4yi4	['gu', 'yi']	2	4	4	
+shi1she3	$i1$e3	['shi', 'she']	2	6	4	
+qian2mian	qian2mian	['qian', 'mian']	2	8	8	
+chui1hao4	$ui1h#4	['chui', 'hao']	2	7	5	
+jia3mao4wei2shan4de0ren2	jia3m#4w#2$an4de0ren2	['jia', 'mao', 'wei', 'shan', 'de', 'ren']	6	18	15	
+jie1dao4	jie1d#4	['jie', 'dao']	2	6	5	
+shang3	$aŋ3	['shang']	1	5	3	
+zuo3shou3	zuo3$#3	['zuo', 'shou']	2	7	5	
+zhi1dao4	$i1d#4	['zhi', 'dao']	2	6	4	
+an4zhong1	an4$oŋ1	['an', 'zhong']	2	7	5	
+cha2kan4	$a2kan4	['cha', 'kan']	2	6	5	
+bao4da2	b#4da2	['bao', 'da']	2	5	4	
+ming2chu4	mjəŋ2$u4	['ming', 'chu']	2	7	6	
+shi2zi4lu4kou3	$i2zi4lu4k#3	['shi', 'zi', 'lu', 'kou']	4	10	8	
+wu1	wu1	['wu']	1	2	2	
+men2	men2	['men']	1	3	3	
+bi4ran2	bi4ran2	['bi', 'ran']	2	5	5	
+chong2fu4	$oŋ2fu4	['chong', 'fu']	2	7	5	
+yi3wei2	yi3w#2	['yi', 'wei']	2	5	4	
+chui2	$ui2	['chui']	1	4	3	
+ting1	tjəŋ1	['ting']	1	4	4	
+xiao4fa3	xi#4fa3	['xiao', 'fa']	2	6	5	
+qi2qiu2	qi2qiu2	['qi', 'qiu']	2	5	5	
+xu1	xu1	['xu']	1	2	2	
+zao3	z#3	['zao']	1	3	2	
+jiang4lin2	jiaŋ4lin2	['jiang', 'lin']	2	8	7	
+zhi3yi4	$i3yi4	['zhi', 'yi']	2	5	4	
+ru2tong2	ru2toŋ2	['ru', 'tong']	2	6	5	
+ri4yong4	ri4yoŋ4	['ri', 'yong']	2	6	5	
+yin3shi2	yin3$i2	['yin', 'shi']	2	6	5	
+jin1ri4	jin1ri4	['jin', 'ri']	2	5	5	
+mian3	mian3	['mian']	1	4	4	
+zhai4	$#4	['zhai']	1	4	2	
+yu4jian4	yu4jian4	['yu', 'jian']	2	6	6	
+tuo1li2	tuo1li2	['tuo', 'li']	2	5	5	
+xion1ge4	xion1ge4	['xion', 'ge']	2	6	6	
+guo2du4	guo2du4	['guo', 'du']	2	5	5	
+quan2bing3	quan2bjəŋ3	['quan', 'bing']	2	8	8	
+yong3yuan3	yoŋ3ɥæn3	['yong', 'yuan']	2	8	6	
+a1men2	a1men2	['a', 'men']	2	4	4	
+wu2	wu2	['wu']	1	2	2	
+rao2shu4	r#2$u4	['rao', 'shu']	2	6	4	
+chou2rong2	$#2roŋ2	['chou', 'rong']	2	8	5	
+nong4	noŋ4	['nong']	1	4	3	
+nan2kan4	nan2kan4	['nan', 'kan']	2	6	6	
+shu1tou2	$u1t#2	['shu', 'tou']	2	6	4	
+ji1zan3	ji1zan3	['ji', 'zan']	2	5	5	
+cai2bao3	c#2b#3	['cai', 'bao']	2	6	4	
+chong2zi	$oŋ2zi	['chong', 'zi']	2	7	5	
+yao3	y#3	['yao']	1	3	2	
+xiu4	xiu4	['xiu']	1	3	3	
+huai4	hu#4	['huai']	1	4	3	
+zei2	z#2	['zei']	1	3	2	
+ku1long2	ku1loŋ2	['ku', 'long']	2	6	5	
+tou1	t#1	['tou']	1	3	2	
+zhi3yao4	$i3y#4	['zhi', 'yao']	2	6	4	
+yan3jing	yan3jjəŋ	['yan', 'jing']	2	7	7	
+liang4	liaŋ4	['liang']	1	5	4	
+guang1ming2	guaŋ1mjəŋ2	['guang', 'ming']	2	9	8	
+hun1hua1	hwən1hua1	['hun', 'hua']	2	6	7	
+li3tou	li3t#	['li', 'tou']	2	5	4	
+he2deng3	he2deŋ3	['he', 'deng']	2	6	5	
+ge4ren2	ge4ren2	['ge', 'ren']	2	5	5	
+zhe4ge	$e4ge	['zhe', 'ge']	2	5	4	
+na4ge	na4ge	['na', 'ge']	2	4	4	
+zhong4	$oŋ4	['zhong']	1	5	3	
+ma3men2	ma3men2	['ma', 'men']	2	5	5	
+cai2	c#2	['cai']	1	3	2	
+sheng1ming4	$eŋ1mjəŋ4	['sheng', 'ming']	2	9	7	
+you1lv4	y#1lv4	['you', 'lv']	2	5	4	
+he1	he1	['he']	1	2	2	
+shen1ti3	$en1ti3	['shen', 'ti']	2	6	5	
+yi1shang	yi1$aŋ	['yi', 'shang']	2	7	5	
+fei1niao3	f#1ni#3	['fei', 'niao']	2	7	5	
+ji1xu4	ji1xu4	['ji', 'xu']	2	4	4	
+shang4qie3	$aŋ4qie3	['shang', 'qie']	2	8	6	
+yang3huo	yaŋ3huo	['yang', 'huo']	2	7	6	
+gui4zhong4	gui4$oŋ4	['gui', 'zhong']	2	8	6	
+si1lv4	si1lv4	['si', 'lv']	2	4	4	
+shou4shu	$#4$u	['shou', 'shu']	2	7	4	
+ke4	ke4	['ke']	1	2	2	
+shen1liang	$en1liaŋ	['shen', 'liang']	2	9	7	
+zhou3	$#3	['zhou']	1	4	2	
+he2bi4	he2bi4	['he', 'bi']	2	4	4	
+ye3di4	ye3di4	['ye', 'di']	2	4	4	
+bai3he2hua1	b#3he2hua1	['bai', 'he', 'hua']	3	8	7	
+zen3yang4	zen3yaŋ4	['zen', 'yang']	2	7	6	
+zhang3	$aŋ3	['zhang']	1	5	3	
+lao2ku3	l#2ku3	['lao', 'ku']	2	5	4	
+ran2er2	ran2er2	['ran', 'er']	2	5	5	
+ji2	ji2	['ji']	1	2	2	
+chuan1dai4	$uan1d#4	['chuan', 'dai']	2	8	6	
+hua1	hua1	['hua']	1	3	3	
+duo3	duo3	['duo']	1	3	3	
+xin4	xin4	['xin']	1	3	3	
+na3	na3	['na']	1	2	2	
+cao3	c#3	['cao']	1	3	2	
+jin1tian1	jin1tian1	['jin', 'tian']	2	7	7	
+ming2tian1	mjəŋ2tian1	['ming', 'tian']	2	8	8	
+lu2	lu2	['lu']	1	2	2	
+zhuang1shi4	$uaŋ1$i4	['zhuang', 'shi']	2	9	6	
+he2kuang4	he2kuaŋ4	['he', 'kuang']	2	7	6	
+dong1xi	doŋ1xi	['dong', 'xi']	2	6	5	
+nan2	nan2	['nan']	1	3	3	
+gou4	g#4	['gou']	1	3	2	
+lun4duan4	lwən4duan4	['lun', 'duan']	2	7	8	
+liang2qi4	liaŋ2qi4	['liang', 'qi']	2	7	6	
+liang2	liaŋ2	['liang']	1	5	4	
+wei4shen2me	w#4$en2me	['wei', 'shen', 'me']	3	9	7	
+ci4	ci4	['ci']	1	2	2	
+liang2mu4	liaŋ2mu4	['liang', 'mu']	2	7	6	
+rong2	roŋ2	['rong']	1	4	3	
+qu4diao4	qu4di#4	['qu', 'diao']	2	6	5	
+cai2neng2	c#2neŋ2	['cai', 'neng']	2	7	5	
+qing1chu	qjəŋ1$u	['qing', 'chu']	2	7	6	
+sheng4wu4	$eŋ4wu4	['sheng', 'wu']	2	7	5	
+gou3	g#3	['gou']	1	3	2	
+zhen1zhu1	$en1$u1	['zhen', 'zhu']	2	7	5	
+kou4	k#4	['kou']	1	3	2	
+zhao2	$#2	['zhao']	1	4	2	
+zhong1jian1	$oŋ1jian1	['zhong', 'jian']	2	9	7	
+shui2	$ui2	['shui']	1	4	3	
+bing3	bjəŋ3	['bing']	1	4	4	
+she2	$e2	['she']	1	3	2	
+sui1ran2	sui1ran2	['sui', 'ran']	2	6	6	
+qi3bu4	qi3bu4	['qi', 'bu']	2	4	4	
+dao4li3	d#4li3	['dao', 'li']	2	5	4	
+zhai3	$#3	['zhai']	1	4	2	
+mie4wang2	mie4waŋ2	['mie', 'wang']	2	7	6	
+kuan1	kuan1	['kuan']	1	4	4	
+yong3sheng1	yoŋ3$eŋ1	['yong', 'sheng']	2	9	6	
+zhao3	$#3	['zhao']	1	4	2	
+shao3	$#3	['shao']	1	4	2	
+fang2bei4	faŋ2b#4	['fang', 'bei']	2	7	5	
+jia3	jia3	['jia']	1	3	3	
+pi1	pi1	['pi']	1	2	2	
+yang2pi2	yaŋ2pi2	['yang', 'pi']	2	6	5	
+li3mian4	li3mian4	['li', 'mian']	2	6	6	
+can2bao4	can2b#4	['can', 'bao']	2	6	5	
+lang2	laŋ2	['lang']	1	4	3	
+ping2	pjəŋ2	['ping']	1	4	4	
+ren4	ren4	['ren']	1	3	3	
+jing1ji2	jjəŋ1ji2	['jing', 'ji']	2	6	6	
+qi3neng2	qi3neŋ2	['qi', 'neng']	2	6	5	
+zhai1	$#1	['zhai']	1	4	2	
+pu2tao4	pu2t#4	['pu', 'tao']	2	5	4	
+ji2li	ji2li	['ji', 'li']	2	4	4	
+wu2hua1guo3	wu2hua1guo3	['wu', 'hua', 'guo']	3	8	8	
+wei2du2	w#2du2	['wei', 'du']	2	5	4	
+ri4	ri4	['ri']	1	2	2	
+feng4	feŋ4	['feng']	1	4	3	
+gan3	gan3	['gan']	1	3	3	
+yi4neng2	yi4neŋ2	['yi', 'neng']	2	6	5	
+cong2lai2	coŋ2l#2	['cong', 'lai']	2	7	5	
+ren4shi	ren4$i	['ren', 'shi']	2	6	5	
+hao3bi3	h#3bi3	['hao', 'bi']	2	5	4	
+cong1ming	coŋ1mjəŋ	['cong', 'ming']	2	8	7	
+gai4	g#4	['gai']	1	3	2	
+pan2shi2	pan2$i2	['pan', 'shi']	2	6	5	
+lin2	lin2	['lin']	1	3	3	
+chong1	$oŋ1	['chong']	1	5	3	
+feng1	feŋ1	['feng']	1	4	3	
+chui1	$ui1	['chui']	1	4	3	
+zhuang4	$uaŋ4	['zhuang']	1	6	4	
+dao3ta1	d#3ta1	['dao', 'ta']	2	5	4	
+gen1ji1	gen1ji1	['gen', 'ji']	2	5	5	
+ge2	ge2	['ge']	1	2	2	
+wu2zhi1	wu2$i1	['wu', 'zhi']	2	5	4	
+bing4qie3	bjəŋ4qie3	['bing', 'qie']	2	7	7	
+hen3	hen3	['hen']	1	3	3	
+jiang3	jiaŋ3	['jiang']	1	5	4	
+wan2	wan2	['wan']	1	3	3	
+zhong4ren2	$oŋ4ren2	['zhong', 'ren']	2	8	6	
+xi1qi2	xi1qi2	['xi', 'qi']	2	4	4	
+zhang3da4	$aŋ3da4	['zhang', 'da']	2	7	5	
+ma2	ma2	['ma']	1	2	2	
+jie2jing4	jie2jjəŋ4	['jie', 'jing']	2	7	7	
+shen1shou3	$en1$#3	['shen', 'shou']	2	8	5	
+mo1	mwo1	['mo']	1	2	3	
+da4ma2feng1	da4ma2feŋ1	['da', 'ma', 'feng']	3	8	7	
+qie4	qie4	['qie']	1	3	3	
+ji4si1	ji4si1	['ji', 'si']	2	4	4	
+xian4shang	xian4$aŋ	['xian', 'shang']	2	9	7	
+mo2xi1	mwo2xi1	['mo', 'xi']	2	4	5	
+zheng4ju4	$eŋ4ju4	['zheng', 'ju']	2	7	5	
+bai3fu1zhang3	b#3fu1$aŋ3	['bai', 'fu', 'zhang']	3	10	7	
+pu2ren2	pu2ren2	['pu', 'ren']	2	5	5	
+tan1huan4bing4	tan1huan4bjəŋ4	['tan', 'huan', 'bing']	3	11	11	
+tang3	taŋ3	['tang']	1	4	3	
+jia	jia	['jia']	1	3	3	
+shen4	$en4	['shen']	1	4	3	
+teng2ku3	teŋ2ku3	['teng', 'ku']	2	6	5	
+she4	$e4	['she']	1	3	2	
+bu4gan3dang1	bu4gan3daŋ1	['bu', 'gan', 'dang']	3	9	8	
+ju4	ju4	['ju']	1	2	2	
+bing1	bjəŋ1	['bing']	1	4	4	
+yi3xia4	yi3xia4	['yi', 'xia']	2	5	5	
+zhe4me	$e4me	['zhe', 'me']	2	5	4	
+xin4xin1	xin4xin1	['xin', 'xin']	2	6	6	
+dong1	doŋ1	['dong']	1	4	3	
+yi1tong2	yi1toŋ2	['yi', 'tong']	2	6	5	
+zuo4xi2	zuo4xi2	['zuo', 'xi']	2	5	5	
+wei2you3	w#2y#3	['wei', 'you']	2	6	4	
+zi3min2	zi3min2	['zi', 'min']	2	5	5	
+wai4bian1	w#4bian1	['wai', 'bian']	2	7	6	
+bi4yao4	bi4y#4	['bi', 'yao']	2	5	4	
+ai1ku1	#1ku1	['ai', 'ku']	2	4	3	
+qie4chi3	qie4$i3	['qie', 'chi']	2	6	5	
+yue4mu3	ɥe4mu3	['yue', 'mu']	2	5	4	
+re4	re4	['re']	1	2	2	
+fu2shi4	fu2$i4	['fu', 'shi']	2	5	4	
+wan3shang	wan3$aŋ	['wan', 'shang']	2	8	6	
+dai4ti4	d#4ti4	['dai', 'ti']	2	5	4	
+ruan3fuo4	ruan3fuo4	['ruan', 'fuo']	2	7	7	
+dan1dang1	dan1daŋ1	['dan', 'dang']	2	7	6	
+du4	du4	['du']	1	2	2	
+na4bian1	na4bian1	['na', 'bian']	2	6	6	
+fu1zi3	fu1zi3	['fu', 'zi']	2	4	4	
+hu2li	hu2li	['hu', 'li']	2	4	4	
+tian1kong1	tian1koŋ1	['tian', 'kong']	2	8	7	
+wo1	wo1	['wo']	1	2	2	
+ren2zi3	ren2zi3	['ren', 'zi']	2	5	5	
+zhen3tou	$en3t#	['zhen', 'tou']	2	7	5	
+mai2zang4	m#2zaŋ4	['mai', 'zang']	2	7	5	
+ren4ping2	ren4pjəŋ2	['ren', 'ping']	2	7	7	
+bao4feng1	b#4feŋ1	['bao', 'feng']	2	7	5	
+shen4zhi4	$en4$i4	['shen', 'zhi']	2	7	5	
+bo1	bwo1	['bo']	1	2	3	
+lang4	laŋ4	['lang']	1	4	3	
+yan3gai4	yan3g#4	['yan', 'gai']	2	6	5	
+shui4	$ui4	['shui']	1	4	3	
+jiao4xing3	ji#4xjəŋ3	['jiao', 'xing']	2	8	7	
+sang4meng2	saŋ4meŋ2	['sang', 'meng']	2	8	6	
+la	la	['la']	1	2	2	
+dan3qie4	dan3qie4	['dan', 'qie']	2	6	6	
+chi4ze2	$i4ze2	['chi', 'ze']	2	5	4	
+ping2jing4	pjəŋ2jjəŋ4	['ping', 'jing']	2	8	8	
+jia1da4la1ren2	jia1da4la1ren2	['jia', 'da', 'la', 'ren']	4	10	10	
+fun4ying2	fwən4yiŋ2	['fun', 'ying']	2	7	7	
+ji2qi2	ji2qi2	['ji', 'qi']	2	4	4	
+xiong1meng3	xioŋ1meŋ3	['xiong', 'meng']	2	9	7	
+jing1guo4	jjəŋ1guo4	['jing', 'guo']	2	7	7	
+xiang1gan1	xiaŋ1gan1	['xiang', 'gan']	2	8	7	
+ku3	ku3	['ku']	1	2	2	
+yuan3	ɥæn3	['yuan']	1	4	3	
+qun2	qun2	['qun']	1	3	3	
+yang1qiu2	yaŋ1qiu2	['yang', 'qiu']	2	7	6	
+da3fa	da3fa	['da', 'fa']	2	4	4	
+jin4ru4	jin4ru4	['jin', 'ru']	2	5	5	
+chuang3	$uaŋ3	['chuang']	1	6	4	
+shan1ya2	$an1ya2	['shan', 'ya']	2	6	5	
+yan1si3	yan1si3	['yan', 'si']	2	5	5	
+tao2pao3	t#2p#3	['tao', 'pao']	2	6	4	
+zao1yu4	z#1yu4	['zao', 'yu']	2	5	4	
+ying2jian4	yiŋ2jian4	['ying', 'jian']	2	8	7	
+jing4jie4	jjəŋ4jie4	['jing', 'jie']	2	7	7	
+ru4zi	ru4zi	['ru', 'zi']	2	4	4	
+tai2	t#2	['tai']	1	3	2	
+tan1zi	tan1zi	['tan', 'zi']	2	5	5	
+xiao3zi	xi#3zi	['xiao', 'zi']	2	6	5	
+fang4xin1	faŋ4xin1	['fang', 'xin']	2	7	6	
+jian4wang4	jian4waŋ4	['jian', 'wang']	2	8	7	
+xin1yi4	xin1yi4	['xin', 'yi']	2	5	5	
+nian4	nian4	['nian']	1	4	4	
+rong2yi	roŋ2yi	['rong', 'yi']	2	6	5	
+jing1qi2	jjəŋ1qi2	['jing', 'qi']	2	6	6	
+ma3tai4	ma3t#4	['ma', 'tai']	2	5	4	
+hao3xie1	h#3xie1	['hao', 'xie']	2	6	5	
+xian1sheng	xian1$eŋ	['xian', 'sheng']	2	9	7	
+yi1sheng1	yi1$eŋ1	['yi', 'sheng']	2	7	5	
+xi3ai4	xi3#4	['xi', 'ai']	2	4	3	
+ji4si4	ji4si4	['ji', 'si']	2	4	4	
+qie3	qie3	['qie']	1	3	3	
+chuai3mo2	$u#3mwo2	['chuai', 'mo']	2	7	6	
+chang2chang2	$aŋ2$aŋ2	['chang', 'chang']	2	10	6	
+xin1lang2	xin1laŋ2	['xin', 'lang']	2	7	6	
+pei2ban4	p#2ban4	['pei', 'ban']	2	6	5	
+ri4zi	ri4zi	['ri', 'zi']	2	4	4	
+po4	pwo4	['po']	1	2	3	
+mei2	m#2	['mei']	1	3	2	
+jiu3	jiu3	['jiu']	1	3	3	
+zhuang1	$uaŋ1	['zhuang']	1	6	4	
+pi2dai4	pi2d#4	['pi', 'dai']	2	5	4	
+lie4	lie4	['lie']	1	3	3	
+lou4	l#4	['lou']	1	3	2	
+liang3yang4	liaŋ3yaŋ4	['liang', 'yang']	2	9	7	
+bao3quan2	b#3quan2	['bao', 'quan']	2	7	6	
+guan3	guan3	['guan']	1	4	4	
+nv3er2	nv3er2	['nv', 'er']	2	4	4	
+gang1cai2	gaŋ1c#2	['gang', 'cai']	2	7	5	
+an4	an4	['an']	1	2	2	
+nv3ren2	nv3ren2	['nv', 'ren']	2	5	5	
+huan4	huan4	['huan']	1	4	4	
+nian2	nian2	['nian']	1	4	4	
+xue4	xue4	['xue']	1	3	3	
+quan2yu4	quan2yu4	['quan', 'yu']	2	6	6	
+luan4	luan4	['luan']	1	4	4	
+nang1	naŋ1	['nang']	1	4	3	
+gui1nv3	gui1nv3	['gui', 'nv']	2	5	5	
+chi1xiao4	$i1xi#4	['chi', 'xiao']	2	7	5	
+nian3	nian3	['nian']	1	4	4	
+feng1sheng1	feŋ1$eŋ1	['feng', 'sheng']	2	9	6	
+xia1zi	xia1zi	['xia', 'zi']	2	5	5	
+han3jiao4	han3ji#4	['han', 'jiao']	2	7	6	
+ke3lian4	ke3lian4	['ke', 'lian']	2	6	6	
+zhu3fu	$u3fu	['zhu', 'fu']	2	5	4	
+ya3ba	ya3ba	['ya', 'ba']	2	4	4	
+xiang1	xiaŋ1	['xiang']	1	5	4	
+xuan1jiang3	xuan1jiaŋ3	['xuan', 'jiang']	2	9	8	
+lian2min3	lian2min3	['lian', 'min']	2	7	7	
+kun4ku3	kwən4ku3	['kun', 'ku']	2	5	6	
+mu4ren2	mu4ren2	['mu', 'ren']	2	5	5	
+yi4ban1	yi4ban1	['yi', 'ban']	2	5	5	
+zhuang1jia	$uaŋ1jia	['zhuang', 'jia']	2	9	7	
+gong1	goŋ1	['gong']	1	4	3	
+gong1ren2	goŋ1ren2	['gong', 'ren']	2	7	6	
+zhu2	$u2	['zhu']	1	3	2	
+wu1gui3	wu1gui3	['wu', 'gui']	2	5	5	
+shi3tu2	$i3tu2	['shi', 'tu']	2	5	4	
+fei2li4	f#2li4	['fei', 'li']	2	5	4	
+ba1duo1luo2mai3	ba1duo1luo2m#3	['ba', 'duo', 'luo', 'mai']	4	11	10	
+duo1ma3	duo1ma3	['duo', 'ma']	2	5	5	
+ya4le4fei2	ya4le4f#2	['ya', 'le', 'fei']	3	7	6	
+da2tai4	da2t#4	['da', 'tai']	2	5	4	
+fen4rui4dang3	fen4rui4daŋ3	['fen', 'rui', 'dang']	3	10	9	
+mai4	m#4	['mai']	1	3	2	
+jia1lve4	jia1lve4	['jia', 'lve']	2	6	6	
+sa1ma3li4ya4	sa1ma3li4ya4	['sa', 'ma', 'li', 'ya']	4	8	8	
+mi2shi1	mi2$i1	['mi', 'shi']	2	5	4	
+bing4ren2	bjəŋ4ren2	['bing', 'ren']	2	7	7	
+fu4huo2	fu4huo2	['fu', 'huo']	2	5	5	
+bai2bai2	b#2b#2	['bai', 'bai']	2	6	4	
+jin1	jin1	['jin']	1	3	3	
+kou3dai	k#3d#	['kou', 'dai']	2	6	4	
+gua4zi	gua4zi	['gua', 'zi']	2	5	5	
+guai3zhang4	gu#3$aŋ4	['guai', 'zhang']	2	9	6	
+cun1	cwən1	['cun']	1	3	4	
+pin2gan1	pin2gan1	['pin', 'gan']	2	6	6	
+lin2dao4	lin2d#4	['lin', 'dao']	2	6	5	
+reng2	reŋ2	['reng']	1	4	3	
+jie1dai4	jie1d#4	['jie', 'dai']	2	6	5	
+chen2tu3	$en2tu3	['chen', 'tu']	2	6	5	
+duo4	duo4	['duo']	1	3	3	
+suo3duo1ma3	suo3duo1ma3	['suo', 'duo', 'ma']	3	8	8	
+ge2mo2la1	ge2mwo2la1	['ge', 'mo', 'la']	3	6	7	
+ling2qiao3	ljəŋ2qi#3	['ling', 'qiao']	2	8	7	
+xun2liang2	xun2liaŋ2	['xun', 'liang']	2	8	7	
+jiao1	ji#1	['jiao']	1	4	3	
+bian1da3	bian1da3	['bian', 'da']	2	6	6	
+zhu1hou2	$u1h#2	['zhu', 'hou']	2	6	4	
+jian4zheng4	jian4$eŋ4	['jian', 'zheng']	2	9	7	
+shuo1hua4	$uo1hua4	['shuo', 'hua']	2	7	6	
+si3di4	si3di4	['si', 'di']	2	4	4	
+fu4mu3	fu4mu3	['fu', 'mu']	2	4	4	
+di2	di2	['di']	1	2	2	
+wu4	wu4	['wu']	1	2	2	
+ren3nai4	ren3n#4	['ren', 'nai']	2	6	5	
+dao4di3	d#4di3	['dao', 'di']	2	5	4	
+de2jiu4	de2jiu4	['de', 'jiu']	2	5	5	
+cheng2yi4	$eŋ2yi4	['cheng', 'yi']	2	7	5	
+xue2sheng	xue2$eŋ	['xue', 'sheng']	2	8	6	
+zhu3ren2	$u3ren2	['zhu', 'ren']	2	6	5	
+ba4	ba4	['ba']	1	2	2	
+bie2xi1bu3	bie2xi1bu3	['bie', 'xi', 'bu']	3	7	7	
+er3	er3	['er']	1	2	2	
+fang2	faŋ2	['fang']	1	4	3	
+xuan1yang2	xuan1yaŋ2	['xuan', 'yang']	2	8	7	
+ling2hun2	ljəŋ2hwən2	['ling', 'hun']	2	7	8	
+ma2que4	ma2que4	['ma', 'que']	2	5	5	
+fen1	fen1	['fen']	1	3	3	
+yin2zi	yin2zi	['yin', 'zi']	2	5	5	
+diao4	di#4	['diao']	1	4	3	
+shu3	$u3	['shu']	1	3	2	
+ju4pa4	ju4pa4	['ju', 'pa']	2	4	4	
+tai4ping2	t#4pjəŋ2	['tai', 'ping']	2	7	6	
+dao1bing1	d#1bjəŋ1	['dao', 'bing']	2	7	6	
+sheng1shu1	$eŋ1$u1	['sheng', 'shu']	2	8	5	
+xi2fu4	xi2fu4	['xi', 'fu']	2	4	4	
+po2po	pwo2pwo	['po', 'po']	2	4	6	
+guo4yu2	guo4yu2	['guo', 'yu']	2	5	5	
+bei1	b#1	['bei']	1	3	2	
+shi2zi4jia4	$i2zi4jia4	['shi', 'zi', 'jia']	3	8	7	
+shi1sang4	$i1saŋ4	['shi', 'sang']	2	7	5	
+bu4de2	bu4de2	['bu', 'de']	2	4	4	
+hai2shi4	h#2$i4	['hai', 'shi']	2	6	4	
+deng3hou4	deŋ3h#4	['deng', 'hou']	2	7	5	
+bie2ren2	bie2ren2	['bie', 'ren']	2	6	6	
+que4zi	que4zi	['que', 'zi']	2	5	5	
+long2zi	loŋ2zi	['long', 'zi']	2	6	5	
+qiong2ren2	qioŋ2ren2	['qiong', 'ren']	2	8	7	
+jiang3lun4	jiaŋ3lwən4	['jiang', 'lun']	2	8	8	
+lu2wei3	lu2w#3	['lu', 'wei']	2	5	4	
+xi4ruan3	xi4ruan3	['xi', 'ruan']	2	6	6	
+wang2gong1	waŋ2goŋ1	['wang', 'gong']	2	8	6	
+jiu1jing4	jiu1jjəŋ4	['jiu', 'jing']	2	7	7	
+chai1qian3	$#1qian3	['chai', 'qian']	2	8	6	
+dao4lu4	d#4lu4	['dao', 'lu']	2	5	4	
+ru2jin1	ru2jin1	['ru', 'jin']	2	5	5	
+nu3li4	nu3li4	['nu', 'li']	2	4	4	
+yu4yan2	yu4yan2	['yu', 'yan']	2	5	5	
+wei2zhi3	w#2$i3	['wei', 'zhi']	2	6	4	
+ling3shou4	ljəŋ3$#4	['ling', 'shou']	2	8	6	
+yi3li4ya4	yi3li4ya4	['yi', 'li', 'ya']	3	6	6	
+ke3	ke3	['ke']	1	2	2	
+shi4dai4	$i4d#4	['shi', 'dai']	2	6	4	
+hao3xiang4	h#3xiaŋ4	['hao', 'xiang']	2	8	6	
+hai2tong2	h#2toŋ2	['hai', 'tong']	2	7	5	
+jie1shi4	jie1$i4	['jie', 'shi']	2	6	5	
+tong2ban4	toŋ2ban4	['tong', 'ban']	2	7	6	
+tiao4wu3	ti#4wu3	['tiao', 'wu']	2	6	5	
+ju3	ju3	['ju']	1	2	2	
+xiong1	xioŋ1	['xiong']	1	5	4	
+fu4zhuo2	fu4$uo2	['fu', 'zhuo']	2	6	5	
+tan1shi2	tan1$i2	['tan', 'shi']	2	6	5	
+hao4jiu3	h#4jiu3	['hao', 'jiu']	2	6	5	
+peng2you	peŋ2y#	['peng', 'you']	2	7	5	
+zhi4hui4	$i4hui4	['zhi', 'hui']	2	6	5	
+xian3	xian3	['xian']	1	4	4	
+na4xie1	na4xie1	['na', 'xie']	2	5	5	
+ze2bei4	ze2b#4	['ze', 'bei']	2	5	4	
+ge1la1xun4	ge1la1xun4	['ge', 'la', 'xun']	3	7	7	
+bo2sai4da4	bwo2s#4da4	['bo', 'sai', 'da']	3	7	7	
+tui1luo2	tui1luo2	['tui', 'luo']	2	6	6	
+xi1dun4	xi1dwən4	['xi', 'dun']	2	5	6	
+meng2hui1	meŋ2hui1	['meng', 'hui']	2	7	6	
+zhui4luo4	$ui4luo4	['zhui', 'luo']	2	7	6	
+yin1jian1	yin1jian1	['yin', 'jian']	2	7	7	
+cun2	cwən2	['cun']	1	3	4	
+gan3xie4	gan3xie4	['gan', 'xie']	2	6	6	
+tong1da2	toŋ1da2	['tong', 'da']	2	6	5	
+cang2	caŋ2	['cang']	1	4	3	
+ying1hai2	yiŋ1h#2	['ying', 'hai']	2	7	5	
+mei3	m#3	['mei']	1	3	2	
+ru2ci3	ru2ci3	['ru', 'ci']	2	4	4	
+chu2le	$u2le	['chu', 'le']	2	5	4	
+zhong4dan4	$oŋ4dan4	['zhong', 'dan']	2	8	6	
+an1xi1	an1xi1	['an', 'xi']	2	4	4	
+rou2	r#2	['rou']	1	3	2	
+qia1bei1	qia1b#1	['qia', 'bei']	2	6	5	
+xue2	xue2	['xue']	1	3	3	
+yang4shi4	yaŋ4$i4	['yang', 'shi']	2	7	5	
+dan4zi	dan4zi	['dan', 'zi']	2	5	5	
+sheng3	$eŋ3	['sheng']	1	5	3	
+an1xi1ri4	an1xi1ri4	['an', 'xi', 'ri']	3	6	6	
+mai4sui4	m#4sui4	['mai', 'sui']	2	6	5	
+ji1e4	ji1e4	['ji', 'e']	2	3	3	
+zen3me	zen3me	['zen', 'me']	2	5	5	
+chen2she4bing3	$en2$e4bjəŋ3	['chen', 'she', 'bing']	3	11	9	
+zai4zhe3	z#4$e3	['zai', 'zhe']	2	6	4	
+ming2bai	mjəŋ2b#	['ming', 'bai']	2	7	6	
+dang4	daŋ4	['dang']	1	4	3	
+gan1	gan1	['gan']	1	3	3	
+kong4gao4	koŋ4g#4	['kong', 'gao']	2	7	5	
+keng1	keŋ1	['keng']	1	4	3	
+zhua1zhu4	$ua1$u4	['zhua', 'zhu']	2	7	5	
+ke3yi3de	ke3yi3de	['ke', 'yi', 'de']	3	6	6	
+yuan2	ɥæn2	['yuan']	1	4	3	
+shang1yi4	$aŋ1yi4	['shang', 'yi']	2	7	5	
+qi2zhong1	qi2$oŋ1	['qi', 'zhong']	2	7	5	
+jian3xuan3	jian3xuan3	['jian', 'xuan']	2	8	8	
+qi1nai4	qi1n#4	['qi', 'nai']	2	5	4	
+gong1li3	goŋ1li3	['gong', 'li']	2	6	5	
+bang1	baŋ1	['bang']	1	4	3	
+zheng1jing	$eŋ1jjəŋ	['zheng', 'jing']	2	9	7	
+xuan1	xuan1	['xuan']	1	4	4	
+ye1shang1	ye1$aŋ1	['ye', 'shang']	2	7	5	
+zhe2	$e2	['zhe']	1	3	2	
+jiang1can2	jiaŋ1can2	['jiang', 'can']	2	8	7	
+deng1huo3	deŋ1huo3	['deng', 'huo']	2	7	6	
+ta1shi1	ta1$i1	['ta', 'shi']	2	5	4	
+de2sheng4	de2$eŋ4	['de', 'sheng']	2	7	5	
+yang3wang4	yaŋ3waŋ4	['yang', 'wang']	2	8	6	
+xia1	xia1	['xia']	1	3	3	
+ye1	ye1	['ye']	1	2	2	
+wu2fei1	wu2f#1	['wu', 'fei']	2	5	4	
+yi4nian4	yi4nian4	['yi', 'nian']	2	6	6	
+zi4xiang1fen1zheng1	zi4xiaŋ1fen1$eŋ1	['zi', 'xiang', 'fen', 'zheng']	4	15	12	
+cheng2wei2	$eŋ2w#2	['cheng', 'wei']	2	8	5	
+huang1	huaŋ1	['huang']	1	5	4	
+zi3di4	zi3di4	['zi', 'di']	2	4	4	
+duan4ding4	duan4djəŋ4	['duan', 'ding']	2	8	8	
+shi4fei1	$i4f#1	['shi', 'fei']	2	6	4	
+zhuang4shi4	$uaŋ4$i4	['zhuang', 'shi']	2	9	6	
+qiang3duo2	qiaŋ3duo2	['qiang', 'duo']	2	8	7	
+jia1ju	jia1ju	['jia', 'ju']	2	5	5	
+chu2fei1	$u2f#1	['chu', 'fei']	2	6	4	
+kun2	kwən2	['kun']	1	3	4	
+shou1ju4	$#1ju4	['shou', 'ju']	2	6	4	
+fen1san4	fen1san4	['fen', 'san']	2	6	6	
+xie4du2	xie4du2	['xie', 'du']	2	5	5	
+she4mian3	$e4mian3	['she', 'mian']	2	7	6	
+gan1fan4	gan1fan4	['gan', 'fan']	2	6	6	
+jin1shi4	jin1$i4	['jin', 'shi']	2	6	5	
+lai2shi4	l#2$i4	['lai', 'shi']	2	6	4	
+chong1man3	$oŋ1man3	['chong', 'man']	2	8	6	
+fa1chu1	fa1$u1	['fa', 'chu']	2	5	4	
+xian2hua4	xian2hua4	['xian', 'hua']	2	7	7	
+deng2	deŋ2	['deng']	1	4	3	
+shen2ji1	$en2ji1	['shen', 'ji']	2	6	5	
+xie2e4	xie2e4	['xie', 'e']	2	4	4	
+yue1na2	ɥe1na2	['yue', 'na']	2	5	4	
+yi3wai4	yi3w#4	['yi', 'wai']	2	5	4	
+san1	san1	['san']	1	3	3	
+da4yu2	da4yu2	['da', 'yu']	2	4	4	
+ni2ni2wei1	ni2ni2w#1	['ni', 'ni', 'wei']	3	7	6	
+nan2fang1	nan2faŋ1	['nan', 'fang']	2	7	6	
+nv3wang2	nv3waŋ2	['nv', 'wang']	2	6	5	
+di4ji2	di4ji2	['di', 'ji']	2	4	4	
+er2	er2	['er']	1	2	2	
+ren2shen1	ren2$en1	['ren', 'shen']	2	7	6	
+xun2qiu2	xun2qiu2	['xun', 'qiu']	2	6	6	
+an1xie1	an1xie1	['an', 'xie']	2	5	5	
+chu4	$u4	['chu']	1	3	2	
+bu	bu	['bu']	1	2	2	
+kong4xian2	koŋ4xian2	['kong', 'xian']	2	8	7	
+da3sao3	da3s#3	['da', 'sao']	2	5	4	
+gan1jing	gan1jjəŋ	['gan', 'jing']	2	7	7	
+xiu1shi4	xiu1$i4	['xiu', 'shi']	2	6	5	
+ling4	ljəŋ4	['ling']	1	4	4	
+mo4hou4	mwo4h#4	['mo', 'hou']	2	5	5	
+jing3kuang4	jjəŋ3kuaŋ4	['jing', 'kuang']	2	9	8	
+xian1qian2	xian1qian2	['xian', 'qian']	2	8	8	
+bu2liao4	bu2li#4	['bu', 'liao']	2	6	5	
+jie3mei4	jie3m#4	['jie', 'mei']	2	6	5	
+ta1na4	ta1na4	['ta', 'na']	2	4	4	
+li	li	['li']	1	2	2	
+ju4ji2	ju4ji2	['ju', 'ji']	2	4	4	
+bi3yu4	bi3yu4	['bi', 'yu']	2	4	4	
+sa3zhong3	sa3$oŋ3	['sa', 'zhong']	2	7	5	
+lu4pang2	lu4paŋ2	['lu', 'pang']	2	6	5	
+fa1	fa1	['fa']	1	2	2	
+miao2	mi#2	['miao']	1	4	3	
+kuai4	ku#4	['kuai']	1	4	3	
+shai4	$#4	['shai']	1	4	2	
+liu4	liu4	['liu']	1	3	3	
+ao4mi4	#4mi4	['ao', 'mi']	2	4	3	
+you3de	y#3de	['you', 'de']	2	5	4	
+you3yu2	y#3yu2	['you', 'yu']	2	5	4	
+duo2	duo2	['duo']	1	3	3	
+zheng4ying1	$eŋ4yiŋ1	['zheng', 'ying']	2	9	6	
+xiao3de2	xi#3de2	['xiao', 'de']	2	6	5	
+er3duo	er3duo	['er', 'duo']	2	5	5	
+chen2	$en2	['chen']	1	4	3	
+hui2zhuan3	hui2$uan3	['hui', 'zhuan']	2	8	7	
+sa3	sa3	['sa']	1	2	2	
+zan4shi2	zan4$i2	['zan', 'shi']	2	6	5	
+ji2zhi4	ji2$i4	['ji', 'zhi']	2	5	4	
+zao1	z#1	['zao']	1	3	2	
+huan4nan4	huan4nan4	['huan', 'nan']	2	7	7	
+qian2cai2	qian2c#2	['qian', 'cai']	2	7	6	
+mi2huo4	mi2huo4	['mi', 'huo']	2	5	5	
+tu3di4	tu3di4	['tu', 'di']	2	4	4	
+zhong3	$oŋ3	['zhong']	1	5	3	
+tian2	tian2	['tian']	1	4	4	
+shui4jiao4	$ui4ji#4	['shui', 'jiao']	2	8	6	
+bai4zi3	b#4zi3	['bai', 'zi']	2	5	4	
+tu3sui4	tu3sui4	['tu', 'sui']	2	5	5	
+hao1	h#1	['hao']	1	3	2	
+ba2	ba2	['ba']	1	2	2	
+qi2	qi2	['qi']	1	2	2	
+shou1ge1	$#1ge1	['shou', 'ge']	2	6	4	
+shao1	$#1	['shao']	1	4	2	
+jie4cai4	jie4c#4	['jie', 'cai']	2	6	5	
+gai4cai4	g#4c#4	['gai', 'cai']	2	6	4	
+cai4	c#4	['cai']	1	3	2	
+su4	su4	['su']	1	2	2	
+mian4jiao4	mian4ji#4	['mian', 'jiao']	2	8	7	
+mian4	mian4	['mian']	1	4	4	
+tuan2	tuan2	['tuan']	1	4	4	
+fa1qi3	fa1qi3	['fa', 'qi']	2	4	4	
+bu2yong4	bu2yoŋ4	['bu', 'yong']	2	6	5	
+chuang4shi4	$uaŋ4$i4	['chuang', 'shi']	2	9	6	
+yi3lai2	yi3l#2	['yi', 'lai']	2	5	4	
+tian2jian1	tian2jian1	['tian', 'jian']	2	8	8	
+tian2di4	tian2di4	['tian', 'di']	2	6	6	
+shi4jie4	$i4jie4	['shi', 'jie']	2	6	5	
+mo4liao3	mwo4li#3	['mo', 'liao']	2	6	6	
+fun4shao1	fwən4$#1	['fun', 'shao']	2	7	6	
+tiao1	ti#1	['tiao']	1	4	3	
+huo3lu2	huo3lu2	['huo', 'lu']	2	5	5	
+tai4yang2	t#4yaŋ2	['tai', 'yang']	2	7	5	
+bao3bei4	b#3b#4	['bao', 'bei']	2	6	4	
+huan1	huan1	['huan']	1	4	4	
+bian4mai4	bian4m#4	['bian', 'mai']	2	7	6	
+mai3	m#3	['mai']	1	3	2	
+mai3mai4	m#3m#4	['mai', 'mai']	2	6	4	
+zhu1zi	$u1zi	['zhu', 'zi']	2	5	4	
+ke1	ke1	['ke']	1	2	2	
+zhong4jia4	$oŋ4jia4	['zhong', 'jia']	2	8	6	
+ju4long3	ju4loŋ3	['ju', 'long']	2	6	5	
+shui3zu2	$ui3zu2	['shui', 'zu']	2	6	5	
+man3	man3	['man']	1	3	3	
+jian3	jian3	['jian']	1	4	4	
+qi4ju4	qi4ju4	['qi', 'ju']	2	4	4	
+diu1qi4	diu1qi4	['diu', 'qi']	2	5	5	
+fen1bie2	fen1bie2	['fen', 'bie']	2	6	6	
+ku4	ku4	['ku']	1	2	2	
+jia1xiang1	jia1xiaŋ1	['jia', 'xiang']	2	8	7	
+mu4jiang	mu4jiaŋ	['mu', 'jiang']	2	7	6	
+men	men	['men']	1	3	3	
+yue1xi1	ɥe1xi1	['yue', 'xi']	2	5	4	
+mei4mei	m#4m#	['mei', 'mei']	2	6	4	
+yan4qi4	yan4qi4	['yan', 'qi']	2	5	5	
+da4fan2	da4fan2	['da', 'fan']	2	5	5	
+zun1jing4	zwən1jjəŋ4	['zun', 'jing']	2	7	8	
+chen2pu2	$en2pu2	['chen', 'pu']	2	6	5	
+qi3xian1	qi3xian1	['qi', 'xian']	2	6	6	
+xi1luo2di3	xi1luo2di3	['xi', 'luo', 'di']	3	7	7	
+ceng2	ceŋ2	['ceng']	1	4	3	
+he2li3	he2li3	['he', 'li']	2	4	4	
+sheng1ri	$eŋ1ri	['sheng', 'ri']	2	7	5	
+ying1xu3	yiŋ1xu3	['ying', 'xu']	2	6	5	
+pan2zi	pan2zi	['pan', 'zi']	2	5	5	
+you1chou2	y#1$#2	['you', 'chou']	2	7	4	
+xi2	xi2	['xi']	1	2	2	
+zhan3	$an3	['zhan']	1	4	3	
+nv3zi	nv3zi	['nv', 'zi']	2	4	4	
+shou3ling3	$#3ljəŋ3	['shou', 'ling']	2	8	6	
+du2zi4	du2zi4	['du', 'zi']	2	4	4	
+bu4xing2	bu4xjəŋ2	['bu', 'xing']	2	6	6	
+gen1sui2	gen1sui2	['gen', 'sui']	2	6	6	
+wan3	wan3	['wan']	1	3	3	
+san4kai	san4k#	['san', 'kai']	2	6	5	
+cun2zi	cwən2zi	['cun', 'zi']	2	5	6	
+zhi3you3	$i3y#3	['zhi', 'you']	2	6	4	
+cao3di4	c#3di4	['cao', 'di']	2	5	4	
+zhu4fu2	$u4fu2	['zhu', 'fu']	2	5	4	
+bai1	b#1	['bai']	1	3	2	
+di4gei3	di4g#3	['di', 'gei']	2	5	4	
+sheng4xia	$eŋ4xia	['sheng', 'xia']	2	8	6	
+ling2sui4	ljəŋ2sui4	['ling', 'sui']	2	7	7	
+shou1shi	$#1$i	['shou', 'shi']	2	7	4	
+lan2zi	lan2zi	['lan', 'zi']	2	5	5	
+yue1	ɥe1	['yue']	1	3	2	
+cui1	cui1	['cui']	1	3	3	
+san4	san4	['san']	1	3	3	
+shun4	$wən4	['shun']	1	4	4	
+yao2han4	y#2han4	['yao', 'han']	2	6	5	
+geng1	geŋ1	['geng']	1	4	3	
+jing1huang1	jjəŋ1huaŋ1	['jing', 'huang']	2	9	8	
+gui3guai4	gui3gu#4	['gui', 'guai']	2	7	6	
+hai4pa4	h#4pa4	['hai', 'pa']	2	5	4	
+lian2mang2	lian2maŋ2	['lian', 'mang']	2	8	7	
+ru2guo3	ru2guo3	['ru', 'guo']	2	5	5	
+yi2huo4	yi2huo4	['yi', 'huo']	2	5	5	
+zhen1	$en1	['zhen']	1	4	3	
+ge2ni2sa1lei1	ge2ni2sa1l#1	['ge', 'ni', 'sa', 'lei']	4	9	8	
+zhou1wei2	$#1w#2	['zhou', 'wei']	2	7	4	
+zhun2	$wən2	['zhun']	1	4	4	
+yi2chuan2	yi2$uan2	['yi', 'chuan']	2	7	6	
+xiao4jing4	xi#4jjəŋ4	['xiao', 'jing']	2	8	7	
+zhou4ma4	$#4ma4	['zhou', 'ma']	2	6	4	
+zhi4si3	$i4si3	['zhi', 'si']	2	5	4	
+bu2cuo4	bu2cuo4	['bu', 'cuo']	2	5	5	
+zui3chun2	zui3$wən2	['zui', 'chun']	2	7	7	
+jiao4dao3	ji#4d#3	['jiao', 'dao']	2	7	5	
+wang3ran2	waŋ3ran2	['wang', 'ran']	2	7	6	
+ru4	ru4	['ru']	1	2	2	
+wu1hui4	wu1hui4	['wu', 'hui']	2	5	5	
+chu0kou3	$u0k#3	['chu', 'kou']	2	6	4	
+zai1zhong4	z#1$oŋ4	['zai', 'zhong']	2	8	5	
+xia1yan3	xia1yan3	['xia', 'yan']	2	6	6	
+ling3lu4	ljəŋ3lu4	['ling', 'lu']	2	6	6	
+ling3	ljəŋ3	['ling']	1	4	4	
+du4zi	du4zi	['du', 'zi']	2	4	4	
+mao2si	m#2si	['mao', 'si']	2	5	4	
+xiong1sha1	xioŋ1$a1	['xiong', 'sha']	2	8	6	
+gou3he2	g#3he2	['gou', 'he']	2	5	4	
+tou1dao4	t#1d#4	['tou', 'dao']	2	6	4	
+wang4zheng4	waŋ4$eŋ4	['wang', 'zheng']	2	9	6	
+bang4du2	baŋ4du2	['bang', 'du']	2	6	5	
+zhi4yu2	$i4yu2	['zhi', 'yu']	2	5	4	
+jia1nan2	jia1nan2	['jia', 'nan']	2	6	6	
+da2	da2	['da']	1	2	2	
+hou4tou	h#4t#	['hou', 'tou']	2	6	4	
+bang1zhu	baŋ1$u	['bang', 'zhu']	2	7	5	
+dan4shi4	dan4$i4	['dan', 'shi']	2	6	5	
+zhuo1zi	$uo1zi	['zhuo', 'zi']	2	6	5	
+cui4	cui4	['cui']	1	3	3	
+zha1	$a1	['zha']	1	3	2	
+kao4jin4	k#4jin4	['kao', 'jin']	2	6	5	
+bian	bian	['bian']	1	4	4	
+can2ji	can2ji	['can', 'ji']	2	5	5	
+xie1	xie1	['xie']	1	3	3	
+kun4fa2	kwən4fa2	['kun', 'fa']	2	5	6	
+duo1shao4	duo1$#4	['duo', 'shao']	2	7	5	
+xie4	xie4	['xie']	1	3	3	
+kuang1zi	kuaŋ1zi	['kuang', 'zi']	2	7	6	
+ma3jia1dan1	ma3jia1dan1	['ma', 'jia', 'dan']	3	8	8	
+hong2	hoŋ2	['hong']	1	4	3	
+qing2	qjəŋ2	['qing']	1	4	4	
+zao3chen	z#3$en	['zao', 'chen']	2	7	5	
+fen1bian4	fen1bian4	['fen', 'bian']	2	7	7	
+qi4se4	qi4se4	['qi', 'se']	2	4	4	
+jin3shen4	jin3$en4	['jin', 'shen']	2	7	6	
+bi3ci3	bi3ci3	['bi', 'ci']	2	4	4	
+yi4lun4	yi4lwən4	['yi', 'lun']	2	5	6	
+gai1sa1li2ya4	g#1sa1li2ya4	['gai', 'sa', 'li', 'ya']	4	9	8	
+fei2li4bi3	f#2li4bi3	['fei', 'li', 'bi']	3	7	6	
+ba1	ba1	['ba']	1	2	2	
+xue4rou4	xue4r#4	['xue', 'rou']	2	6	5	
+jiao4hui4	ji#4hui4	['jiao', 'hui']	2	7	6	
+jian4zao4	jian4z#4	['jian', 'zao']	2	7	6	
+yao4shi	y#4$i	['yao', 'shi']	2	6	4	
+kun2bang3	kwən2baŋ3	['kun', 'bang']	2	7	7	
+shi4fang4	$i4faŋ4	['shi', 'fang']	2	7	5	
+cong2ci3	coŋ2ci3	['cong', 'ci']	2	6	5	
+bi4xu1	bi4xu1	['bi', 'xu']	2	4	4	
+zhang3lao3	$aŋ3l#3	['zhang', 'lao']	2	8	5	
+hou4bian1	h#4bian1	['hou', 'bian']	2	7	6	
+ban4	ban4	['ban']	1	3	3	
+ti3tie1	ti3tie1	['ti', 'tie']	2	5	5	
+she3ji3	$e3ji3	['she', 'ji']	2	5	4	
+sang4diao4	saŋ4di#4	['sang', 'diao']	2	8	6	
+zhuan4	$uan4	['zhuan']	1	5	4	
+pei2	p#2	['pei']	1	3	2	
+yi4chu	yi4$u	['yi', 'chu']	2	5	4	
+bao4ying4	b#4yiŋ4	['bao', 'ying']	2	7	5	
+xing2xiang4	xjəŋ2xiaŋ4	['xing', 'xiang']	2	9	8	
+lian3mian4	lian3mian4	['lian', 'mian']	2	8	8	
+ming2liang4	mjəŋ2liaŋ4	['ming', 'liang']	2	9	8	
+jie2bai2	jie2b#2	['jie', 'bai']	2	6	5	
+da1	da1	['da']	1	2	2	
+peng2	peŋ2	['peng']	1	4	3	
+yun2cai	yun2c#	['yun', 'cai']	2	6	5	
+zhe1gai4	$e1g#4	['zhe', 'gai']	2	6	4	
+ju3mu4	ju3mu4	['ju', 'mu']	2	4	4	
+gu4ran2	gu4ran2	['gu', 'ran']	2	5	5	
+fu4xing1	fu4xjəŋ1	['fu', 'xing']	2	6	6	
+ren4yi4	ren4yi4	['ren', 'yi']	2	5	5	
+dai1	d#1	['dai']	1	3	2	
+gui4	gui4	['gui']	1	3	3	
+lv3ci4	lv3ci4	['lv', 'ci']	2	4	4	
+die1	die1	['die']	1	3	3	
+ai3	#3	['ai']	1	2	1	
+bei4miu4	b#4miu4	['bei', 'miu']	2	6	5	
+ji3shi2	ji3$i2	['ji', 'shi']	2	5	4	
+zhe4bian1	$e4bian1	['zhe', 'bian']	2	7	6	
+nuo2	nuo2	['nuo']	1	3	3	
+lei4	l#4	['lei']	1	3	2	
+sha1hai4	$a1h#4	['sha', 'hai']	2	6	4	
+ding1	djəŋ1	['ding']	1	4	4	
+wu1zi	wu1zi	['wu', 'zi']	2	4	4	
+ru2he2	ru2he2	['ru', 'he']	2	4	4	
+zheng1shou1	$eŋ1$#1	['zheng', 'shou']	2	9	5	
+guan1shui4	guan1$ui4	['guan', 'shui']	2	8	7	
+wai4ren2	w#4ren2	['wai', 'ren']	2	6	5	
+ji4ran2	ji4ran2	['ji', 'ran']	2	5	5	
+mian3shui4	mian3$ui4	['mian', 'shui']	2	8	7	
+chu4fan4	$u4fan4	['chu', 'fan']	2	6	5	
+dang1zhong1	daŋ1$oŋ1	['dang', 'zhong']	2	9	6	
+mo4shi2	mwo4$i2	['mo', 'shi']	2	5	5	
+shuan1	$uan1	['shuan']	1	5	4	
+jing3xiang4	jjəŋ3xiaŋ4	['jing', 'xiang']	2	9	8	
+tang3ruo4	taŋ3ruo4	['tang', 'ruo']	2	7	6	
+que1	que1	['que']	1	3	3	
+zhi	$i	['zhi']	1	3	2	
+yong3	yoŋ3	['yong']	1	4	3	
+juan3	juan3	['juan']	1	4	4	
+ci3	ci3	['ci']	1	2	2	
+zheng3jiu4	$eŋ3jiu4	['zheng', 'jiu']	2	8	6	
+ren2yi1	ren2yi1	['ren', 'yi']	2	5	5	
+mi2	mi2	['mi']	1	2	2	
+pie1	pie1	['pie']	1	3	3	
+chen4	$en4	['chen']	1	4	3	
+cuo4	cuo4	['cuo']	1	3	3	
+ling4wai4	ljəŋ4w#4	['ling', 'wai']	2	7	6	
+tong2xin1	toŋ2xin1	['tong', 'xin']	2	7	6	
+he2yi4	he2yi4	['he', 'yi']	2	4	4	
+ju4hui4	ju4hui4	['ju', 'hui']	2	5	5	
+suan4	suan4	['suan']	1	4	4	
+zhang4	$aŋ4	['zhang']	1	5	3	
+qian4	qian4	['qian']	1	4	4	
+qia1wan4	qia1wan4	['qia', 'wan']	2	6	6	
+chang2huan2	$aŋ2huan2	['chang', 'huan']	2	9	7	
+kuan1rong2	kuan1roŋ2	['kuan', 'rong']	2	8	7	
+ci2	ci2	['ci']	1	2	2	
+jiu1	jiu1	['jiu']	1	3	3	
+hou2long2	h#2loŋ2	['hou', 'long']	2	7	5	
+huan3	huan3	['huan']	1	4	4	
+nu2cai	nu2c#	['nu', 'cai']	2	5	4	
+qi3chu1	qi3$u1	['qi', 'chu']	2	5	4	
+nu3	nu3	['nu']	1	2	2	
+yin1ci3	yin1ci3	['yin', 'ci']	2	5	5	
+fu1qi1	fu1qi1	['fu', 'qi']	2	4	4	
+pei4he2	p#4he2	['pei', 'he']	2	5	4	
+fen1kai1	fen1k#1	['fen', 'kai']	2	6	5	
+yan1	yan1	['yan']	1	3	3	
+rang4	raŋ4	['rang']	1	4	3	
+jin4zhi3	jin4$i3	['jin', 'zhi']	2	6	5	
+zheng1	$eŋ1	['zheng']	1	5	3	
+liang2shan4	liaŋ2$an4	['liang', 'shan']	2	9	7	
+gai1	g#1	['gai']	1	3	2	
+zun1shou3	zwən1$#3	['zun', 'shou']	2	7	6	
+ai4ren	#4ren	['ai', 'ren']	2	5	4	
+shao4nian2	$#4nian2	['shao', 'nian']	2	8	6	
+you1	y#1	['you']	1	3	2	
+chou2	$#2	['chou']	1	4	2	
+chan3ye4	$an3ye4	['chan', 'ye']	2	6	5	
+cai2zhu3	c#2$u3	['cai', 'zhu']	2	6	4	
+chuan1guo4	$uan1guo4	['chuan', 'guo']	2	8	7	
+xia4suo3	xia4suo3	['xia', 'suo']	2	6	6	
+bao3zuo4	b#3zuo4	['bao', 'zuo']	2	6	5	
+zhi1pai4	$i1p#4	['zhi', 'pai']	2	6	4	
+fang2wu1	faŋ2wu1	['fang', 'wu']	2	6	5	
+qing1zao3	qjəŋ1z#3	['qing', 'zao']	2	7	6	
+gu4	gu4	['gu']	1	2	2	
+pu2tao2yuan2	pu2t#2ɥæn2	['pu', 'tao', 'yuan']	3	9	7	
+jiang3deng2	jiaŋ3deŋ2	['jiang', 'deng']	2	9	7	
+si4chu1	si4$u1	['si', 'chu']	2	5	4	
+wu3zheng4	wu3$eŋ4	['wu', 'zheng']	2	7	5	
+shen1chu1	$en1$u1	['shen', 'chu']	2	7	5	
+you3chu1	y#3$u1	['you', 'chu']	2	6	4	
+zheng3tian1	$eŋ3tian1	['zheng', 'tian']	2	9	7	
+gong1qian2	goŋ1qian2	['gong', 'qian']	2	8	7	
+man2yuan4	man2ɥæn4	['man', 'yuan']	2	7	6	
+xiao3shi2	xi#3$i2	['xiao', 'shi']	2	7	5	
+kui1fu4	kui1fu4	['kui', 'fu']	2	5	5	
+dong1xi3	doŋ1xi3	['dong', 'xi']	2	6	5	
+nan2dao4	nan2d#4	['nan', 'dao']	2	6	5	
+xuan3	xuan3	['xuan']	1	4	4	
+xi4nong4	xi4noŋ4	['xi', 'nong']	2	6	5	
+you4bian1	y#4bian1	['you', 'bian']	2	7	6	
+zuo3bian1	zuo3bian1	['zuo', 'bian']	2	7	7	
+zuo3you4	zuo3y#4	['zuo', 'you']	2	6	5	
+nao3nu4	n#3nu4	['nao', 'nu']	2	5	4	
+zhu3zhi4	$u3$i4	['zhu', 'zhi']	2	6	4	
+da4chen2	da4$en2	['da', 'chen']	2	6	5	
+cao1	c#1	['cao']	1	3	2	
+guan3shu4	guan3$u4	['guan', 'shu']	2	7	6	
+she3ming4	$e3mjəŋ4	['she', 'ming']	2	7	6	
+shu2jia4	$u2jia4	['shu', 'jia']	2	6	5	
+ye1li4ge1	ye1li4ge1	['ye', 'li', 'ge']	3	6	6	
+ge3	ge3	['ge']	1	2	2	
+ting1shuo1	tjəŋ1$uo1	['ting', 'shuo']	2	8	7	
+yue4fa1	ɥe4fa1	['yue', 'fa']	2	5	4	
+bo2fa3qi2	bwo2fa3qi2	['bo', 'fa', 'qi']	3	6	7	
+gan3lan3shan1	gan3lan3$an1	['gan', 'lan', 'shan']	3	10	9	
+dui4mian4	dui4mian4	['dui', 'mian']	2	7	7	
+pi3	pi3	['pi']	1	2	2	
+lu	lu	['lu']	1	2	2	
+ju1	ju1	['ju']	1	2	2	
+jie3kai1	jie3k#1	['jie', 'kai']	2	6	5	
+li4shi2	li4$i2	['li', 'shi']	2	5	4	
+ju1min2	ju1min2	['ju', 'min']	2	5	5	
+lv	lv	['lv']	1	2	2	
+shang4mian	$aŋ4mian	['shang', 'mian']	2	9	7	
+pu1	pu1	['pu']	1	2	2	
+shu4zhi1	$u4$i1	['shu', 'zhi']	2	6	4	
+he2san3na4	he2san3na4	['he', 'san', 'na']	3	7	7	
+gui1yu2	gui1yu2	['gui', 'yu']	2	5	5	
+cheng1song4	$eŋ1soŋ4	['cheng', 'song']	2	9	6	
+tui1	tui1	['tui']	1	3	3	
+dao3	d#3	['dao']	1	3	2	
+dui4huan4	dui4huan4	['dui', 'huan']	2	7	7	
+yin2qian2	yin2qian2	['yin', 'qian']	2	7	7	
+zan4mei3	zan4m#3	['zan', 'mei']	2	6	5	
+bo2da4ni2	bwo2da4ni2	['bo', 'da', 'ni']	3	6	7	
+ye4zi	ye4zi	['ye', 'zi']	2	4	4	
+jie2	jie2	['jie']	1	3	3	
+gan4	gan4	['gan']	1	3	3	
+bu2dan4	bu2dan4	['bu', 'dan']	2	5	5	
+xi3li3	xi3li3	['xi', 'li']	2	4	4	
+ren2jian1	ren2jian1	['ren', 'jian']	2	7	7	
+ao4hui3	#4hui3	['ao', 'hui']	2	5	4	
+xiao3er2	xi#3er2	['xiao', 'er']	2	6	5	
+chang1ji4	$aŋ1ji4	['chang', 'ji']	2	7	5	
+zai1	z#1	['zai']	1	3	2	
+juan1	juan1	['juan']	1	4	4	
+li2ba	li2ba	['li', 'ba']	2	4	4	
+ye1jiu3chi2	ye1jiu3$i2	['ye', 'jiu', 'chi']	3	8	7	
+lou2	l#2	['lou']	1	3	2	
+zu1	zu1	['zu']	1	2	2	
+hu4	hu4	['hu']	1	2	2	
+wai4guo2	w#4guo2	['wai', 'guo']	2	6	5	
+zhao4yang4	$#4yaŋ4	['zhao', 'yang']	2	8	5	
+zhan1	$an1	['zhan']	1	4	3	
+chu3zhi4	$u3$i4	['chu', 'zhi']	2	6	4	
+du2shou3	du2$#3	['du', 'shou']	2	6	4	
+xie3	xie3	['xie']	1	3	3	
+jiang4ren2	jiaŋ4ren2	['jiang', 'ren']	2	8	7	
+qi4	qi4	['qi']	1	2	2	
+za1	za1	['za']	1	2	2	
+xi1lan4	xi1lan4	['xi', 'lan']	2	5	5	
+zhuo1na2	$uo1na2	['zhuo', 'na']	2	6	5	
+bai3she4	b#3$e4	['bai', 'she']	2	6	4	
+qu3qin1	qu3qin1	['qu', 'qin']	2	5	5	
+yan2xi2	yan2xi2	['yan', 'xi']	2	5	5	
+niu2	niu2	['niu']	1	3	3	
+fei2	f#2	['fei']	1	3	2	
+zai3	z#3	['zai']	1	3	2	
+qi2bei4	qi2b#4	['qi', 'bei']	2	5	4	
+qi2yu2	qi2yu2	['qi', 'yu']	2	4	4	
+ling2ru3	ljəŋ2ru3	['ling', 'ru']	2	6	6	
+xiong1shou3	xioŋ1$#3	['xiong', 'shou']	2	9	6	
+hui3	hui3	['hui']	1	3	3	
+cha4lu4	$a4lu4	['cha', 'lu']	2	5	4	
+lun4	lwən4	['lun']	1	3	4	
+jin4lai2	jin4l#2	['jin', 'lai']	2	6	5	
+guan1kan4	guan1kan4	['guan', 'kan']	2	7	7	
+bin1ke4	bin1ke4	['bin', 'ke']	2	5	5	
+li3fu2	li3fu2	['li', 'fu']	2	4	4	
+shi3huan	$i3huan	['shi', 'huan']	2	7	6	
+zhe0ye1su1	$e0ye1su1	['zhe', 'ye', 'su']	3	7	6	
+xian4hai4	xian4h#4	['xian', 'hai']	2	7	6	
+dang3	daŋ3	['dang']	1	4	3	
+cheng2shi2	$eŋ2$i2	['cheng', 'shi']	2	8	5	
+xun4	xun4	['xun']	1	3	3	
+qing2mian	qjəŋ2mian	['qing', 'mian']	2	8	8	
+wai4mao4	w#4m#4	['wai', 'mao']	2	6	4	
+yi4jian4	yi4jian4	['yi', 'jian']	2	6	6	
+gai1sa3	g#1sa3	['gai', 'sa']	2	5	4	
+ge1ge	ge1ge	['ge', 'ge']	2	4	4	
+sheng4jing1	$eŋ4jjəŋ1	['sheng', 'jing']	2	9	7	
+jia4	jia4	['jia']	1	3	3	
+du3	du3	['du']	1	2	2	
+lv4fa3shi1	lv4fa3$i1	['lv', 'fa', 'shi']	3	7	6	
+jin4xin1	jin4xin1	['jin', 'xin']	2	6	6	
+xing4	xjəŋ4	['xing']	1	4	4	
+ji1	ji1	['ji']	1	2	2	
+xiang1fang3	xiaŋ1faŋ3	['xiang', 'fang']	2	9	7	
+zong3gang1	zoŋ3gaŋ1	['zong', 'gang']	2	8	6	
+gan3dong4	gan3doŋ4	['gan', 'dong']	2	7	6	
+ge1	ge1	['ge']	1	2	2	
+zhi2tou	$i2t#	['zhi', 'tou']	2	6	4	
+pei4dai4	p#4d#4	['pei', 'dai']	2	6	4	
+wen2	wen2	['wen']	1	3	3	
+ta1la1	ta1la1	['ta', 'la']	2	4	4	
+la1bi3	la1bi3	['la', 'bi']	2	4	4	
+zi4bei1	zi4b#1	['zi', 'bei']	2	5	4	
+jia3mao4wei2shan4	jia3m#4w#2$an4	['jia', 'mao', 'wei', 'shan']	4	13	10	
+zheng4dang1	$eŋ4daŋ1	['zheng', 'dang']	2	9	6	
+bu4rong2	bu4roŋ2	['bu', 'rong']	2	6	5	
+qin1tun1	qin1twən1	['qin', 'tun']	2	6	7	
+gua3fu	gua3fu	['gua', 'fu']	2	5	5	
+chan3	$an3	['chan']	1	4	3	
+ni3me4	ni3me4	['ni', 'me']	2	4	4	
+xing2fa2	xjəŋ2fa2	['xing', 'fa']	2	6	6	
+lu4di4	lu4di4	['lu', 'di']	2	4	4	
+gou1yin3	g#1yin3	['gou', 'yin']	2	6	5	
+jia1bei4	jia1b#4	['jia', 'bei']	2	6	5	
+jin1zi	jin1zi	['jin', 'zi']	2	5	5	
+bo4he	bwo4he	['bo', 'he']	2	4	5	
+hui2xiang1	hui2xiaŋ1	['hui', 'xiang']	2	8	7	
+qin2cai4	qin2c#4	['qin', 'cai']	2	6	5	
+zhi1yi1	$i1yi1	['zhi', 'yi']	2	5	4	
+gong1yi4	goŋ1yi4	['gong', 'yi']	2	6	5	
+xin4shi2	xin4$i2	['xin', 'shi']	2	6	5	
+meng3chong2	meŋ3$oŋ2	['meng', 'chong']	2	9	6	
+lv4	lv4	['lv']	1	2	2	
+tun1	twən1	['tun']	1	3	4	
+pan2	pan2	['pan']	1	3	3	
+le4suo3	le4suo3	['le', 'suo']	2	5	5	
+fang4dang4	faŋ4daŋ4	['fang', 'dang']	2	8	6	
+fen3shi4	fen3$i4	['fen', 'shi']	2	6	5	
+fun4mu4	fwən4mu4	['fun', 'mu']	2	5	6	
+hao3kan4	h#3kan4	['hao', 'kan']	2	6	5	
+gu2tou	gu2t#	['gu', 'tou']	2	5	4	
+jia3shan4	jia3$an4	['jia', 'shan']	2	7	6	
+bu4fa3	bu4fa3	['bu', 'fa']	2	4	4	
+fun4	fwən4	['fun']	1	3	4	
+zheng4ming2	$eŋ4mjəŋ2	['zheng', 'ming']	2	9	7	
+guan4	guan4	['guan']	1	4	4	
+tao2tuo1	t#2tuo1	['tao', 'tuo']	2	6	5	
+qian3	qian3	['qian']	1	4	4	
+ding4	djəŋ4	['ding']	1	4	4	
+zhui1bi1	$ui1bi1	['zhui', 'bi']	2	6	5	
+ya4bo2	ya4bwo2	['ya', 'bo']	2	4	5	
+ba1ye1jia1	ba1ye1jia1	['ba', 'ye', 'jia']	3	7	7	
+sa1jia1li4ya4	sa1jia1li4ya4	['sa', 'jia', 'li', 'ya']	4	9	9	
+mu3ji1	mu3ji1	['mu', 'ji']	2	4	4	
+chi4bang3	$i4baŋ3	['chi', 'bang']	2	7	5	
+zai4jian4	z#4jian4	['zai', 'jian']	2	7	6	
+chai1hui3	$#1hui3	['chai', 'hui']	2	7	5	
+yu4zhao4	yu4$#4	['yu', 'zhao']	2	6	4	
+mao4	m#4	['mao']	1	3	2	
+da3zhang4	da3$aŋ4	['da', 'zhang']	2	7	5	
+mo4qi1	mwo4qi1	['mo', 'qi']	2	4	5	
+gong1da3	goŋ1da3	['gong', 'da']	2	6	5	
+ji1huang1	ji1huaŋ1	['ji', 'huang']	2	7	6	
+di4zhen4	di4$en4	['di', 'zhen']	2	6	5	
+zai1nan4	z#1nan4	['zai', 'nan']	2	6	5	
+qi3tou2	qi3t#2	['qi', 'tou']	2	5	4	
+sheng1chan3	$eŋ1$an3	['sheng', 'chan']	2	9	6	
+zeng1	zeŋ1	['zeng']	1	4	3	
+jian4jian4	jian4jian4	['jian', 'jian']	2	8	8	
+leng3dan4	leŋ3dan4	['leng', 'dan']	2	7	6	
+dan4yi3li3	dan4yi3li3	['dan', 'yi', 'li']	3	7	7	
+hui3huai4	hui3hu#4	['hui', 'huai']	2	7	6	
+dou4	d#4	['dou']	1	3	2	
+hui4yi4	hui4yi4	['hui', 'yi']	2	5	5	
+nai3hai2zi	n#3h#2zi	['nai', 'hai', 'zi']	3	8	6	
+dong1tian1	doŋ1tian1	['dong', 'tian']	2	8	7	
+jian3shao3	jian3$#3	['jian', 'shao']	2	8	6	
+xue4qi4	xue4qi4	['xue', 'qi']	2	5	5	
+wei	w#	['wei']	1	3	2	
+yu4xian1	yu4xian1	['yu', 'xian']	2	6	6	
+shan3dian4	$an3dian4	['shan', 'dian']	2	8	7	
+dong1bian1	doŋ1bian1	['dong', 'bian']	2	8	7	
+xi1bian1	xi1bian1	['xi', 'bian']	2	6	6	
+ying1	yiŋ1	['ying']	1	4	3	
+yue4liang	ɥe4liaŋ	['yue', 'liang']	2	8	6	
+zhen4dong4	$en4doŋ4	['zhen', 'dong']	2	8	6	
+zu2	zu2	['zu']	1	2	2	
+yun2	yun2	['yun']	1	3	3	
+tong3	toŋ3	['tong']	1	4	3	
+da4sheng1	da4$eŋ1	['da', 'sheng']	2	7	5	
+si4fang1	si4faŋ1	['si', 'fang']	2	6	5	
+zhao1	$#1	['zhao']	1	4	2	
+fang1	faŋ1	['fang']	1	4	3	
+bi3fang1	bi3faŋ1	['bi', 'fang']	2	6	5	
+nen4	nen4	['nen']	1	3	3	
+xia4tian1	xia4tian1	['xia', 'tian']	2	7	7	
+zheng4zai4	$eŋ4z#4	['zheng', 'zai']	2	8	5	
+men2kou3	men2k#3	['men', 'kou']	2	6	5	
+nuo2ya4	nuo2ya4	['nuo', 'ya']	2	5	5	
+hong2shui3	hoŋ2$ui3	['hong', 'shui']	2	8	6	
+jia4qu3	jia4qu3	['jia', 'qu']	2	5	5	
+fang1zhou1	faŋ1$#1	['fang', 'zhou']	2	8	5	
+jue2	jue2	['jue']	1	3	3	
+quan2bu4	quan2bu4	['quan', 'bu']	2	6	6	
+mo4	mwo4	['mo']	1	2	3	
+jing3xing3	jjəŋ3xjəŋ3	['jing', 'xing']	2	8	8	
+tou4	t#4	['tou']	1	3	2	
+zhong1xin1	$oŋ1xin1	['zhong', 'xin']	2	8	6	
+jian4shi	jian4$i	['jian', 'shi']	2	7	6	
+pai4	p#4	['pai']	1	3	2	
+guan3li3	guan3li3	['guan', 'li']	2	6	6	
+an4shi2	an4$i2	['an', 'shi']	2	5	4	
+e4pu2	e4pu2	['e', 'pu']	2	3	3	
+chi2	$i2	['chi']	1	3	2	
+dong4shou3	doŋ4$#3	['dong', 'shou']	2	8	5	
+shi2chen	$i2$en	['shi', 'chen']	2	7	5	
+chong2chong2	$oŋ2$oŋ2	['chong', 'chong']	2	10	6	
+ying2jie1	yiŋ2jie1	['ying', 'jie']	2	7	6	
+yu2zhuo1	yu2$uo1	['yu', 'zhuo']	2	6	5	
+qi4min3	qi4min3	['qi', 'min']	2	5	5	
+chi2yan2	$i2yan2	['chi', 'yan']	2	6	5	
+da3dun2	da3dwən2	['da', 'dun']	2	5	6	
+sui2hou4	sui2h#4	['sui', 'hou']	2	6	5	
+jia1ye4	jia1ye4	['jia', 'ye']	2	5	5	
+cai2gan4	c#2gan4	['cai', 'gan']	2	6	5	
+mai2cang2	m#2caŋ2	['mai', 'cang']	2	7	5	
+xu3jiu3	xu3jiu3	['xu', 'jiu']	2	5	5	
+xiang3shou4	xiaŋ3$#4	['xiang', 'shou']	2	9	6	
+shi4pai4	$i4p#4	['shi', 'pai']	2	6	4	
+ren3xin1	ren3xin1	['ren', 'xin']	2	6	6	
+san3	san3	['san']	1	3	3	
+ju4lian3	ju4lian3	['ju', 'lian']	2	6	6	
+lan3	lan3	['lan']	1	3	3	
+mian2yang2	mian2yaŋ2	['mian', 'yang']	2	8	7	
+shan1yang2	$an1yaŋ2	['shan', 'yang']	2	8	6	
+an1zhi4	an1$i4	['an', 'zhi']	2	5	4	
+ke4lv3	ke4lv3	['ke', 'lv']	2	4	4	
+chi4shen1lou4ti3	$i4$en1l#4ti3	['chi', 'shen', 'lou', 'ti']	4	12	9	
+zhou4zu3	$#4zu3	['zhou', 'zu']	2	6	4	
+yu2yue4jie2	yu2ɥe4jie2	['yu', 'yue', 'jie']	3	8	7	
+gei1	g#1	['gei']	1	3	2	
+da4ji4si1	da4ji4si1	['da', 'ji', 'si']	3	6	6	
+gai1ya4fa3	g#1ya4fa3	['gai', 'ya', 'fa']	3	7	6	
+da4jia1	da4jia1	['da', 'jia']	2	5	5	
+gui3ji4	gui3ji4	['gui', 'ji']	2	5	5	
+na2zhe	na2$e	['na', 'zhe']	2	5	4	
+yu4	yu4	['yu']	1	2	2	
+xiang1gao1	xiaŋ1g#1	['xiang', 'gao']	2	8	6	
+wang3fei4	waŋ3f#4	['wang', 'fei']	2	7	5	
+zhou1ji4	$#1ji4	['zhou', 'ji']	2	6	4	
+an1zang4	an1zaŋ4	['an', 'zang']	2	6	5	
+pu3	pu3	['pu']	1	2	2	
+shu4shuo1	$u4$uo1	['shu', 'shuo']	2	7	5	
+ji4nian4	ji4nian4	['ji', 'nian']	2	6	6	
+ji1hui4	ji1hui4	['ji', 'hui']	2	5	5	
+chu2jiao4jie2	$u2ji#4jie2	['chu', 'jiao', 'jie']	3	10	8	
+mou3	m#3	['mou']	1	3	2	
+yu2yue4jie2men2tu3	yu2ɥe4jie2men2tu3	['yu', 'yue', 'jie', 'men', 'tu']	5	13	12	
+yan2xi2dao4	yan2xi2d#4	['yan', 'xi', 'dao']	3	8	7	
+qu4shi4	qu4$i4	['qu', 'shi']	2	5	4	
+bo4	bwo4	['bo']	1	2	3	
+pu2tao4zhi1	pu2t#4$i1	['pu', 'tao', 'zhi']	3	8	6	
+chang4	$aŋ4	['chang']	1	5	3	
+jin1ye4	jin1ye4	['jin', 'ye']	2	5	5	
+ke4xi1ma3ni2	ke4xi1ma3ni2	['ke', 'xi', 'ma', 'ni']	4	8	8	
+nan2guo4	nan2guo4	['nan', 'guo']	2	6	6	
+you1shang1	y#1$aŋ1	['you', 'shang']	2	8	5	
+ji1hu1	ji1hu1	['ji', 'hu']	2	4	4	
+ke3xing2	ke3xjəŋ2	['ke', 'xing']	2	6	6	
+zen3me0yang4	zen3me0yaŋ4	['zen', 'me', 'yang']	3	9	8	
+pian4shi2	pian4$i2	['pian', 'shi']	2	7	6	
+xin1ling2	xin1ljəŋ2	['xin', 'ling']	2	7	7	
+rou4ti3	r#4ti3	['rou', 'ti']	2	5	4	
+kun4juan4	kwən4juan4	['kun', 'juan']	2	7	8	
+reng2ran2	reŋ2ran2	['reng', 'ran']	2	7	6	
+dao1	d#1	['dao']	1	3	2	
+bang4	baŋ4	['bang']	1	4	3	
+an4hao4	an4h#4	['an', 'hao']	2	5	4	
+qin1zui3	qin1zui3	['qin', 'zui']	2	6	6	
+xiao1	xi#1	['xiao']	1	4	3	
+qiao4	qi#4	['qiao']	1	4	3	
+shi4qing	$i4qjəŋ	['shi', 'qing']	2	7	6	
+qiang2dao4	qiaŋ2d#4	['qiang', 'dao']	2	8	6	
+tian1tian1	tian1tian1	['tian', 'tian']	2	8	8	
+yuan4zi	ɥæn4zi	['yuan', 'zi']	2	6	5	
+chai1yi4	$#1yi4	['chai', 'yi']	2	6	4	
+sui1	sui1	['sui']	1	3	3	
+shi2ju4	$i2ju4	['shi', 'ju']	2	5	4	
+yan2yu3	yan2yu3	['yan', 'yu']	2	5	5	
+quan2neng2	quan2neŋ2	['quan', 'neng']	2	8	7	
+si1	si1	['si']	1	2	2	
+gai1si3	g#1si3	['gai', 'si']	2	5	4	
+tuo4mo	tuo4mwo	['tuo', 'mo']	2	5	6	
+quan2tou	quan2t#	['quan', 'tou']	2	7	6	
+shou3zhang3	$#3$aŋ3	['shou', 'zhang']	2	9	5	
+shi3nv3	$i3nv3	['shi', 'nv']	2	5	4	
+su4lai2	su4l#2	['su', 'lai']	2	5	4	
+pang2bian1	paŋ2bian1	['pang', 'bian']	2	8	7	
+kou3yin1	k#3yin1	['kou', 'yin']	2	6	5	
+zhou4	$#4	['zhou']	1	4	2	
+tong4ku1	toŋ4ku1	['tong', 'ku']	2	6	5	
+jie4qu4	jie4qu4	['jie', 'qu']	2	5	5	
+xun2fu3	xun2fu3	['xun', 'fu']	2	5	5	
+bi3la1duo1	bi3la1duo1	['bi', 'la', 'duo']	3	7	7	
+hou4hui3	h#4hui3	['hou', 'hui']	2	6	5	
+wu2gu1	wu2gu1	['wu', 'gu']	2	4	4	
+cheng2dang1	$eŋ2daŋ1	['cheng', 'dang']	2	9	6	
+yao2	y#2	['yao']	1	3	2	
+gu1	gu1	['gu']	1	2	2	
+jia4qian2	jia4qian2	['jia', 'qian']	2	7	7	
+yi3zhi4	yi3$i4	['yi', 'zhi']	2	5	4	
+chang2li4	$aŋ2li4	['chang', 'li']	2	7	5	
+fung4	fwəŋ4	['fung']	1	4	4	
+jie2qi1	jie2qi1	['jie', 'qi']	2	5	5	
+qiu2fan4	qiu2fan4	['qiu', 'fan']	2	6	6	
+ba1la1ba1	ba1la1ba1	['ba', 'la', 'ba']	3	6	6	
+ji2du4	ji2du4	['ji', 'du']	2	4	4	
+jie3	jie3	['jie']	1	3	3	
+tang2	taŋ2	['tang']	1	4	3	
+fu1ren	fu1ren	['fu', 'ren']	2	5	5	
+tiao3suo	ti#3suo	['tiao', 'suo']	2	7	6	
+ji2li4	ji2li4	['ji', 'li']	2	4	4	
+ya2men	ya2men	['ya', 'men']	2	5	5	
+zhu1hong2se1	$u1hoŋ2se1	['zhu', 'hong', 'se']	3	9	7	
+pao2zi	p#2zi	['pao', 'zi']	2	5	4	
+guan1mian3	guan1mian3	['guan', 'mian']	2	8	8	
+wei3zi	w#3zi	['wei', 'zi']	2	5	4	
+gong1xi3	goŋ1xi3	['gong', 'xi']	2	6	5	
+gu3li4nai4	gu3li4n#4	['gu', 'li', 'nai']	3	7	6	
+mian3qiang3	mian3qiaŋ3	['mian', 'qiang']	2	9	8	
+ge4ge4ta1	ge4ge4ta1	['ge', 'ge', 'ta']	3	6	6	
+du2lou2	du2l#2	['du', 'lou']	2	5	4	
+ku3dan3	ku3dan3	['ku', 'dan']	2	5	5	
+tiao2he	ti#2he	['tiao', 'he']	2	6	5	
+nian1jiu1	nian1jiu1	['nian', 'jiu']	2	7	7	
+kan1shou3	kan1$#3	['kan', 'shou']	2	7	5	
+yi3shang4	yi3$aŋ4	['yi', 'shang']	2	7	5	
+pai2zi	p#2zi	['pai', 'zi']	2	5	4	
+zui4zhuang4	zui4$uaŋ4	['zui', 'zhuang']	2	9	7	
+ji1qiao4	ji1qi#4	['ji', 'qiao']	2	6	5	
+yi3kao4	yi3k#4	['yi', 'kao']	2	5	4	
+yi3li4	yi3li4	['yi', 'li']	2	4	4	
+ma3	ma3	['ma']	1	2	2	
+ni2	ni2	['ni']	1	2	2	
+hu1jiao4	hu1ji#4	['hu', 'jiao']	2	6	5	
+pao3	p#3	['pao']	1	3	2	
+hai3rong2	h#3roŋ2	['hai', 'rong']	2	7	5	
+cu4	cu4	['cu']	1	2	2	
+bang3	baŋ3	['bang']	1	4	3	
+man4zi3	man4zi3	['man', 'zi']	2	5	5	
+beng1lie4	beŋ1lie4	['beng', 'lie']	2	7	6	
+sheng4tu2	$eŋ4tu2	['sheng', 'tu']	2	7	5	
+jing1li4	jjəŋ1li4	['jing', 'li']	2	6	6	
+mo3da4la1	mwo3da4la1	['mo', 'da', 'la']	3	6	7	
+ya4li4ma3tai4	ya4li4ma3t#4	['ya', 'li', 'ma', 'tai']	4	9	8	
+xi4ma2bu4	xi4ma2bu4	['xi', 'ma', 'bu']	3	6	6	
+guo3	guo3	['guo']	1	3	3	
+an1fang4	an1faŋ4	['an', 'fang']	2	6	5	
+zao2	z#2	['zao']	1	3	2	
+gun2	gwən2	['gun']	1	3	4	
+you4huo4	y#4huo4	['you', 'huo']	2	6	5	
+ri4hou4	ri4h#4	['ri', 'hou']	2	5	4	
+ba3shou3	ba3$#3	['ba', 'shou']	2	6	4	
+tuo3dang4	tuo3daŋ4	['tuo', 'dang']	2	7	6	
+li4hai4	li4h#4	['li', 'hai']	2	5	4	
+xiang4mao4	xiaŋ4m#4	['xiang', 'mao']	2	8	6	
+xue3	xue3	['xue']	1	3	3	
+hun2shen1	hwən2$en1	['hun', 'shen']	2	7	7	
+tu2	tu2	['tu']	1	2	2	
+yue4	ɥe4	['yue']	1	3	2	
+cong1	coŋ1	['cong']	1	4	3	
+na	na	['na']	1	2	2	
+ji2mang2	ji2maŋ2	['ji', 'mang']	2	6	5	
+pao2	p#2	['pao']	1	3	2	
+bao4	b#4	['bao']	1	3	2	
+quan4	quan4	['quan']	1	4	4	
+chuan2shuo1	$uan2$uo1	['chuan', 'shuo']	2	9	7	
+yue1deng2	ɥe1deŋ2	['yue', 'deng']	2	7	5	
+yi3sai4ya4shu1	yi3s#4ya4$u1	['yi', 'sai', 'ya', 'shu']	4	10	8	
+wan1	wan1	['wan']	1	3	3	
+xie2dai4	xie2d#4	['xie', 'dai']	2	6	5	
+ye3shou4	ye3$#4	['ye', 'shou']	2	6	4	
+xuan1chuan2	xuan1$uan2	['xuan', 'chuan']	2	9	8	
+ri4qi1	ri4qi1	['ri', 'qi']	2	4	4	
+shi4da2	$i4da2	['shi', 'da']	2	5	4	
+gu4gong1	gu4goŋ1	['gu', 'gong']	2	6	5	
+hui4tang2	hui4taŋ2	['hui', 'tang']	2	7	6	
+chou1	$#1	['chou']	1	4	2	
+zhen4	$en4	['zhen']	1	4	3	
+jing1ya4	jjəŋ1ya4	['jing', 'ya']	2	6	6	
+ri4luo4	ri4luo4	['ri', 'luo']	2	5	5	
+zhui1	$ui1	['zhui']	1	4	3	
+xiang1cun1	xiaŋ1cwən1	['xiang', 'cun']	2	8	8	
+chuan2yang2	$uan2yaŋ2	['chuan', 'yang']	2	9	7	
+zhi3hao3	$i3h#3	['zhi', 'hao']	2	6	4	
+kong1	koŋ1	['kong']	1	4	3	
+tong1	toŋ1	['tong']	1	4	3	
+wo4	wo4	['wo']	1	2	2	
+zhui4	$ui4	['zhui']	1	4	3	
+li4wei4	li4w#4	['li', 'wei']	2	5	4	
+jian4kang1	jian4kaŋ1	['jian', 'kang']	2	8	7	
+fa2	fa2	['fa']	1	2	2	
+ya4	ya4	['ya']	1	2	2	
+wei2ren2	w#2ren2	['wei', 'ren']	2	6	5	
+she4li4	$e4li4	['she', 'li']	2	5	4	
+zhu3ye1su1	$u3ye1su1	['zhu', 'ye', 'su']	3	7	6	
+kui1tan4	kui1tan4	['kui', 'tan']	2	6	6	
+na4yang4	na4yaŋ4	['na', 'yang']	2	6	5	
+gang1	gaŋ1	['gang']	1	4	3	
+yong1ji3	yoŋ1ji3	['yong', 'ji']	2	6	5	
+xian3lu4	xian3lu4	['xian', 'lu']	2	6	6	
+ban4ni2qi2	ban4ni2qi2	['ban', 'ni', 'qi']	3	7	7	
+lei2	l#2	['lei']	1	3	2	
+qin1shu3	qin1$u3	['qin', 'shu']	2	6	5	
+dian1	dian1	['dian']	1	4	4	
+kuang2	kuaŋ2	['kuang']	1	5	4	
+re3	re3	['re']	1	2	2	
+shi4ren2	$i4ren2	['shi', 'ren']	2	6	5	
+si4mian4	si4mian4	['si', 'mian']	2	6	6	
+fa1sheng1	fa1$eŋ1	['fa', 'sheng']	2	7	5	
+yang4	yaŋ4	['yang']	1	4	3	
+si1yu4	si1yu4	['si', 'yu']	2	4	4	
+chuang2	$uaŋ2	['chuang']	1	6	4	
+yan3cang2	yan3caŋ2	['yan', 'cang']	2	7	6	
+yin3man2	yin3man2	['yin', 'man']	2	6	6	
+zhe4yang4di4	$e4yaŋ4di4	['zhe', 'yang', 'di']	3	9	7	
+wu3gu3	wu3gu3	['wu', 'gu']	2	4	4	
+zi4ran2	zi4ran2	['zi', 'ran']	2	5	5	
+zi3li4	zi3li4	['zi', 'li']	2	4	4	
+shu2	$u2	['shu']	1	3	2	
+bi3jiao4	bi3ji#4	['bi', 'jiao']	2	6	5	
+biao3ming2	bi#3mjəŋ2	['biao', 'ming']	2	8	7	
+tong2xing2	toŋ2xjəŋ2	['tong', 'xing']	2	8	7	
+wei3	w#3	['wei']	1	3	2	
+zhen3	$en3	['zhen']	1	4	3	
+ge1la1sen1	ge1la1sen1	['ge', 'la', 'sen']	3	7	7	
+zhuo2	$uo2	['zhuo']	1	4	3	
+tie3lian4	tie3lian4	['tie', 'lian']	2	7	7	
+jiao3liao4	ji#3li#4	['jiao', 'liao']	2	8	6	
+kun2suo3	kwən2suo3	['kun', 'suo']	2	6	7	
+zhi4fu2	$i4fu2	['zhi', 'fu']	2	5	4	
+zhi4gao1	$i4g#1	['zhi', 'gao']	2	6	4	
+ken3qiu2	ken3qiu2	['ken', 'qiu']	2	6	6	
+po1	pwo1	['po']	1	2	3	
+shu4mu4	$u4mu4	['shu', 'mu']	2	5	4	
+shang4yi1	$aŋ4yi1	['shang', 'yi']	2	7	5	
+lu3	lu3	['lu']	1	2	2	
+de2yi3	de2yi3	['de', 'yi']	2	4	4	
+za2	za2	['za']	1	2	2	
+jue2de	jue2de	['jue', 'de']	2	5	5	
+dun4	dwən4	['dun']	1	3	4	
+kong3ju4	koŋ3ju4	['kong', 'ju']	2	6	5	
+lao2dong4	l#2doŋ4	['lao', 'dong']	2	7	5	
+ku1qi4	ku1qi4	['ku', 'qi']	2	4	4	
+mi3	mi3	['mi']	1	2	2	
+cha4yi4	$a4yi4	['cha', 'yi']	2	5	4	
+gua4	gua4	['gua']	1	3	3	
+mo3	mwo3	['mo']	1	2	3	
+huai2hen4	hu#2hen4	['huai', 'hen']	2	7	6	
+jing4wei4	jjəŋ4w#4	['jing', 'wei']	2	7	6	
+bao3hu4	b#3hu4	['bao', 'hu']	2	5	4	
+le4yi4	le4yi4	['le', 'yi']	2	4	4	
+yi2	yi2	['yi']	1	2	2	
+qia4	qia4	['qia']	1	3	3	
+qiao3	qi#3	['qiao']	1	4	3	
+fu1	fu1	['fu']	1	2	2	
+sui2yi4	sui2yi4	['sui', 'yi']	2	5	5	
+hu4wei4	hu4w#4	['hu', 'wei']	2	5	4	
+zang4	zaŋ4	['zang']	1	4	3	
+lai2wang3	l#2waŋ3	['lai', 'wang']	2	7	5	
+gong1fu	goŋ1fu	['gong', 'fu']	2	6	5	
+kan1	kan1	['kan']	1	3	3	
+yi4bang1	yi4baŋ1	['yi', 'bang']	2	6	5	
+qing1cao3	qjəŋ1c#3	['qing', 'cao']	2	7	6	
+yi4pai2yi4pai2de	yi4p#2yi4p#2de	['yi', 'pai', 'yi', 'pai', 'de']	5	12	10	
+pai2	p#2	['pai']	1	3	2	
+zhe0zhe4	$e0$e4	['zhe', 'zhe']	2	6	4	
+nan2zi3	nan2zi3	['nan', 'zi']	2	5	5	
+ci2bie2	ci2bie2	['ci', 'bie']	2	5	5	
+su2	su2	['su']	1	2	2	
+yuan2lai2	ɥæn2l#2	['yuan', 'lai']	2	7	5	
+shang0lai2	$aŋ0l#2	['shang', 'lai']	2	8	5	
+gui1ju	gui1ju	['gui', 'ju']	2	5	5	
+li4dai4	li4d#4	['li', 'dai']	2	5	4	
+cheng2ran2	$eŋ2ran2	['cheng', 'ran']	2	8	6	
+fei4qi4	f#4qi4	['fei', 'qi']	2	5	4	
+ban3	ban3	['ban']	1	3	3	
+ke	ke	['ke']	1	2	2	
+tan1lan2	tan1lan2	['tan', 'lan']	2	6	6	
+gui3zha4	gui3$a4	['gui', 'zha']	2	6	5	
+jiao1ao4	ji#1#4	['jiao', 'ao']	2	6	4	
+qi3shen1	qi3$en1	['qi', 'shen']	2	6	5	
+xi1la4	xi1la4	['xi', 'la']	2	4	4	
+xu4	xu4	['xu']	1	2	2	
+fei1	f#1	['fei']	1	3	2	
+sui4zha1er	sui4$a1er	['sui', 'zha', 'er']	3	8	7	
+long2	loŋ2	['long']	1	4	3	
+tan4	tan4	['tan']	1	3	3	
+she2tou	$e2t#	['she', 'tou']	2	6	4	
+tan4xi1	tan4xi1	['tan', 'xi']	2	5	5	
+yi3fa3	yi3fa3	['yi', 'fa']	2	4	4	
+pan2wen4	pan2wen4	['pan', 'wen']	2	6	6	
+deng2jing1	deŋ2jjəŋ1	['deng', 'jing']	2	8	7	
+yang4yang4	yaŋ4yaŋ4	['yang', 'yang']	2	8	6	
+gai1sa1li4ya4fei2li4bi3	g#1sa1li4ya4f#2li4bi3	['gai', 'sa', 'li', 'ya', 'fei', 'li', 'bi']	7	16	14	
+cun1zhuang1	cwən1$uaŋ1	['cun', 'zhuang']	2	9	8	
+qi4jue2	qi4jue2	['qi', 'jue']	2	5	5	
+ke3chi3	ke3$i3	['ke', 'chi']	2	5	4	
+piao4	pi#4	['piao']	1	4	3	
+piao3	pi#3	['piao']	1	4	3	
+qing1man4	qjəŋ1man4	['qing', 'man']	2	7	7	
+bian4lun4	bian4lwən4	['bian', 'lun']	2	7	8	
+zhuo1	$uo1	['zhuo']	1	4	3	
+shuai1	$u#1	['shuai']	1	5	3	
+reng1	reŋ1	['reng']	1	4	3	
+bu4zu2	bu4zu2	['bu', 'zu']	2	4	4	
+zheng1lun4	$eŋ1lwən4	['zheng', 'lun']	2	8	7	
+shou3xian1	$#3xian1	['shou', 'xian']	2	8	6	
+qing1yi4	qjəŋ1yi4	['qing', 'yi']	2	6	6	
+di2dang3	di2daŋ3	['di', 'dang']	2	6	5	
+qiang2	qiaŋ2	['qiang']	1	5	4	
+que4tui3	que4tui3	['que', 'tui']	2	6	6	
+chong2	$oŋ2	['chong']	1	5	3	
+ji4wu4	ji4wu4	['ji', 'wu']	2	4	4	
+tiao2li4	ti#2li4	['tiao', 'li']	2	6	5	
+chuang4zao4	$uaŋ4z#4	['chuang', 'zao']	2	9	6	
+nv3	nv3	['nv']	1	2	2	
+se4	se4	['se']	1	2	2	
+ran2	ran2	['ran']	1	3	3	
+tuo4	tuo4	['tuo']	1	3	3	
+mo	mwo	['mo']	1	2	3	
+zhi4li3	$i4li3	['zhi', 'li']	2	5	4	
+tao3fan4	t#3fan4	['tao', 'fan']	2	6	5	
+la1bo1ni2	la1bwo1ni2	['la', 'bo', 'ni']	3	6	7	
+zu3	zu3	['zu']	1	2	2	
+wu4jian4	wu4jian4	['wu', 'jian']	2	6	6	
+tian1se4	tian1se4	['tian', 'se']	2	6	6	
+huo4zhe3	huo4$e3	['huo', 'zhe']	2	6	5	
+fa3zi	fa3zi	['fa', 'zi']	2	4	4	
+xin4fu2	xin4fu2	['xin', 'fu']	2	5	5	
+shang1	$aŋ1	['shang']	1	5	3	
+lun2	lwən2	['lun']	1	3	4	
+quan1	quan1	['quan']	1	4	4	
+kan	kan	['kan']	1	3	3	
+pian1	pian1	['pian']	1	4	4	
+yao4jin3	y#4jin3	['yao', 'jin']	2	6	5	
+ne0ye1su1	ne0ye1su1	['ne', 'ye', 'su']	3	6	6	
+du2	du2	['du']	1	2	2	
+jin4li4	jin4li4	['jin', 'li']	2	5	5	
+fan2ji4	fan2ji4	['fan', 'ji']	2	5	5	
+xi3huan	xi3huan	['xi', 'huan']	2	6	6	
+you2xing2	y#2xjəŋ2	['you', 'xing']	2	7	6	
+ruo4gan1	ruo4gan1	['ruo', 'gan']	2	6	6	
+qiong2	qioŋ2	['qiong']	1	5	4	
+yang3sheng1	yaŋ3$eŋ1	['yang', 'sheng']	2	9	6	
+bu4dang4	bu4daŋ4	['bu', 'dang']	2	6	5	
+wan4wu4	wan4wu4	['wan', 'wu']	2	5	5	
+zhang1	$aŋ1	['zhang']	1	5	3	
+qi2dao3	qi2d#3	['qi', 'dao']	2	5	4	
+ji4ju1	ji4ju1	['ji', 'ju']	2	4	4	
+da3po4	da3pwo4	['da', 'po']	2	4	5	
+sheng1qi4	$eŋ1qi4	['sheng', 'qi']	2	7	5	
+yang2gao1	yaŋ2g#1	['yang', 'gao']	2	7	5	
+ying2mian4	yiŋ2mian4	['ying', 'mian']	2	8	7	
+zheng3qi2	$eŋ3qi2	['zheng', 'qi']	2	7	5	
+jing1kong3	jjəŋ1koŋ3	['jing', 'kong']	2	8	7	
+che4	$e4	['che']	1	3	2	
+hui2da2di4	hui2da2di4	['hui', 'da', 'di']	3	7	7	
+lao2	l#2	['lao']	1	3	2	
+lao2kao4	l#2k#4	['lao', 'kao']	2	6	4	
+yi1zhi2	yi1$i2	['yi', 'zhi']	2	5	4	
+kao3huo3	k#3huo3	['kao', 'huo']	2	6	5	
+xia4bian1	xia4bian1	['xia', 'bian']	2	7	7	
+si1xiang3	si1xiaŋ3	['si', 'xiang']	2	7	6	
+na4me	na4me	['na', 'me']	2	4	4	
+yan4	yan4	['yan']	1	3	3	
+he4	he4	['he']	1	2	2	
+qu1xi1	qu1xi1	['qu', 'xi']	2	4	4	
+you3zhe4	y#3$e4	['you', 'zhe']	2	6	4	
+hai1	h#1	['hai']	1	3	2	
+luo2	luo2	['luo']	1	3	3	
+sa1luo2mi3	sa1luo2mi3	['sa', 'luo', 'mi']	3	7	7	
+zun1gui4	zwən1gui4	['zun', 'gui']	2	6	7	
+fang4dan3	faŋ4dan3	['fang', 'dan']	2	7	6	
+gei3wan4	g#3wan4	['gei', 'wan']	2	6	5	
+fang1yan2	faŋ1yan2	['fang', 'yan']	2	7	6	
+dao4chu4	d#4$u4	['dao', 'chu']	2	6	4	
+zheng4shi2	$eŋ4$i2	['zheng', 'shi']	2	8	5	
+tia2fei1luo2	tia2f#1luo2	['tia', 'fei', 'luo']	3	9	8	
+qin1yan3	qin1yan3	['qin', 'yan']	2	6	6	
+de0zhe4xie	de0$e4xie	['de', 'zhe', 'xie']	3	8	7	
+xiang2xi4	xiaŋ2xi4	['xiang', 'xi']	2	7	6	
+kao3cha2	k#3$a2	['kao', 'cha']	2	6	4	
+ci4xu4	ci4xu4	['ci', 'xu']	2	4	4	
+que4shi2	que4$i2	['que', 'shi']	2	6	5	
+ya4lun2	ya4lwən2	['ya', 'lun']	2	5	6	
+hou4ren2	h#4ren2	['hou', 'ren']	2	6	5	
+yi3li4sha1bo2	yi3li4$a1bwo2	['yi', 'li', 'sha', 'bo']	4	9	9	
+li3yi2	li3yi2	['li', 'yi']	2	4	4	
+zhi3zhai1	$i3$#1	['zhi', 'zhai']	2	7	4	
+sheng1yu4	$eŋ1yu4	['sheng', 'yu']	2	7	5	
+nian2ji4	nian2ji4	['nian', 'ji']	2	6	6	
+lao3mai4	l#3m#4	['lao', 'mai']	2	6	4	
+ban1ci4	ban1ci4	['ban', 'ci']	2	5	5	
+zhi2fen4	$i2fen4	['zhi', 'fen']	2	6	5	
+che4qia1	$e4qia1	['che', 'qia']	2	6	5	
+shao1xiang1	$#1xiaŋ1	['shao', 'xiang']	2	9	6	
+xiang1tan2	xiaŋ1tan2	['xiang', 'tan']	2	8	7	
+xi3le4	xi3le4	['xi', 'le']	2	4	4	
+dan4jiu3	dan4jiu3	['dan', 'jiu']	2	6	6	
+nong2	noŋ2	['nong']	1	4	3	
+mu3	mu3	['mu']	1	2	2	
+xin1zhi4	xin1$i4	['xin', 'zhi']	2	6	5	
+bei4ni4	b#4ni4	['bei', 'ni']	2	5	4	
+lao3	l#3	['lao']	1	3	2	
+xin4xi1	xin4xi1	['xin', 'xi']	2	5	5	
+yi4xiang4	yi4xiaŋ4	['yi', 'xiang']	2	7	6	
+gong4zhi2	goŋ4$i2	['gong', 'zhi']	2	7	5	
+juan4gu4	juan4gu4	['juan', 'gu']	2	6	6	
+kan4dai4	kan4d#4	['kan', 'dai']	2	6	5	
+xiu1chi3	xiu1$i3	['xiu', 'chi']	2	6	5	
+chu2diao4	$u2di#4	['chu', 'diao']	2	7	5	
+ming2zi	mjəŋ2zi	['ming', 'zi']	2	6	6	
+en1	en1	['en']	1	2	2	
+fan3fu4	fan3fu4	['fan', 'fu']	2	5	5	
+qiong2jin4	qioŋ2jin4	['qiong', 'jin']	2	8	7	
+chu1jia4	$u1jia4	['chu', 'jia']	2	6	5	
+yin1bi4	yin1bi4	['yin', 'bi']	2	5	5	
+kuang4qie3	kuaŋ4qie3	['kuang', 'qie']	2	8	7	
+qin1qi	qin1qi	['qin', 'qi']	2	5	5	
+nan2tai1	nan2t#1	['nan', 'tai']	2	6	5	
+qing2yuan4	qjəŋ2ɥæn4	['qing', 'yuan']	2	8	7	
+tai1	t#1	['tai']	1	3	2	
+xiang1xin4	xiaŋ1xin4	['xiang', 'xin']	2	8	7	
+le4	le4	['le']	1	2	2	
+gu4nian4	gu4nian4	['gu', 'nian']	2	6	6	
+bei1wei1	b#1w#1	['bei', 'wei']	2	6	4	
+bang3bi4	baŋ3bi4	['bang', 'bi']	2	6	5	
+shi1zhan3	$i1$an3	['shi', 'zhan']	2	7	5	
+kuan2gao4	kuan2g#4	['kuan', 'gao']	2	7	6	
+wang4xiang3	waŋ4xiaŋ3	['wang', 'xiang']	2	9	7	
+gan3san4	gan3san4	['gan', 'san']	2	6	6	
+bei1jian4	b#1jian4	['bei', 'jian']	2	7	6	
+fu4zu2	fu4zu2	['fu', 'zu']	2	4	4	
+fu2zhu4	fu2$u4	['fu', 'zhu']	2	5	4	
+lie4zu3	lie4zu3	['lie', 'zu']	2	5	5	
+yi3li4sha1	yi3li4$a1	['yi', 'li', 'sha']	3	7	6	
+bo2	bwo2	['bo']	1	2	3	
+chan3qi1	$an3qi1	['chan', 'qi']	2	6	5	
+qin1zu2	qin1zu2	['qin', 'zu']	2	5	5	
+huan1le4	huan1le4	['huan', 'le']	2	6	6	
+ge1li3	ge1li3	['ge', 'li']	2	4	4	
+shu1zhan3	$u1$an3	['shu', 'zhan']	2	7	5	
+ju1zhu4	ju1$u4	['ju', 'zhu']	2	5	4	
+shi1xing2	$i1xjəŋ2	['shi', 'xing']	2	7	6	
+jiu4shu2	jiu4$u2	['jiu', 'shu']	2	6	5	
+tan3ran2	tan3ran2	['tan', 'ran']	2	6	6	
+sheng4jie2	$eŋ4jie2	['sheng', 'jie']	2	8	6	
+jiu4en1	jiu4en1	['jiu', 'en']	2	5	5	
+xin1chang2	xin1$aŋ2	['xin', 'chang']	2	8	6	
+qing1chen2	qjəŋ1$en2	['qing', 'chen']	2	8	7	
+xian3ming2	xian3mjəŋ2	['xian', 'ming']	2	8	8	
+gai1sa3ya4gu3shi4du1	g#1sa3ya4gu3$i4du1	['gai', 'sa', 'ya', 'gu', 'shi', 'du']	6	14	12	
+ren2min2	ren2min2	['ren', 'min']	2	6	6	
+bao4ming2	b#4mjəŋ2	['bao', 'ming']	2	7	6	
+ce4	ce4	['ce']	1	2	2	
+ju1li3niu3	ju1li3niu3	['ju', 'li', 'niu']	3	7	7	
+pin4	pin4	['pin']	1	3	3	
+shen1yun4	$en1yun4	['shen', 'yun']	2	7	6	
+bao1	b#1	['bao']	1	3	2	
+ma3cao2	ma3c#2	['ma', 'cao']	2	5	4	
+ke4dian4	ke4dian4	['ke', 'dian']	2	6	6	
+rong2guang1	roŋ2guaŋ1	['rong', 'guang']	2	9	7	
+hu1	hu1	['hu']	1	2	2	
+ji4hao4	ji4h#4	['ji', 'hao']	2	5	4	
+gui1yu3	gui1yu3	['gui', 'yu']	2	5	5	
+su1	su1	['su']	1	2	2	
+tou2sheng1	t#2$eŋ1	['tou', 'sheng']	2	8	5	
+chu2	$u2	['chu']	1	3	2	
+xian4ji4	xian4ji4	['xian', 'ji']	2	6	6	
+xi1mian4	xi1mian4	['xi', 'mian']	2	6	6	
+qian2cheng2	qian2$eŋ2	['qian', 'cheng']	2	9	7	
+su4chang2	su4$aŋ2	['su', 'chang']	2	7	5	
+pan4wang4	pan4waŋ4	['pan', 'wang']	2	7	6	
+ban4li3	ban4li3	['ban', 'li']	2	5	5	
+an1ran2	an1ran2	['an', 'ran']	2	5	5	
+hua4bing3	hua4bjəŋ3	['hua', 'bing']	2	7	7	
+ci1	ci1	['ci']	1	2	2	
+ya4na2	ya4na2	['ya', 'na']	2	4	4	
+ya4she4	ya4$e4	['ya', 'she']	2	5	4	
+fa3nei4li4	fa3n#4li4	['fa', 'nei', 'li']	3	7	6	
+gua3	gua3	['gua']	1	3	3	
+cheng1xie4	$eŋ1xie4	['cheng', 'xie']	2	8	6	
+reng2jiu4	reŋ2jiu4	['reng', 'jiu']	2	7	6	
+bu2zhi1dao4	bu2$i1d#4	['bu', 'zhi', 'dao']	3	8	6	
+lu4cheng2	lu4$eŋ2	['lu', 'cheng']	2	7	5	
+shu2shi	$u2$i	['shu', 'shi']	2	6	4	
+ying4dui4	yiŋ4dui4	['ying', 'dui']	2	7	6	
+shang1xin1	$aŋ1xin1	['shang', 'xin']	2	8	6	
+shun4cong2	$wən4coŋ2	['shun', 'cong']	2	8	7	
+zeng1zhang3	zeŋ1$aŋ3	['zeng', 'zhang']	2	9	6	
+gai1sa3ti2bi4liu2	g#1sa3ti2bi4liu2	['gai', 'sa', 'ti', 'bi', 'liu']	5	12	11	
+ben3diu1bi3la1duo1	ben3diu1bi3la1duo1	['ben', 'diu', 'bi', 'la', 'duo']	5	13	13	
+yi3tu3li4ya4	yi3tu3li4ya4	['yi', 'tu', 'li', 'ya']	4	8	8	
+te4la1ke3ni2	te4la1ke3ni2	['te', 'la', 'ke', 'ni']	4	8	8	
+lv3sa1nie4	lv3sa1nie4	['lv', 'sa', 'nie']	3	7	7	
+ya4bi3li4ni2	ya4bi3li4ni2	['ya', 'bi', 'li', 'ni']	4	8	8	
+ya4na4	ya4na4	['ya', 'na']	2	4	4	
+shan1wa1	$an1wa1	['shan', 'wa']	2	6	5	
+shan1gang1	$an1gaŋ1	['shan', 'gang']	2	8	6	
+wan1qu1	wan1qu1	['wan', 'qu']	2	5	5	
+qu1	qu1	['qu']	1	2	2	
+gai3	g#3	['gai']	1	3	2	
+zheng4zhi2	$eŋ4$i2	['zheng', 'zhi']	2	8	5	
+di1	di1	['di']	1	2	2	
+ping2tan3	pjəŋ2tan3	['ping', 'tan']	2	7	7	
+qiang2bao4	qiaŋ2b#4	['qiang', 'bao']	2	8	6	
+e2zha4	e2$a4	['e', 'zha']	2	4	3	
+qian2liang2	qian2liaŋ2	['qian', 'liang']	2	9	8	
+zhi1zu2	$i1zu2	['zhi', 'zu']	2	5	4	
+zhi3wang	$i3waŋ	['zhi', 'wang']	2	7	5	
+cai1yi2	c#1yi2	['cai', 'yi']	2	5	4	
+xing2zhuang4	xjəŋ2$uaŋ4	['xing', 'zhuang']	2	10	8	
+kai1tou2	k#1t#2	['kai', 'tou']	2	6	4	
+xi1li3	xi1li3	['xi', 'li']	2	4	4	
+ma3ta3	ma3ta3	['ma', 'ta']	2	4	4	
+mai4ji1	m#4ji1	['mai', 'ji']	2	5	4	
+ya3na2	ya3na2	['ya', 'na']	2	4	4	
+ma3ta1ti2ya4	ma3ta1ti2ya4	['ma', 'ta', 'ti', 'ya']	4	8	8	
+ya4mo2si1	ya4mwo2si1	['ya', 'mo', 'si']	3	6	7	
+na2hong2	na2hoŋ2	['na', 'hong']	2	6	5	
+yi3si1li4	yi3si1li4	['yi', 'si', 'li']	3	6	6	
+na2gai1	na2g#1	['na', 'gai']	2	5	4	
+ma3ye1	ma3ye1	['ma', 'ye']	2	4	4	
+xi1mei3	xi1m#3	['xi', 'mei']	2	5	4	
+yue1ya4na2	ɥe1ya4na2	['yue', 'ya', 'na']	3	7	6	
+li4sa1	li4sa1	['li', 'sa']	2	4	4	
+li4sa3	li4sa3	['li', 'sa']	2	4	4	
+ni2li4	ni2li4	['ni', 'li']	2	4	4	
+ya4di3	ya4di3	['ya', 'di']	2	4	4	
+ge1sang1	ge1saŋ1	['ge', 'sang']	2	6	5	
+yi3mo2dang1	yi3mwo2daŋ1	['yi', 'mo', 'dang']	3	8	8	
+yue1xi4	ɥe1xi4	['yue', 'xi']	2	5	4	
+yi3li4yi3xie4	yi3li4yi3xie4	['yi', 'li', 'yi', 'xie']	4	9	9	
+yue1ling4	ɥe1ljəŋ4	['yue', 'ling']	2	7	6	
+xi1mian3	xi1mian3	['xi', 'mian']	2	6	6	
+yue1nan2	ɥe1nan2	['yue', 'nan']	2	6	5	
+mi3li4ya4	mi3li4ya4	['mi', 'li', 'ya']	3	6	6	
+mai3nan2	m#3nan2	['mai', 'nan']	2	6	5	
+ma3da2ta1	ma3da2ta1	['ma', 'da', 'ta']	3	6	6	
+na2dan1	na2dan1	['na', 'dan']	2	5	5	
+na2he4	na2he4	['na', 'he']	2	4	4	
+xi1lu4	xi1lu4	['xi', 'lu']	2	4	4	
+la1wu2	la1wu2	['la', 'wu']	2	4	4	
+fa3le4	fa3le4	['fa', 'le']	2	4	4	
+xi1bai3	xi1b#3	['xi', 'bai']	2	5	4	
+sha1la1	$a1la1	['sha', 'la']	2	5	4	
+gai1nan2	g#1nan2	['gai', 'nan']	2	6	5	
+ya4fa3sa1	ya4fa3sa1	['ya', 'fa', 'sa']	3	6	6	
+shan3	$an3	['shan']	1	4	3	
+la1mai4	la1m#4	['la', 'mai']	2	5	4	
+ma3tu3sa3la1	ma3tu3sa3la1	['ma', 'tu', 'sa', 'la']	4	8	8	
+yi3nuo4	yi3nuo4	['yi', 'nuo']	2	5	5	
+ya3lie4	ya3lie4	['ya', 'lie']	2	5	5	
+ma3le4lie4	ma3le4lie4	['ma', 'le', 'lie']	3	7	7	
+yi3nuo2shi4	yi3nuo2$i4	['yi', 'nuo', 'shi']	3	8	7	
+se4te4	se4te4	['se', 'te']	2	4	4	
+ya4dang1	ya4daŋ1	['ya', 'dang']	2	6	5	
+hua4mo2gui3	hua4mwo2gui3	['hua', 'mo', 'gui']	3	8	9	
+sha4	$a4	['sha']	1	3	2	
+shi2jian4	$i2jian4	['shi', 'jian']	2	7	6	
+cheng1zan4	$eŋ1zan4	['cheng', 'zan']	2	8	6	
+ping2chang2	pjəŋ2$aŋ2	['ping', 'chang']	2	9	7	
+da3kai1	da3k#1	['da', 'kai']	2	5	4	
+pin2qiong2	pin2qioŋ2	['pin', 'qiong']	2	8	7	
+bao4gao4	b#4g#4	['bao', 'gao']	2	6	4	
+bei4lu3	b#4lu3	['bei', 'lu']	2	5	4	
+ye1zhi4	ye1$i4	['ye', 'zhi']	2	5	4	
+zi4you2	zi4y#2	['zi', 'you']	2	5	4	
+yue4na4	ɥe4na4	['yue', 'na']	2	5	4	
+zhi2shi4	$i2$i4	['zhi', 'shi']	2	6	4	
+yin3	yin3	['yin']	1	3	3	
+su2yu3	su2yu3	['su', 'yu']	2	4	4	
+sai1	s#1	['sai']	1	3	2	
+sa1le4fa3	sa1le4fa3	['sa', 'le', 'fa']	3	6	6	
+nai3man4	n#3man4	['nai', 'man']	2	6	5	
+nu4qi4	nu4qi4	['nu', 'qi']	2	4	4	
+wei4ci3	w#4ci3	['wei', 'ci']	2	5	4	
+hu2	hu2	['hu']	1	2	2	
+shao1wei1	$#1w#1	['shao', 'wei']	2	7	4	
+zheng3ye4	$eŋ3ye4	['zheng', 'ye']	2	7	5	
+lao2li4	l#2li4	['lao', 'li']	2	5	4	
+yi1cong2	yi1coŋ2	['yi', 'cong']	2	6	5	
+xian3xie1	xian3xie1	['xian', 'xie']	2	7	7	
+long3	loŋ3	['long']	1	4	3	
+fa3	fa3	['fa']	1	2	2	
+wa3	wa3	['wa']	1	2	2	
+fei1chang2	f#1$aŋ2	['fei', 'chang']	2	8	5	
+yuan4yan2	ɥæn4yan2	['yuan', 'yan']	2	7	6	
+shao4	$#4	['shao']	1	4	2	
+lie3	lie3	['lie']	1	3	3	
+chen2jiu3	$en2jiu3	['chen', 'jiu']	2	7	6	
+cuo1	cuo1	['cuo']	1	3	3	
+ba3bing3	ba3bjəŋ3	['ba', 'bing']	2	6	6	
+tian1xuan3	tian1xuan3	['tian', 'xuan']	2	8	8	
+chan2mo	$an2mwo	['chan', 'mo']	2	6	6	
+xiao4	xi#4	['xiao']	1	4	3	
+ju4jue2	ju4jue2	['ju', 'jue']	2	5	5	
+tiao4yue4	ti#4ɥe4	['tiao', 'yue']	2	7	5	
+chou2xie4	$#2xie4	['chou', 'xie']	2	7	5	
+ci2bei1	ci2b#1	['ci', 'bei']	2	5	4	
+sheng1dou3	$eŋ1d#3	['sheng', 'dou']	2	8	5	
+yao2dong4	y#2doŋ4	['yao', 'dong']	2	7	5	
+gai4zao4	g#4z#4	['gai', 'zao']	2	6	4	
+hao3wei2you3	h#3w#2y#3	['hao', 'wei', 'you']	3	9	6	
+sui2ji2	sui2ji2	['sui', 'ji']	2	5	5	
+bao3gui4	b#3gui4	['bao', 'gui']	2	6	5	
+feng1wen2	feŋ1wen2	['feng', 'wen']	2	7	6	
+song4bin4	soŋ4bin4	['song', 'bin']	2	7	6	
+gang4	gaŋ4	['gang']	1	4	3	
+zai1huan4	z#1huan4	['zai', 'huan']	2	7	6	
+kai1en1	k#1en1	['kai', 'en']	2	5	4	
+hua2li4	hua2li4	['hua', 'li']	2	5	5	
+ti2ku1	ti2ku1	['ti', 'ku']	2	4	4	
+yan3lei4	yan3l#4	['yan', 'lei']	2	6	5	
+ca1	ca1	['ca']	1	2	2	
+zui3lian2lian2	zui3lian2lian2	['zui', 'lian', 'lian']	3	11	11	
+qin1	qin1	['qin']	1	3	3	
+wu2li4	wu2li4	['wu', 'li']	2	4	4	
+zui3qin1	zui3qin1	['zui', 'qin']	2	6	6	
+zhou1you2	$#1y#2	['zhou', 'you']	2	7	4	
+lei3	l#3	['lei']	1	3	2	
+jia1zai3	jia1z#3	['jia', 'zai']	2	6	5	
+ku3sa1	ku3sa1	['ku', 'sa']	2	4	4	
+su1sa1na2	su1sa1na2	['su', 'sa', 'na']	3	6	6	
+cai2wu4	c#2wu4	['cai', 'wu']	2	5	4	
+gong1ji3	goŋ1ji3	['gong', 'ji']	2	6	5	
+zi1run4	zi1rwən4	['zi', 'run']	2	5	6	
+zhong3zi3	$oŋ3zi3	['zhong', 'zi']	2	7	5	
+shi4lian4	$i4lian4	['shi', 'lian']	2	7	6	
+shan4liang2	$an4liaŋ2	['shan', 'liang']	2	9	7	
+liang4guang1	liaŋ4guaŋ1	['liang', 'guang']	2	10	8	
+wei1xian3	w#1xian3	['wei', 'xian']	2	7	6	
+kuang2feng1	kuaŋ2feŋ1	['kuang', 'feng']	2	9	7	
+ge2la1sen1	ge2la1sen1	['ge', 'la', 'sen']	3	7	7	
+suo3lian4	suo3lian4	['suo', 'lian']	2	7	7	
+wu2di3keng1	wu2di3keŋ1	['wu', 'di', 'keng']	3	8	7	
+yong1	yoŋ1	['yong']	1	4	3	
+maye1su1	maye1su1	['maye', 'su']	2	6	6	
+jie4su4	jie4su4	['jie', 'su']	2	5	5	
+sang4	saŋ4	['sang']	1	4	3	
+mian4mao4	mian4m#4	['mian', 'mao']	2	7	6	
+gai3bian4	g#3bian4	['gai', 'bian']	2	7	6	
+tan2lun4	tan2lwən4	['tan', 'lun']	2	6	7	
+qing1xing3	qjəŋ1xjəŋ3	['qing', 'xing']	2	8	8	
+fen1li2	fen1li2	['fen', 'li']	2	5	5	
+shang1hai4	$aŋ1h#4	['shang', 'hai']	2	8	5	
+nan2yi3	nan2yi3	['nan', 'yi']	2	5	5	
+wei1	w#1	['wei']	1	3	2	
+zi4ye1su1	zi4ye1su1	['zi', 'ye', 'su']	3	6	6	
+ju4ta1men	ju4ta1men	['ju', 'ta', 'men']	3	7	7	
+cha1	$a1	['cha']	1	3	2	
+nang2	naŋ2	['nang']	1	4	3	
+gong1jia4	goŋ1jia4	['gong', 'jia']	2	7	6	
+lin2jin4	lin2jin4	['lin', 'jin']	2	6	6	
+xie1zi	xie1zi	['xie', 'zi']	2	5	5	
+zuo1	zuo1	['zuo']	1	3	3	
+ou3ran2	#3ran2	['ou', 'ran']	2	5	4	
+bao1guo3	b#1guo3	['bao', 'guo']	2	6	5	
+sheng1kou	$eŋ1k#	['sheng', 'kou']	2	8	5	
+zhao4ying4	$#4yiŋ4	['zhao', 'ying']	2	8	5	
+fei4yong4	f#4yoŋ4	['fei', 'yong']	2	7	5	
+ma3da4	ma3da4	['ma', 'da']	2	4	4	
+mei4zi	m#4zi	['mei', 'zi']	2	5	4	
+zuo	zuo	['zuo']	1	3	3	
+mang2luan4	maŋ2luan4	['mang', 'luan']	2	8	7	
+zai4yi4	z#4yi4	['zai', 'yi']	2	5	4	
+fan2rao3	fan2r#3	['fan', 'rao']	2	6	5	
+xuan3ze2	xuan3ze2	['xuan', 'ze']	2	6	6	
+yun2yun2wo3men	yun2yun2wo3men	['yun', 'yun', 'wo', 'men']	4	11	11	
+kui1qian4	kui1qian4	['kui', 'qian']	2	7	7	
+ju4ye1su1	ju4ye1su1	['ju', 'ye', 'su']	3	6	6	
+jiao3rao3	ji#3r#3	['jiao', 'rao']	2	7	5	
+guan1bi4	guan1bi4	['guan', 'bi']	2	6	6	
+po4qie4	pwo4qie4	['po', 'qie']	2	5	6	
+ji1dan4	ji1dan4	['ji', 'dan']	2	5	5	
+chang3	$aŋ3	['chang']	1	5	3	
+pi1gua4	pi1gua4	['pi', 'gua']	2	5	5	
+zhu4zhai2	$u4$#2	['zhu', 'zhai']	2	7	4	
+kui1jia3	kui1jia3	['kui', 'jia']	2	6	6	
+bing1qi4	bjəŋ1qi4	['bing', 'qi']	2	6	6	
+zang1	zaŋ1	['zang']	1	4	3	
+ru3	ru3	['ru']	1	2	2	
+di4yin4zi	di4yin4zi	['di', 'yin', 'zi']	3	7	7	
+zong3shi4	zoŋ3$i4	['zong', 'shi']	2	7	5	
+xing3cha2	xjəŋ3$a2	['xing', 'cha']	2	7	6	
+yun2xiang1	yun2xiaŋ1	['yun', 'xiang']	2	8	7	
+cai4shu1	c#4$u1	['cai', 'shu']	2	6	4	
+shou3wei4	$#3w#4	['shou', 'wei']	2	7	4	
+xiu1zao4	xiu1z#4	['xiu', 'zao']	2	6	5	
+zhi1shi	$i1$i	['zhi', 'shi']	2	6	4	
+zu3dang3	zu3daŋ3	['zu', 'dang']	2	6	5	
+cui1bi1	cui1bi1	['cui', 'bi']	2	5	5	
+si1xia4	si1xia4	['si', 'xia']	2	5	5	
+kui1	kui1	['kui']	1	3	3	
+you	y#	['you']	1	3	2	
+fu4er3	fu4er3	['fu', 'er']	2	4	4	
+wang4ji4	waŋ4ji4	['wang', 'ji']	2	6	5	
+guan1fu3	guan1fu3	['guan', 'fu']	2	6	6	
+fen1su4	fen1su4	['fen', 'su']	2	5	5	
+zhi3jiao4	$i3ji#4	['zhi', 'jiao']	2	7	5	
+xiong1zhang3	xioŋ1$aŋ3	['xiong', 'zhang']	2	10	7	
+tan1xin1	tan1xin1	['tan', 'xin']	2	6	6	
+zai4hu	z#4hu	['zai', 'hu']	2	5	4	
+jia1dao4	jia1d#4	['jia', 'dao']	2	6	5	
+feng1fu4	feŋ1fu4	['feng', 'fu']	2	6	5	
+feng1sheng4	feŋ1$eŋ4	['feng', 'sheng']	2	9	6	
+chu1chan3	$u1$an3	['chu', 'chan']	2	7	5	
+shou1cang2	$#1caŋ2	['shou', 'cang']	2	8	5	
+liang2shi	liaŋ2$i	['liang', 'shi']	2	8	6	
+ji1cun2	ji1cwən2	['ji', 'cun']	2	5	6	
+an1yi4	an1yi4	['an', 'yi']	2	4	4	
+chi1he1kuai4le4	$i1he1ku#4le4	['chi', 'he', 'kuai', 'le']	4	11	9	
+wu1ye1	wu1ye1	['wu', 'ye']	2	4	4	
+hun1yin1	hwən1yin1	['hun', 'yin']	2	6	7	
+guan3jia	guan3jia	['guan', 'jia']	2	7	7	
+chi1he2zui4jiu3	$i1he2zui4jiu3	['chi', 'he', 'zui', 'jiu']	4	11	10	
+ze2	ze2	['ze']	1	2	2	
+guo3ran2	guo3ran2	['guo', 'ran']	2	6	6	
+zao4re4	z#4re4	['zao', 're']	2	5	4	
+wei4he2	w#4he2	['wei', 'he']	2	5	4	
+liao3jie2	li#3jie2	['liao', 'jie']	2	7	6	
+jian1li3wo3	jian1li3wo3	['jian', 'li', 'wo']	3	8	8	
+ban4wen2qian2	ban4wen2qian2	['ban', 'wen', 'qian']	3	10	10	
+chan1za2	$an1za2	['chan', 'za']	2	6	5	
+xi1luo2ya4	xi1luo2ya4	['xi', 'luo', 'ya']	3	7	7	
+jin1nian2	jin1nian2	['jin', 'nian']	2	7	7	
+shuang1	$uaŋ1	['shuang']	1	6	4	
+cao2	c#2	['cao']	1	3	2	
+di2ren2	di2ren2	['di', 'ren']	2	5	5	
+can2kui4	can2kui4	['can', 'kui']	2	6	6	
+yuan2zi	ɥæn2zi	['yuan', 'zi']	2	6	5	
+bei3	b#3	['bei']	1	3	2	
+hou4tian1	h#4tian1	['hou', 'tian']	2	7	6	
+huan4shui3gu3	huan4$ui3gu3	['huan', 'shui', 'gu']	3	10	9	
+jing3	jjəŋ3	['jing']	1	4	4	
+dui4da2	dui4da2	['dui', 'da']	2	5	5	
+xiu1can2	xiu1can2	['xiu', 'can']	2	6	6	
+can2	can2	['can']	1	3	3	
+guang1cai3	guaŋ1c#3	['guang', 'cai']	2	8	6	
+wu3fan4	wu3fan4	['wu', 'fan']	2	5	5	
+wan3fan4	wan3fan4	['wan', 'fan']	2	6	6	
+can2fei4	can2f#4	['can', 'fei']	2	6	5	
+yi1kou3	yi1k#3	['yi', 'kou']	2	5	4	
+kong4	koŋ4	['kong']	1	4	3	
+hen4fan2	hen4fan2	['hen', 'fan']	2	6	6	
+suan4ji	suan4ji	['suan', 'ji']	2	6	6	
+hua1fei4	hua1f#4	['hua', 'fei']	2	6	5	
+di4ji1	di4ji1	['di', 'ji']	2	4	4	
+cheng2gong1	$eŋ2goŋ1	['cheng', 'gong']	2	9	6	
+xiao4hua	xi#4hua	['xiao', 'hua']	2	7	6	
+wan2gong1	wan2goŋ1	['wan', 'gong']	2	7	6	
+zhuo2liang4	$uo2liaŋ4	['zhuo', 'liang']	2	9	7	
+tiao2kuan3	ti#2kuan3	['tiao', 'kuan']	2	8	7	
+dui1	dui1	['dui']	1	3	3	
+ai1jin4	#1jin4	['ai', 'jin']	2	5	4	
+kang2	kaŋ2	['kang']	1	4	3	
+yi4qi3	yi4qi3	['yi', 'qi']	2	4	4	
+jiao4bi3	ji#4bi3	['jiao', 'bi']	2	6	5	
+shi1luo4	$i1luo4	['shi', 'luo']	2	6	5	
+ying1de2	yiŋ1de2	['ying', 'de']	2	6	5	
+yuan3fang1	ɥæn3faŋ1	['yuan', 'fang']	2	8	6	
+lang4fei4	laŋ4f#4	['lang', 'fei']	2	7	5	
+zi1cai2	zi1c#2	['zi', 'cai']	2	5	4	
+hao4jin4	h#4jin4	['hao', 'jin']	2	6	5	
+qiong2ku3	qioŋ2ku3	['qiong', 'ku']	2	7	6	
+tou2kao4	t#2k#4	['tou', 'kao']	2	6	4	
+hen4bu0de	hen4bu0de	['hen', 'bu', 'de']	3	7	7	
+dou4jia2	d#4jia2	['dou', 'jia']	2	6	5	
+chong1ji1	$oŋ1ji1	['chong', 'ji']	2	7	5	
+xing3wu4	xjəŋ3wu4	['xing', 'wu']	2	6	6	
+kou3liang2	k#3liaŋ2	['kou', 'liang']	2	8	6	
+lian2lian2	lian2lian2	['lian', 'lian']	2	8	8	
+jie4zhi	jie4$i	['jie', 'zhi']	2	6	5	
+niu2du2	niu2du2	['niu', 'du']	2	5	5	
+zuo4le4	zuo4le4	['zuo', 'le']	2	5	5	
+wei2bei4	w#2b#4	['wei', 'bei']	2	6	4	
+shan1yang2gao1	$an1yaŋ2g#1	['shan', 'yang', 'gao']	3	11	8	
+jing1guan3	jjəŋ1guan3	['jing', 'guan']	2	8	8	
+pa4xiu1	pa4xiu1	['pa', 'xiu']	2	5	5	
+lou3	l#3	['lou']	1	3	2	
+kua1jiang3	kua1jiaŋ3	['kua', 'jiang']	2	8	7	
+shi4shi4	$i4$i4	['shi', 'shi']	2	6	4	
+geng4jia1	geŋ4jia1	['geng', 'jia']	2	7	6	
+jie2jiao1	jie2ji#1	['jie', 'jiao']	2	7	6	
+zhang4mu4	$aŋ4mu4	['zhang', 'mu']	2	7	5	
+tuo1fu4	tuo1fu4	['tuo', 'fu']	2	5	5	
+tan1	tan1	['tan']	1	3	3	
+zi4cheng1	zi4$eŋ1	['zi', 'cheng']	2	7	5	
+zeng1wu4	zeŋ1wu4	['zeng', 'wu']	2	6	5	
+ren2ren2	ren2ren2	['ren', 'ren']	2	6	6	
+zi3se	zi3se	['zi', 'se']	2	4	4	
+she1hua2	$e1hua2	['she', 'hua']	2	6	5	
+la1sa0lu4	la1sa0lu4	['la', 'sa', 'lu']	3	6	6	
+chuang1	$uaŋ1	['chuang']	1	6	4	
+tian3	tian3	['tian']	1	4	4	
+tong4ku3	toŋ4ku3	['tong', 'ku']	2	6	5	
+huo3yan4	huo3yan4	['huo', 'yan']	2	6	6	
+yuan1	ɥæn1	['yuan']	1	4	3	
+xian4deng2	xian4deŋ2	['xian', 'deng']	2	8	7	
+quan4jie4	quan4jie4	['quan', 'jie']	2	7	7	
+ke1sang1shu1	ke1saŋ1$u1	['ke', 'sang', 'shu']	3	9	7	
+geng1di4	geŋ1di4	['geng', 'di']	2	6	5	
+dai4zi	d#4zi	['dai', 'zi']	2	5	4	
+xie4xie	xie4xie	['xie', 'xie']	2	6	6	
+ying1fen4	yiŋ1fen4	['ying', 'fen']	2	7	6	
+ma2feng1	ma2feŋ1	['ma', 'feng']	2	6	5	
+ke3lian2	ke3lian2	['ke', 'lian']	2	6	6	
+cha2	$a2	['cha']	1	3	2	
+wai4zu2	w#4zu2	['wai', 'zu']	2	5	4	
+zhong1jian1ta1	$oŋ1jian1ta1	['zhong', 'jian', 'ta']	3	11	9	
+ba1bu4de2	ba1bu4de2	['ba', 'bu', 'de']	3	6	6	
+quan2dou1	quan2d#1	['quan', 'dou']	2	7	6	
+luo2de2	luo2de2	['luo', 'de']	2	5	5	
+geng1zhong4	geŋ1$oŋ4	['geng', 'zhong']	2	9	6	
+liu2huang2	liu2huaŋ2	['liu', 'huang']	2	8	7	
+jiu4huo2	jiu4huo2	['jiu', 'huo']	2	6	6	
+you3liang3	y#3liaŋ3	['you', 'liang']	2	8	6	
+na3li	na3li	['na', 'li']	2	4	4	
+hui1xin1	hui1xin1	['hui', 'xin']	2	6	6	
+zun1zhong4	zwən1$oŋ4	['zun', 'zhong']	2	8	7	
+shen1yuan1	$en1ɥæn1	['shen', 'yuan']	2	8	6	
+zhun3	$wən3	['zhun']	1	4	4	
+hu1yu4	hu1yu4	['hu', 'yu']	2	4	4	
+zong4ran2	zoŋ4ran2	['zong', 'ran']	2	7	6	
+ren3	ren3	['ren']	1	3	3	
+zhong1jiu3	$oŋ1jiu3	['zhong', 'jiu']	2	8	6	
+miao3shi4	mi#3$i4	['miao', 'shi']	2	7	5	
+zi4yan2zi4yu3	zi4yan2zi4yu3	['zi', 'yan', 'zi', 'yu']	4	9	9	
+li3bai4	li3b#4	['li', 'bai']	2	5	4	
+dao4suan4	d#4suan4	['dao', 'suan']	2	7	6	
+ren2wo3	ren2wo3	['ren', 'wo']	2	5	5	
+dong3	doŋ3	['dong']	1	4	3	
+yi1lu4	yi1lu4	['yi', 'lu']	2	4	4	
+sa3gai1	sa3g#1	['sa', 'gai']	2	5	4	
+pa2	pa2	['pa']	1	2	2	
+sang1shu1	saŋ1$u1	['sang', 'shu']	2	7	5	
+ren2jia1	ren2jia1	['ren', 'jia']	2	6	6	
+gui4zhou4	gui4$#4	['gui', 'zhou']	2	7	5	
+sheng1yi	$eŋ1yi	['sheng', 'yi']	2	7	5	
+shou3jin	$#3jin	['shou', 'jin']	2	7	5	
+yan2li4	yan2li4	['yan', 'li']	2	5	5	
+yin2hang2	yin2haŋ2	['yin', 'hang']	2	7	6	
+he2ping2	he2pjəŋ2	['he', 'ping']	2	6	6	
+guan1xi4	guan1xi4	['guan', 'xi']	2	6	6	
+wu2nai4	wu2n#4	['wu', 'nai']	2	5	4	
+huan2rao3	huan2r#3	['huan', 'rao']	2	7	6	
+kun4	kwən4	['kun']	1	3	4	
+sao3	s#3	['sao']	1	3	2	
+zun1zhang3	zwən1$aŋ3	['zun', 'zhang']	2	8	7	
+shang1liang	$aŋ1liaŋ	['shang', 'liang']	2	10	7	
+jian1xi	jian1xi	['jian', 'xi']	2	6	6	
+zheng4quan2	$eŋ4quan2	['zheng', 'quan']	2	9	7	
+lai2you3	l#2y#3	['lai', 'you']	2	6	4	
+shi1pian1	$i1pian1	['shi', 'pian']	2	7	6	
+gong1wu4	goŋ1wu4	['gong', 'wu']	2	6	5	
+hou	h#	['hou']	1	3	2	
+rao3luan4	r#3luan4	['rao', 'luan']	2	7	6	
+huang2	huaŋ2	['huang']	1	5	4	
+wen1yi4	wen1yi4	['wen', 'yi']	2	5	5	
+ke3pa4	ke3pa4	['ke', 'pa']	2	4	4	
+li4deng2	li4deŋ2	['li', 'deng']	2	6	5	
+sun2huai4	swən2hu#4	['sun', 'huai']	2	7	7	
+sheng1ming4ni3men	$eŋ1mjəŋ4ni3men	['sheng', 'ming', 'ni', 'men']	4	14	12	
+zhen4nu4	$en4nu4	['zhen', 'nu']	2	6	5	
+xiang3sheng1	xiaŋ3$eŋ1	['xiang', 'sheng']	2	10	7	
+hun2	hwən2	['hun']	1	3	4	
+ting3	tjəŋ3	['ting']	1	4	4	
+ang2	aŋ2	['ang']	1	3	2	
+shi2dai4	$i2d#4	['shi', 'dai']	2	6	4	
+zui4jiu3	zui4jiu3	['zui', 'jiu']	2	6	6	
+ying1yun2	yiŋ1yun2	['ying', 'yun']	2	7	6	
+fan4hou4	fan4h#4	['fan', 'hou']	2	6	5	
+xin1yue1	xin1ɥe1	['xin', 'yue']	2	6	5	
+yu4deng2	yu4deŋ2	['yu', 'deng']	2	6	5	
+zhang3quan2	$aŋ3quan2	['zhang', 'quan']	2	9	7	
+mo2lian4	mwo2lian4	['mo', 'lian']	2	6	7	
+shai1	$#1	['shai']	1	4	2	
+bu2zhi4yu2	bu2$i4yu2	['bu', 'zhi', 'yu']	3	7	6	
+jian1gu4	jian1gu4	['jian', 'gu']	2	6	6	
+gan1xin1	gan1xin1	['gan', 'xin']	2	6	6	
+ke2	ke2	['ke']	1	2	2	
+li4liang	li4liaŋ	['li', 'liang']	2	7	6	
+ken3qie4	ken3qie4	['ken', 'qie']	2	6	6	
+han4	han4	['han']	1	3	3	
+qin1zui3de	qin1zui3de	['qin', 'zui', 'de']	3	8	8	
+guang1jing3	guaŋ1jjəŋ3	['guang', 'jing']	2	9	8	
+di4bu4	di4bu4	['di', 'bu']	2	4	4	
+zhai2	$#2	['zhai']	1	4	2	
+qin1zi4	qin1zi4	['qin', 'zi']	2	5	5	
+shen3wen4	$en3wen4	['shen', 'wen']	2	7	6	
+gu4ci3	gu4ci3	['gu', 'ci']	2	4	4	
+you3mei3	y#3m#3	['you', 'mei']	2	6	4	
+ta1men0zhong4ren2	ta1men0$oŋ4ren2	['ta', 'men', 'zhong', 'ren']	4	13	11	
+shi2zi4jia4bi3la1duo1	$i2zi4jia4bi3la1duo1	['shi', 'zi', 'jia', 'bi', 'la', 'duo']	6	15	14	
+hui4	hui4	['hui']	1	3	3	
+huai2tai1	hu#2t#1	['huai', 'tai']	2	7	5	
+wei4ceng2	w#4ceŋ2	['wei', 'ceng']	2	7	5	
+chu3	$u3	['chu']	1	3	2	
+luo2ma3	luo2ma3	['luo', 'ma']	2	5	5	
+xi1bo2lai2	xi1bwo2l#2	['xi', 'bo', 'lai']	3	7	7	
+ying4sheng1	yiŋ4$eŋ1	['ying', 'sheng']	2	9	6	
+shou4xing2	$#4xjəŋ2	['shou', 'xing']	2	8	6	
+ying1gai1	yiŋ1g#1	['ying', 'gai']	2	7	5	
+mou2	m#2	['mou']	1	3	2	
+hou4mian	h#4mian	['hou', 'mian']	2	7	6	
+xiang1liao4	xiaŋ1li#4	['xiang', 'liao']	2	9	7	
+li2ming2	li2mjəŋ2	['li', 'ming']	2	6	6	
+jian	jian	['jian']	1	4	4	
+mi2hu	mi2hu	['mi', 'hu']	2	4	4	
+ge2liu2ba1	ge2liu2ba1	['ge', 'liu', 'ba']	3	7	7	
+xing2shi4	xjəŋ2$i4	['xing', 'shi']	2	7	6	
+er2qie3	er2qie3	['er', 'qie']	2	5	5	
+tai4	t#4	['tai']	1	3	2	
+jiang3jie3	jiaŋ3jie3	['jiang', 'jie']	2	8	7	
+xing2ta1men	xjəŋ2ta1men	['xing', 'ta', 'men']	3	9	9	
+qiang3	qiaŋ3	['qiang']	1	5	4	
+rou4	r#4	['rou']	1	3	2	
+pian4	pian4	['pian']	1	4	4	
+fang2ta1	faŋ2ta1	['fang', 'ta']	2	6	5	
+xin1qiao4	xin1qi#4	['xin', 'qiao']	2	7	6	
+qing2yu4	qjəŋ2yu4	['qing', 'yu']	2	6	6	
+rou4shen1	r#4$en1	['rou', 'shen']	2	7	5	
+en1dian3	en1dian3	['en', 'dian']	2	6	6	
+zhen1li3	$en1li3	['zhen', 'li']	2	6	5	
+ben3lai2	ben3l#2	['ben', 'lai']	2	6	5	
+feng1man3	feŋ1man3	['feng', 'man']	2	7	6	
+gao1yang2	g#1yaŋ2	['gao', 'yang']	2	7	5	
+zui4nie4	zui4nie4	['zui', 'nie']	2	6	6	
+sai4	s#4	['sai']	1	3	2	
+ji1fa3	ji1fa3	['ji', 'fa']	2	4	4	
+na2dan4ye4	na2dan4ye4	['na', 'dan', 'ye']	3	7	7	
+jia1na2	jia1na2	['jia', 'na']	2	5	5	
+hao3jiu3	h#3jiu3	['hao', 'jiu']	2	6	5	
+shang4ci4	$aŋ4ci4	['shang', 'ci']	2	7	5	
+sheng2zi	$eŋ2zi	['sheng', 'zi']	2	7	5	
+tui1fan1	tui1fan1	['tui', 'fan']	2	6	6	
+jiao1ji2	ji#1ji2	['jiao', 'ji']	2	6	5	
+jian4li4	jian4li4	['jian', 'li']	2	6	6	
+zao4cheng2	z#4$eŋ2	['zao', 'cheng']	2	8	5	
+ni2ge1di3mu3	ni2ge1di3mu3	['ni', 'ge', 'di', 'mu']	4	8	8	
+shi1fu	$i1fu	['shi', 'fu']	2	5	4	
+ju3qi3	ju3qi3	['ju', 'qi']	2	4	4	
+e3	e3	['e']	1	1	1	
+sa1leng3	sa1leŋ3	['sa', 'leng']	2	6	5	
+man3zu1	man3zu1	['man', 'zu']	2	5	5	
+xing1wang4	xjəŋ1waŋ4	['xing', 'wang']	2	8	7	
+shuai1wei1	$u#1w#1	['shuai', 'wei']	2	8	5	
+xian4liang4	xian4liaŋ4	['xian', 'liang']	2	9	8	
+qi2shi2	qi2$i2	['qi', 'shi']	2	5	4	
+pang2	paŋ2	['pang']	1	4	3	
+en1ci4	en1ci4	['en', 'ci']	2	4	4	
+sheng1chu4	$eŋ1$u4	['sheng', 'chu']	2	8	5	
+quan2yuan2	quan2ɥæn2	['quan', 'yuan']	2	8	7	
+guan4zi	guan4zi	['guan', 'zi']	2	6	6	
+mo4fei1	mwo4f#1	['mo', 'fei']	2	5	5	
+shou2	$#2	['shou']	1	4	2	
+fa1bai2	fa1b#2	['fa', 'bai']	2	5	4	
+huan4bing4	huan4bjəŋ4	['huan', 'bing']	2	8	8	
+zuo4ri4	zuo4ri4	['zuo', 'ri']	2	5	5	
+wei4shi2	w#4$i2	['wei', 'shi']	2	6	4	
+chi2zi	$i2zi	['chi', 'zi']	2	5	4	
+xi1bo2lai2hua4	xi1bwo2l#2hua4	['xi', 'bo', 'lai', 'hua']	4	10	10	
+lang2zi	laŋ2zi	['lang', 'zi']	2	6	5	
+dong4yin1wei	doŋ4yin1w#	['dong', 'yin', 'wei']	3	10	8	
+yi3de	yi3de	['yi', 'de']	2	4	4	
+cheng4	$eŋ4	['cheng']	1	5	3	
+ping2deng3	pjəŋ2deŋ3	['ping', 'deng']	2	8	7	
+jiang	jiaŋ	['jiang']	1	5	4	
+gong1ping	goŋ1pjəŋ	['gong', 'ping']	2	8	7	
+cha2kao3	$a2k#3	['cha', 'kao']	2	6	4	
+hu4xiang1	hu4xiaŋ1	['hu', 'xiang']	2	7	6	
+lai4	l#4	['lai']	1	3	2	
+ti2bi3li3ya4hai3	ti2bi3li3ya4h#3	['ti', 'bi', 'li', 'ya', 'hai']	5	11	10	
+shi4yan4	$i4yan4	['shi', 'yan']	2	6	5	
+da4mai4	da4m#4	['da', 'mai']	2	5	4	
+zao1ta	z#1ta	['zao', 'ta']	2	5	4	
+fan1teng	fan1teŋ	['fan', 'teng']	2	7	6	
+ti2bi3li1ya4	ti2bi3li1ya4	['ti', 'bi', 'li', 'ya']	4	8	8	
+yin4zheng4	yin4$eŋ4	['yin', 'zheng']	2	8	6	
+ma3na3	ma3na3	['ma', 'na']	2	4	4	
+bi4deng2	bi4deŋ2	['bi', 'deng']	2	6	5	
+xi1yin3	xi1yin3	['xi', 'yin']	2	5	5	
+xue2xi2	xue2xi2	['xue', 'xi']	2	5	5	
+nan4	nan4	['nan']	1	3	3	
+tang3huo4	taŋ3huo4	['tang', 'huo']	2	7	6	
+wu2yi4	wu2yi4	['wu', 'yi']	2	4	4	
+fang1bian4	faŋ1bian4	['fang', 'bian']	2	8	7	
+si4hu	si4hu	['si', 'hu']	2	4	4	
+fen1fen1	fen1fen1	['fen', 'fen']	2	6	6	
+li4zhi4	li4$i4	['li', 'zhi']	2	5	4	
+zu3xian1	zu3xian1	['zu', 'xian']	2	6	6	
+you2yu2	y#2yu2	['you', 'yu']	2	5	4	
+pan4duan4	pan4duan4	['pan', 'duan']	2	7	7	
+zi4jin4	zi4jin4	['zi', 'jin']	2	5	5	
+nu2pu2	nu2pu2	['nu', 'pu']	2	4	4	
+shuo1huang3	$uo1huaŋ3	['shuo', 'huang']	2	9	7	
+duo3cang2	duo3caŋ2	['duo', 'cang']	2	7	6	
+chu1shen2	$u1$en2	['chu', 'shen']	2	7	5	
+zuo4wei2	zuo4w#2	['zuo', 'wei']	2	6	5	
+tu4	tu4	['tu']	1	2	2	
+ni4	ni4	['ni']	1	2	2	
+qi2guai4	qi2gu#4	['qi', 'guai']	2	6	5	
+jing4feng4	jjəŋ4feŋ4	['jing', 'feng']	2	8	7	
+yang2juan4	yaŋ2juan4	['yang', 'juan']	2	8	7	
+bie4	bie4	['bie']	1	3	3	
+sheng1ren2	$eŋ1ren2	['sheng', 'ren']	2	8	6	
+chu1ru4	$u1ru4	['chu', 'ru']	2	5	4	
+dao4zei2	d#4z#2	['dao', 'zei']	2	6	4	
+tou1qie4	t#1qie4	['tou', 'qie']	2	6	5	
+pie3	pie3	['pie']	1	3	3	
+hao3zai4	h#3z#4	['hao', 'zai']	2	6	4	
+qu3hui2	qu3hui2	['qu', 'hui']	2	5	5	
+ming4ling4	mjəŋ4ljəŋ4	['ming', 'ling']	2	8	8	
+you2yi2	y#2yi2	['you', 'yi']	2	5	4	
+ke3yi3wei4	ke3yi3w#4	['ke', 'yi', 'wei']	3	7	6	
+jie3jie	jie3jie	['jie', 'jie']	2	6	6	
+mei4	m#4	['mei']	1	3	2	
+di1tu3ma3	di1tu3ma3	['di', 'tu', 'ma']	3	6	6	
+mo4shi4	mwo4$i4	['mo', 'shi']	2	5	5	
+bei1tan4	b#1tan4	['bei', 'tan']	2	6	5	
+chou4	$#4	['chou']	1	4	2	
+kan1ma3li4ya4	kan1ma3li4ya4	['kan', 'ma', 'li', 'ya']	4	9	9	
+jiang1ye1su1	jiaŋ1ye1su1	['jiang', 'ye', 'su']	3	9	8	
+luo0ma3	luo0ma3	['luo', 'ma']	2	5	5	
+ti4	ti4	['ti']	1	2	2	
+xian3ran2	xian3ran2	['xian', 'ran']	2	7	7	
+kuang4	kuaŋ4	['kuang']	1	5	4	
+yi3fa3lian2	yi3fa3lian2	['yi', 'fa', 'lian']	3	8	8	
+xiang1qi4	xiaŋ1qi4	['xiang', 'qi']	2	7	6	
+gua4nian4	gua4nian4	['gua', 'nian']	2	7	7	
+nang3	naŋ3	['nang']	1	4	3	
+zong1	zoŋ1	['zong']	1	4	3	
+hu1huan4	hu1huan4	['hu', 'huan']	2	6	6	
+tu2lao2	tu2l#2	['tu', 'lao']	2	5	4	
+sui2cong2	sui2coŋ2	['sui', 'cong']	2	7	6	
+ai4xi1	#4xi1	['ai', 'xi']	2	4	3	
+bao3shou3	b#3$#3	['bao', 'shou']	2	7	4	
+shu4yao4	$u4y#4	['shu', 'yao']	2	6	4	
+pen2	pen2	['pen']	1	3	3	
+bang3yang4	baŋ3yaŋ4	['bang', 'yang']	2	8	6	
+ti1	ti1	['ti']	1	2	2	
+ji1du1wo3	ji1du1wo3	['ji', 'du', 'wo']	3	6	6	
+shi2shi2zai4zai4	$i2$i2z#4z#4	['shi', 'shi', 'zai', 'zai']	4	12	8	
+cai1	c#1	['cai']	1	3	2	
+jiu4shi4	jiu4$i4	['jiu', 'shi']	2	6	5	
+ying4yong4	yiŋ4yoŋ4	['ying', 'yong']	2	8	6	
+chang2jiu3	$aŋ2jiu3	['chang', 'jiu']	2	8	6	
+gu1er2	gu1er2	['gu', 'er']	2	4	4	
+pu2tao4shu4	pu2t#4$u4	['pu', 'tao', 'shu']	3	8	6	
+zai1pei2	z#1p#2	['zai', 'pei']	2	6	4	
+zhi1zi3	$i1zi3	['zhi', 'zi']	2	5	4	
+chang2cun2	$aŋ2cwən2	['chang', 'cun']	2	8	7	
+xian4jin1	xian4jin1	['xian', 'jin']	2	7	7	
+yin3dao3	yin3d#3	['yin', 'dao']	2	6	5	
+ku3chu3	ku3$u3	['ku', 'chu']	2	5	4	
+fu3	fu3	['fu']	1	2	2	
+ku3nan4	ku3nan4	['ku', 'nan']	2	5	5	
+chuang4li4	$uaŋ4li4	['chuang', 'li']	2	8	6	
+ji2lun2xi1	ji2lwən2xi1	['ji', 'lun', 'xi']	3	7	8	
+deng1long	deŋ1loŋ	['deng', 'long']	2	8	6	
+huo3ba3	huo3ba3	['huo', 'ba']	2	5	5	
+yue4fu4	ɥe4fu4	['yue', 'fu']	2	5	4	
+leng3	leŋ3	['leng']	1	4	3	
+tan4huo3	tan4huo3	['tan', 'huo']	2	6	6	
+cong1gai1ya4fa3	coŋ1g#1ya4fa3	['cong', 'gai', 'ya', 'fa']	4	11	9	
+ran3	ran3	['ran']	1	3	3	
+yan2xi2bi3la1duo1	yan2xi2bi3la1duo1	['yan', 'xi', 'bi', 'la', 'duo']	5	12	12	
+zhong1chen2	$oŋ1$en2	['zhong', 'chen']	2	9	6	
+bei4pan4	b#4pan4	['bei', 'pan']	2	6	5	
+pu1hua2shi2	pu1hua2$i2	['pu', 'hua', 'shi']	3	8	7	
+e4ba1da4	e4ba1da4	['e', 'ba', 'da']	3	5	5	
+ge2luo2ba1	ge2luo2ba1	['ge', 'luo', 'ba']	3	7	7	
+niu2xi1	niu2xi1	['niu', 'xi']	2	5	5	
+da3duan4	da3duan4	['da', 'duan']	2	6	6	
+tui3	tui3	['tui']	1	3	3	
+qiang1	qiaŋ1	['qiang']	1	5	4	
+zha2	$a2	['zha']	1	3	2	
+le1	le1	['le']	1	2	2	
+zhe1	$e1	['zhe']	1	3	2	
+bin4zang4	bin4zaŋ4	['bin', 'zang']	2	7	6	
+la2bo1ni2	la2bwo1ni2	['la', 'bo', 'ni']	3	6	7	
+hen2	hen2	['hen']	1	3	3	
+la2	la2	['la']	1	2	2	
+shen1zi	$en1zi	['shen', 'zi']	2	6	5	
+chi3	$i3	['chi']	1	3	2	
+zao3fan4	z#3fan4	['zao', 'fan']	2	6	5	
+cheng1yue1na2	$eŋ1ɥe1na2	['cheng', 'yue', 'na']	3	10	7	
+wei4yang3	w#4yaŋ3	['wei', 'yang']	2	7	5	
+ji4zai3	ji4z#3	['ji', 'zai']	2	5	4	
+dou	d#	['dou']	1	3	2	
+ping2ju4	pjəŋ2ju4	['ping', 'ju']	2	6	6	
+heng2	heŋ2	['heng']	1	4	3	
+qie1	qie1	['qie']	1	3	3	
+zhi2ren4	$i2ren4	['zhi', 'ren']	2	6	5	
+pu2	pu2	['pu']	1	2	2	
+ya4ge2da4ma3	ya4ge2da4ma3	['ya', 'ge', 'da', 'ma']	4	8	8	
+xuan3ju3	xuan3ju3	['xuan', 'ju']	2	6	6	
+ba1sa1ba1	ba1sa1ba1	['ba', 'sa', 'ba']	3	6	6	
+you2shi4dou1	y#2$i4d#1	['you', 'shi', 'dou']	3	9	6	
+ma3ti2ya4	ma3ti2ya4	['ma', 'ti', 'ya']	3	6	6	
+luo1	luo1	['luo']	1	3	3	
+men1	men1	['men']	1	3	3	
+ma3dai4	ma3d#4	['ma', 'dai']	2	5	4	
+yi3lan2	yi3lan2	['yi', 'lan']	2	5	5	
+lv3	lv3	['lv']	1	2	2	
+li4ya4	li4ya4	['li', 'ya']	2	4	4	
+li1	li1	['li']	1	2	2	
+ze4	ze4	['ze']	1	2	2	
+ming2xian3	mjəŋ2xian3	['ming', 'xian']	2	8	8	
+qiu2gao4	qiu2g#4	['qiu', 'gao']	2	6	5	
+wu2fa3	wu2fa3	['wu', 'fa']	2	4	4	
+yan3qian2	yan3qian2	['yan', 'qian']	2	7	7	
+xiu3	xiu3	['xiu']	1	3	3	
+mai2	m#2	['mai']	1	3	2	
+quan4mian3	quan4mian3	['quan', 'mian']	2	8	8	
+heng2xin1	heŋ2xin1	['heng', 'xin']	2	7	6	
+liu2yi4	liu2yi4	['liu', 'yi']	2	5	5	
+gu2	gu2	['gu']	1	2	2	
+jian4zhuang4	jian4$uaŋ4	['jian', 'zhuang']	2	10	8	
+tu2mo3	tu2mwo3	['tu', 'mo']	2	4	5	
+mie4jue2	mie4jue2	['mie', 'jue']	2	6	6	
+sa3mu3er3	sa3mu3er3	['sa', 'mu', 'er']	3	6	6	
+nao3	n#3	['nao']	1	3	2	
+dan3liang4	dan3liaŋ4	['dan', 'liang']	2	8	7	
+xue2wen	xue2wen	['xue', 'wen']	2	6	6	
+wei2kang3	w#2kaŋ3	['wei', 'kang']	2	7	5	
+kong3	koŋ3	['kong']	1	4	3	
+nao4	n#4	['nao']	1	3	2	
+xu1wang4	xu1waŋ4	['xu', 'wang']	2	6	5	
+chen2zai3	$en2z#3	['chen', 'zai']	2	7	5	
+yi4zhi3	yi4$i3	['yi', 'zhi']	2	5	4	
+zi3dao3gao4	zi3d#3g#4	['zi', 'dao', 'gao']	3	8	6	
+ba1na2	ba1na2	['ba', 'na']	2	4	4	
+quan4wei4	quan4w#4	['quan', 'wei']	2	7	6	
+si1zi4	si1zi4	['si', 'zi']	2	4	4	
+ya4wei4	ya4w#4	['ya', 'wei']	2	5	4	
+hong3	hoŋ3	['hong']	1	4	3	
+tie1	tie1	['tie']	1	3	3	
+zeng1tian1	zeŋ1tian1	['zeng', 'tian']	2	8	7	
+ying3er2	yiŋ3er2	['ying', 'er']	2	6	5	
+si4wei2	si4w#2	['si', 'wei']	2	5	4	
+ji4hen4	ji4hen4	['ji', 'hen']	2	5	5	
+ti2chu1	ti2$u1	['ti', 'chu']	2	5	4	
+mu4tou	mu4t#	['mu', 'tou']	2	5	4	
+jing4zhong4	jjəŋ4$oŋ4	['jing', 'zhong']	2	9	7	
+kua1	kua1	['kua']	1	3	3	
+yin3you4	yin3y#4	['yin', 'you']	2	6	5	
+bai4huai4	b#4hu#4	['bai', 'huai']	2	7	5	
+gong1ji1	goŋ1ji1	['gong', 'ji']	2	6	5	
+fa4	fa4	['fa']	1	2	2	
+hu1lve4	hu1lve4	['hu', 'lve']	2	5	5	
+chong1zu2	$oŋ1zu2	['chong', 'zu']	2	7	5	
+zhuan1	$uan1	['zhuan']	1	5	4	
+en1hui4	en1hui4	['en', 'hui']	2	5	5	
+song3	soŋ3	['song']	1	4	3	
+zhu1wei4	$u1w#4	['zhu', 'wei']	2	6	4	
+ha1lan2	ha1lan2	['ha', 'lan']	2	5	5	
+jia1le4di3	jia1le4di3	['jia', 'le', 'di']	3	7	7	
+ku3dai4	ku3d#4	['ku', 'dai']	2	5	4	
+cheng2fa2	$eŋ2fa2	['cheng', 'fa']	2	7	5	
+fa3lao3	fa3l#3	['fa', 'lao']	2	5	4	
+zai3xiang4	z#3xiaŋ4	['zai', 'xiang']	2	8	6	
+shi4jian4	$i4jian4	['shi', 'jian']	2	7	6	
+ha1ma1	ha1ma1	['ha', 'ma']	2	4	4	
+xing1sheng4	xjəŋ1$eŋ4	['xing', 'sheng']	2	9	7	
+zhong4duo1	$oŋ4duo1	['zhong', 'duo']	2	8	6	
+zong1zu2	zoŋ1zu2	['zong', 'zu']	2	6	5	
+ku3hai4	ku3h#4	['ku', 'hai']	2	5	4	
+jun4mei3	jun4m#3	['jun', 'mei']	2	6	5	
+qi1ye1	qi1ye1	['qi', 'ye']	2	4	4	
+bao4chou2	b#4$#2	['bao', 'chou']	2	7	4	
+da1jiu4	da1jiu4	['da', 'jiu']	2	5	5	
+zheng1dou4	$eŋ1d#4	['zheng', 'dou']	2	8	5	
+qi1fu	qi1fu	['qi', 'fu']	2	4	4	
+zuo4tian1	zuo4tian1	['zuo', 'tian']	2	7	7	
+mi3dian4	mi3dian4	['mi', 'dian']	2	6	6	
+xi1nai3	xi1n#3	['xi', 'nai']	2	5	4	
+hong2hai3	hoŋ2h#3	['hong', 'hai']	2	7	5	
+huo2po	huo2pwo	['huo', 'po']	2	5	6	
+shen2xiang4	$en2xiaŋ4	['shen', 'xiang']	2	9	7	
+gong1zuo4	goŋ1zuo4	['gong', 'zuo']	2	7	6	
+jing4bai4	jjəŋ4b#4	['jing', 'bai']	2	7	6	
+yue1shu1ya4	ɥe1$u1ya4	['yue', 'shu', 'ya']	3	8	6	
+meng1	meŋ1	['meng']	1	4	3	
+kang4	kaŋ4	['kang']	1	4	3	
+qi2xin1	qi2xin1	['qi', 'xin']	2	5	5	
+sao3luo2	s#3luo2	['sao', 'luo']	2	6	5	
+can2hai4	can2h#4	['can', 'hai']	2	6	5	
+nan2nv3	nan2nv3	['nan', 'nv']	2	5	5	
+xie2shu4	xie2$u4	['xie', 'shu']	2	6	5	
+de3	de3	['de']	1	2	2	
+jia1sa4	jia1sa4	['jia', 'sa']	2	5	5	
+bo3	bwo3	['bo']	1	2	3	
+gu3shi2	gu3$i2	['gu', 'shi']	2	5	4	
+che1	$e1	['che']	1	3	2	
+zai3sha1	z#3$a1	['zai', 'sha']	2	6	4	
+qing3wen4	qjəŋ3wen4	['qing', 'wen']	2	7	7	
+ye1su1er4	ye1su1er4	['ye', 'su', 'er']	3	6	6	
+da4ma3se4	da4ma3se4	['da', 'ma', 'se']	3	6	6	
+xin4feng4	xin4feŋ4	['xin', 'feng']	2	7	6	
+fa1guang1	fa1guaŋ1	['fa', 'guang']	2	7	6	
+fang3wen4	faŋ3wen4	['fang', 'wen']	2	7	6	
+cheng2qiang2	$eŋ2qiaŋ2	['cheng', 'qiang']	2	10	7	
+zhou1	$#1	['zhou']	1	4	2	
+ya3	ya3	['ya']	1	2	2	
+guang3	guaŋ3	['guang']	1	5	4	
+yi4da4li4	yi4da4li4	['yi', 'da', 'li']	3	6	6	
+da2dao4	da2d#4	['da', 'dao']	2	5	4	
+zou3shou4	z#3$#4	['zou', 'shou']	2	7	4	
+kun1chong2	kwən1$oŋ2	['kun', 'chong']	2	8	7	
+qin1jin4	qin1jin4	['qin', 'jin']	2	6	6	
+meng3	meŋ3	['meng']	1	4	3	
+xin4tu2	xin4tu2	['xin', 'tu']	2	5	5	
+ai2	#2	['ai']	1	2	1	
+lan2zu3	lan2zu3	['lan', 'zu']	2	5	5	
+ta1yu2shi4	ta1yu2$i4	['ta', 'yu', 'shi']	3	7	6	
+zhao4yao4	$#4y#4	['zhao', 'yao']	2	7	4	
+pai1	p#1	['pai']	1	3	2	
+tie3	tie3	['tie']	1	3	3	
+qiao1	qi#1	['qiao']	1	4	3	
+qiao1men2	qi#1men2	['qiao', 'men']	2	7	6	
+bo2la1	bwo2la1	['bo', 'la']	2	4	5	
+chao2	$#2	['chao']	1	4	2	
+pan1	pan1	['pan']	1	3	3	
+sa3la1	sa3la1	['sa', 'la']	2	4	4	
+bang1shou	baŋ1$#	['bang', 'shou']	2	8	5	
+fa3shu4	fa3$u4	['fa', 'shu']	2	5	4	
+bao3luo2	b#3luo2	['bao', 'luo']	2	6	5	
+hun4luan4	hwən4luan4	['hun', 'luan']	2	7	8	
+hun1	hwən1	['hun']	1	3	4	
+tai2ju3	t#2ju3	['tai', 'ju']	2	5	4	
+bian4ya3min3	bian4ya3min3	['bian', 'ya', 'min']	3	9	9	
+ceng	ceŋ	['ceng']	1	4	3	
+bang1ren2	baŋ1ren2	['bang', 'ren']	2	7	6	
+qian2jing4	qian2jjəŋ4	['qian', 'jing']	2	8	8	
+you3ming2	y#3mjəŋ2	['you', 'ming']	2	7	6	
+nao3hen4	n#3hen4	['nao', 'hen']	2	6	5	
+chuan3	$uan3	['chuan']	1	5	4	
+miao4	mi#4	['miao']	1	4	3	
+xing4qing2	xjəŋ4qjəŋ2	['xing', 'qing']	2	8	8	
+xiang2	xiaŋ2	['xiang']	1	5	4	
+ya4da4	ya4da4	['ya', 'da']	2	4	4	
+xia4zhong4	xia4$oŋ4	['xia', 'zhong']	2	8	6	
+chong2xin1	$oŋ2xin1	['chong', 'xin']	2	8	6	
+ou3xiang4	#3xiaŋ4	['ou', 'xiang']	2	7	5	
+xi1la1	xi1la1	['xi', 'la']	2	4	4	
+qeng2	qeŋ2	['qeng']	1	4	3	
+shu1xin4	$u1xin4	['shu', 'xin']	2	6	5	
+tu2jie2	tu2jie2	['tu', 'jie']	2	5	5	
+ti2mo2tai4	ti2mwo2t#4	['ti', 'mo', 'tai']	3	7	7	
+yue4guo4	ɥe4guo4	['yue', 'guo']	2	6	5	
+ma3qi2dun4	ma3qi2dwən4	['ma', 'qi', 'dun']	3	7	8	
+chuan2fu2yin	$uan2fu2yin	['chuan', 'fu', 'yin']	3	10	9	
+yan4fan2	yan4fan2	['yan', 'fan']	2	6	6	
+sao1	s#1	['sao']	1	3	2	
+rao3	r#3	['rao']	1	3	2	
+gun4	gwən4	['gun']	1	3	4	
+bian3	bian3	['bian']	1	4	4	
+song1	soŋ1	['song']	1	4	3	
+tie4	tie4	['tie']	1	3	3	
+fei3	f#3	['fei']	1	3	2	
+cheng2qun2	$eŋ2qun2	['cheng', 'qun']	2	8	6	
+ye2	ye2	['ye']	1	2	2	
+sun1	swən1	['sun']	1	3	4	
+jiao3luan4	ji#3luan4	['jiao', 'luan']	2	8	7	
+kao3	k#3	['kao']	1	3	2	
+ya3dian3	ya3dian3	['ya', 'dian']	2	6	6	
+zhao2ji2	$#2ji2	['zhao', 'ji']	2	6	4	
+ya4lve4	ya4lve4	['ya', 'lve']	2	5	5	
+ke4ren	ke4ren	['ke', 'ren']	2	5	5	
+xin1wen2	xin1wen2	['xin', 'wen']	2	6	6	
+ting1bao3luo2	tjəŋ1b#3luo2	['ting', 'bao', 'luo']	3	10	9	
+qi4xi1	qi4xi1	['qi', 'xi']	2	4	4	
+sheng1huo2	$eŋ1huo2	['sheng', 'huo']	2	8	6	
+diao1ke4	di#1ke4	['diao', 'ke']	2	6	5	
+ji1la1	ji1la1	['ji', 'la']	2	4	4	
+ben4	ben4	['ben']	1	3	3	
+zhi4zao4	$i4z#4	['zhi', 'zao']	2	6	4	
+zhang4peng2	$aŋ4peŋ2	['zhang', 'peng']	2	9	6	
+wu2gan1	wu2gan1	['wu', 'gan']	2	5	5	
+nai4	n#4	['nai']	1	3	2	
+yi3fu2suo3	yi3fu2suo3	['yi', 'fu', 'suo']	3	7	7	
+mian3li4	mian3li4	['mian', 'li']	2	6	6	
+shang4bian1	$aŋ4bian1	['shang', 'bian']	2	9	7	
+lai2bao3luo2	l#2b#3luo2	['lai', 'bao', 'luo']	3	9	7	
+yi2gong4	yi2goŋ4	['yi', 'gong']	2	6	5	
+bu4xin4	bu4xin4	['bu', 'xin']	2	5	5	
+nu2	nu2	['nu']	1	2	2	
+dui1ji1	dui1ji1	['dui', 'ji']	2	5	5	
+yi3la1	yi3la1	['yi', 'la']	2	4	4	
+du	du	['du']	1	2	2	
+hong1	hoŋ1	['hong']	1	4	3	
+xiao3shi2na4	xi#3$i2na4	['xiao', 'shi', 'na']	3	9	7	
+an1jing4	an1jjəŋ4	['an', 'jing']	2	6	6	
+la4	la4	['la']	1	2	2	
+she4ji4	$e4ji4	['she', 'ji']	2	5	4	
+tong2zi3	toŋ2zi3	['tong', 'zi']	2	6	5	
+shuo4	$uo4	['shuo']	1	4	3	
+an1pai2	an1p#2	['an', 'pai']	2	5	4	
+da3suan4	da3suan4	['da', 'suan']	2	6	6	
+mi3li4	mi3li4	['mi', 'li']	2	4	4	
+si3wang2	si3waŋ2	['si', 'wang']	2	6	5	
+jian1du1	jian1du1	['jian', 'du']	2	6	6	
+chai2	$#2	['chai']	1	4	2	
+ji1ye4	ji1ye4	['ji', 'ye']	2	4	4	
+tan1tu2	tan1tu2	['tan', 'tu']	2	5	5	
+zhi1shou3	$i1$#3	['zhi', 'shou']	2	7	4	
+li2bie2	li2bie2	['li', 'bie']	2	5	5	
+nan2bian1	nan2bian1	['nan', 'bian']	2	7	7	
+chu3nv3	$u3nv3	['chu', 'nv']	2	5	4	
+yao4dai4	y#4d#4	['yao', 'dai']	2	6	4	
+xing2li	xjəŋ2li	['xing', 'li']	2	6	6	
+re4xin1	re4xin1	['re', 'xin']	2	5	5	
+xun2gui1dao3ju3	xun2gui1d#3ju3	['xun', 'gui', 'dao', 'ju']	4	11	10	
+tai2jie1	t#2jie1	['tai', 'jie']	2	6	5	
+gou1	g#1	['gou']	1	3	2	
+dai4ling3	d#4ljəŋ3	['dai', 'ling']	2	7	6	
+jing4mo4	jjəŋ4mwo4	['jing', 'mo']	2	6	7	
+shi3yong4	$i3yoŋ4	['shi', 'yong']	2	7	5	
+shang3wu	$aŋ3wu	['shang', 'wu']	2	7	5	
+liu2xue4	liu2xue4	['liu', 'xue']	2	6	6	
+liang2xin1	liaŋ2xin1	['liang', 'xin']	2	8	7	
+zui3	zui3	['zui']	1	3	3	
+shuo3	$uo3	['shuo']	1	4	3	
+chao3	$#3	['chao']	1	4	2	
+che3	$e3	['che']	1	3	2	
+wai4sheng	w#4$eŋ	['wai', 'sheng']	2	8	5	
+mai2fu	m#2fu	['mai', 'fu']	2	5	4	
+fei2li4si1	f#2li4si1	['fei', 'li', 'si']	3	7	6	
+lve4	lve4	['lve']	1	3	3	
+yi4duan1	yi4duan1	['yi', 'duan']	2	6	6	
+he2hu1	he2hu1	['he', 'hu']	2	4	4	
+dao4li0fei2li4si1	d#4li0f#2li4si1	['dao', 'li', 'fei', 'li', 'si']	5	12	10	
+tao3	t#3	['tao']	1	3	2	
+yang1	yaŋ1	['yang']	1	4	3	
+liao4	li#4	['liao']	1	4	3	
+huang2di4	huaŋ2di4	['huang', 'di']	2	7	6	
+jie4qu4lun2	jie4qu4lwən2	['jie', 'qu', 'lun']	3	8	9	
+zou4	z#4	['zou']	1	3	2	
+te4yi4	te4yi4	['te', 'yi']	2	4	4	
+yi3ji2	yi3ji2	['yi', 'ji']	2	4	4	
+shen1xin4	$en1xin4	['shen', 'xin']	2	7	6	
+bei4di4li	b#4di4li	['bei', 'di', 'li']	3	7	6	
+man4	man4	['man']	1	3	3	
+ao4	#4	['ao']	1	2	1	
+shou4shang1	$#4$aŋ1	['shou', 'shang']	2	9	5	
+sun2	swən2	['sun']	1	3	4	
+hai3kou3	h#3k#3	['hai', 'kou']	2	6	4	
+gua1	gua1	['gua']	1	3	3	
+ben1	ben1	['ben']	1	3	3	
+piao1	pi#1	['piao']	1	4	3	
+bi1	bi1	['bi']	1	2	2	
+pao1	p#1	['pao']	1	3	2	
+han4di4	han4di4	['han', 'di']	2	5	5	
+yang4zi	yaŋ4zi	['yang', 'zi']	2	6	5	
+xuan2	xuan2	['xuan']	1	4	4	
+ge4ren2ta1men	ge4ren2ta1men	['ge', 'ren', 'ta', 'men']	4	10	10	
+sheng2	$eŋ2	['sheng']	1	5	3	
+chong4	$oŋ4	['chong']	1	5	3	
+xia4yu3	xia4yu3	['xia', 'yu']	2	5	5	
+tian1qi4	tian1qi4	['tian', 'qi']	2	6	6	
+shuai3	$u#3	['shuai']	1	5	3	
+kuan3	kuan3	['kuan']	1	4	4	
+hai3dao3	h#3d#3	['hai', 'dao']	2	6	4	
+weng1	weŋ1	['weng']	1	4	3	
+dan3	dan3	['dan']	1	3	3	
+jian4mian4	jian4mian4	['jian', 'mian']	2	8	8	
+lian4zi	lian4zi	['lian', 'zi']	2	6	6	
+shu3ling2	$u3ljəŋ2	['shu', 'ling']	2	7	6	
+zu3ge2	zu3ge2	['zu', 'ge']	2	4	4	
+hua4wai4	hua4w#4	['hua', 'wai']	2	6	5	
+qin2	qin2	['qin']	1	3	3	
+cheng3	$eŋ3	['cheng']	1	5	3	
+dian4ru3	dian4ru3	['dian', 'ru']	2	6	6	
+huang3	huaŋ3	['huang']	1	5	4	
+zao4wu4	z#4wu4	['zao', 'wu']	2	5	4	
+fang4zong4	faŋ4zoŋ4	['fang', 'zong']	2	8	6	
+nan2ren2	nan2ren2	['nan', 'ren']	2	6	6	
+tan1lian4	tan1lian4	['tan', 'lian']	2	7	7	
+pi4	pi4	['pi']	1	2	2	
+e4du2	e4du2	['e', 'du']	2	3	3	
+chan2	$an2	['chan']	1	4	3	
+yuan4hen4	ɥæn4hen4	['yuan', 'hen']	2	7	6	
+pan4	pan4	['pan']	1	3	3	
+en1ci2	en1ci2	['en', 'ci']	2	4	4	
+jie2dang3	jie2daŋ3	['jie', 'dang']	2	7	6	
+kua1kou3	kua1k#3	['kua', 'kou']	2	6	5	
+mei3hao3	m#3h#3	['mei', 'hao']	2	6	4	
+chun2	$wən2	['chun']	1	4	4	
+yan4wu4	yan4wu4	['yan', 'wu']	2	5	5	
+duan4hu1	duan4hu1	['duan', 'hu']	2	6	6	
+pian1li2	pian1li2	['pian', 'li']	2	6	6	
+chang3kai1	$aŋ3k#1	['chang', 'kai']	2	8	5	
+long4	loŋ4	['long']	1	4	3	
+du2qi4	du2qi4	['du', 'qi']	2	4	4	
+nve4	nve4	['nve']	1	3	3	
+kui1que1	kui1que1	['kui', 'que']	2	6	6	
+wan3hui2	wan3hui2	['wan', 'hui']	2	6	6	
+li4gong1	li4goŋ1	['li', 'gong']	2	6	5	
+hou4si4	h#4si4	['hou', 'si']	2	5	4	
+ben3hu1	ben3hu1	['ben', 'hu']	2	5	5	
+lian4	lian4	['lian']	1	4	4	
+duan4hu1bu4ke3	duan4hu1bu4ke3	['duan', 'hu', 'bu', 'ke']	4	10	10	
+lian2he2	lian2he2	['lian', 'he']	2	6	6	
+shun4fu2	$wən4fu2	['shun', 'fu']	2	6	6	
+jie2ju2	jie2ju2	['jie', 'ju']	2	5	5	
+e4yu4	e4yu4	['e', 'yu']	2	3	3	
+fa1dong4	fa1doŋ4	['fa', 'dong']	2	6	5	
+ji2le	ji2le	['ji', 'le']	2	4	4	
+xia2	xia2	['xia']	1	3	3	
+ming2fen4	mjəŋ2fen4	['ming', 'fen']	2	7	7	
+xiao4li4	xi#4li4	['xiao', 'li']	2	6	5	
+zhang3zi3	$aŋ3zi3	['zhang', 'zi']	2	7	5	
+yun2yun2	yun2yun2	['yun', 'yun']	2	6	6	
+ge2jue2	ge2jue2	['ge', 'jue']	2	5	5	
+yang2ran2er2	yaŋ2ran2er2	['yang', 'ran', 'er']	3	9	8	
+shi2chang2	$i2$aŋ2	['shi', 'chang']	2	8	5	
+gu3rou4	gu3r#4	['gu', 'rou']	2	5	4	
+nar4	nar4	['nar']	1	3	3	
+ming2nian2	mjəŋ2nian2	['ming', 'nian']	2	8	8	
+li4bai3jia1	li4b#3jia1	['li', 'bai', 'jia']	3	8	7	
+yi3sao3	yi3s#3	['yi', 'sao']	2	5	4	
+ben1pao3	ben1p#3	['ben', 'pao']	2	6	5	
+zhi3ze2	$i3ze2	['zhi', 'ze']	2	5	4	
+jing4gan3	jjəŋ4gan3	['jing', 'gan']	2	7	7	
+zui3ne	zui3ne	['zui', 'ne']	2	5	5	
+hui3mie4	hui3mie4	['hui', 'mie']	2	6	6	
+he2xi1a1shu1	he2xi1a1$u1	['he', 'xi', 'a', 'shu']	4	8	7	
+zhui1qiu2	$ui1qiu2	['zhui', 'qiu']	2	7	6	
+xiu1kui4	xiu1kui4	['xiu', 'kui']	2	6	6	
+fen4hen4	fen4hen4	['fen', 'hen']	2	6	6	
+zui3de	zui3de	['zui', 'de']	2	5	5	
+geng3	geŋ3	['geng']	1	4	3	
+wang3luo2	waŋ3luo2	['wang', 'luo']	2	7	6	
+shi1jiao3	$i1ji#3	['shi', 'jiao']	2	7	5	
+ji1dong4	ji1doŋ4	['ji', 'dong']	2	6	5	
+gan3lan3	gan3lan3	['gan', 'lan']	2	6	6	
+neng2gou4	neŋ2g#4	['neng', 'gou']	2	7	5	
+dang1ran2	daŋ1ran2	['dang', 'ran']	2	7	6	
+bian4hua4	bian4hua4	['bian', 'hua']	2	7	7	
+lian2luo4	lian2luo4	['lian', 'luo']	2	7	7	
+yu4yan2huo4	yu4yan2huo4	['yu', 'yan', 'huo']	3	8	8	
+yin1qin2	yin1qin2	['yin', 'qin']	2	6	6	
+xu1jia3	xu1jia3	['xu', 'jia']	2	5	5	
+lan3duo4	lan3duo4	['lan', 'duo']	2	6	6	
+zhi4qi	$i4qi	['zhi', 'qi']	2	5	4	
+chuan4	$uan4	['chuan']	1	5	4	
+xing2fa2zuo4	xjəŋ2fa2zuo4	['xing', 'fa', 'zuo']	3	9	9	
+bai2zhou4	b#2$#4	['bai', 'zhou']	2	7	4	
+duan1zheng4	duan1$eŋ4	['duan', 'zheng']	2	9	7	
+huang1yan4	huaŋ1yan4	['huang', 'yan']	2	8	7	
+xie2dang4	xie2daŋ4	['xie', 'dang']	2	7	6	
+shu1cai4	$u1c#4	['shu', 'cai']	2	6	4	
+jian1deng2	jian1deŋ2	['jian', 'deng']	2	8	7	
+gui4bai4	gui4b#4	['gui', 'bai']	2	6	5	
+de2xing2	de2xjəŋ2	['de', 'xing']	2	6	6	
+yi2gai4	yi2g#4	['yi', 'gai']	2	5	4	
+de2xing2yin1wei	de2xjəŋ2yin1w#	['de', 'xing', 'yin', 'wei']	4	12	11	
+ge1song4	ge1soŋ4	['ge', 'song']	2	6	5	
+song4zan4	soŋ4zan4	['song', 'zan']	2	7	6	
+gen1ji1shang4	gen1ji1$aŋ4	['gen', 'ji', 'shang']	3	10	8	
+xiang3wang4	xiaŋ3waŋ4	['xiang', 'wang']	2	9	7	
+jiao1wang3	ji#1waŋ3	['jiao', 'wang']	2	8	6	
+song4xing2	soŋ4xjəŋ2	['song', 'xing']	2	8	7	
+cou4	c#4	['cou']	1	3	2	
+ta1men0deng3	ta1men0deŋ3	['ta', 'men', 'deng']	3	9	8	
+jie2li4	jie2li4	['jie', 'li']	2	5	5	
+bi3li4	bi3li4	['bi', 'li']	2	4	4	
+qin1zui3wen4	qin1zui3wen4	['qin', 'zui', 'wen']	3	9	9	
+duo3bi4	duo3bi4	['duo', 'bi']	2	5	5	
+qiao3yu3	qi#3yu3	['qiao', 'yu']	2	6	5	
+xi1ba1	xi1ba1	['xi', 'ba']	2	4	4	
+quan2bei4	quan2b#4	['quan', 'bei']	2	7	6	
+ji1lie4	ji1lie4	['ji', 'lie']	2	5	5	
+qiang2zhuang4	qiaŋ2$uaŋ4	['qiang', 'zhuang']	2	11	8	
+zhu3yi4	$u3yi4	['zhu', 'yi']	2	5	4	
+ming2zheng4	mjəŋ2$eŋ4	['ming', 'zheng']	2	9	7	
+bao3shi2	b#3$i2	['bao', 'shi']	2	6	4	
+zi4qi1	zi4qi1	['zi', 'qi']	2	4	4	
+yi2deng2	yi2deŋ2	['yi', 'deng']	2	6	5	
+ren3shou4	ren3$#4	['ren', 'shou']	2	7	5	
+jing3jie4	jjəŋ3jie4	['jing', 'jie']	2	7	7	
+ci2ai4	ci2#4	['ci', 'ai']	2	4	3	
+yi4mu3	yi4mu3	['yi', 'mu']	2	4	4	
+ai1tong4	#1toŋ4	['ai', 'tong']	2	6	4	
+zhi1yong4	$i1yoŋ4	['zhi', 'yong']	2	7	5	
+xiang1jiao1	xiaŋ1ji#1	['xiang', 'jiao']	2	9	7	
+re0ruo4	re0ruo4	['re', 'ruo']	2	5	5	
+luan2	luan2	['luan']	1	4	4	
+ni3men0yin1	ni3men0yin1	['ni', 'men', 'yin']	3	8	8	
+gua4lv4	gua4lv4	['gua', 'lv']	2	5	5	
+nian2sui4	nian2sui4	['nian', 'sui']	2	7	7	
+jue2deng2	jue2deŋ2	['jue', 'deng']	2	7	6	
+fu2qi	fu2qi	['fu', 'qi']	2	4	4	
+yin4zheng4wo3	yin4$eŋ4wo3	['yin', 'zheng', 'wo']	3	10	8	
+chuai4	$u#4	['chuai']	1	5	3	
+fen1ming2	fen1mjəŋ2	['fen', 'ming']	2	7	7	
+lao2lu4	l#2lu4	['lao', 'lu']	2	5	4	
+meng2deng2	meŋ2deŋ2	['meng', 'deng']	2	8	6	
+hua1qian2	hua1qian2	['hua', 'qian']	2	7	7	
+shen2me0yang4	$en2me0yaŋ4	['shen', 'me', 'yang']	3	10	8	
+jiang3shang3	jiaŋ3$aŋ3	['jiang', 'shang']	2	10	7	
+kong1qi4	koŋ1qi4	['kong', 'qi']	2	6	5	
+wan2shua3	wan2$ua3	['wan', 'shua']	2	7	6	
+wen3	wen3	['wen']	1	3	3	
+ren2wu2lun4	ren2wu2lwən4	['ren', 'wu', 'lun']	3	8	9	
+bu4ju1	bu4ju1	['bu', 'ju']	2	4	4	
+jian1shou3	jian1$#3	['jian', 'shou']	2	8	6	
+can1	can1	['can']	1	3	3	
+yun4xing2	yun4xjəŋ2	['yun', 'xing']	2	7	7	
+bian4bie2	bian4bie2	['bian', 'bie']	2	7	7	
+ti3mian	ti3mian	['ti', 'mian']	2	6	6	
+zhang1kuang2	$aŋ1kuaŋ2	['zhang', 'kuang']	2	10	7	
+ji4suan4	ji4suan4	['ji', 'suan']	2	6	6	
+bao1rong2	b#1roŋ2	['bao', 'rong']	2	7	5	
+zhi3xi1	$i3xi1	['zhi', 'xi']	2	5	4	
+jing4zi	jjəŋ4zi	['jing', 'zi']	2	6	6	
+mian4dui4mian4	mian4dui4mian4	['mian', 'dui', 'mian']	3	11	11	
+xian4mu4	xian4mu4	['xian', 'mu']	2	6	6	
+wu4xing4	wu4xjəŋ4	['wu', 'xing']	2	6	6	
+shi1ge1	$i1ge1	['shi', 'ge']	2	5	4	
+tu2ran2	tu2ran2	['tu', 'ran']	2	5	5	
+ge2wai4	ge2w#4	['ge', 'wai']	2	5	4	
+zhi2zheng4	$i2$eŋ4	['zhi', 'zheng']	2	8	5	
+shi2ke4	$i2ke4	['shi', 'ke']	2	5	4	
+lan4	lan4	['lan']	1	3	3	
+xing2ti3	xjəŋ2ti3	['xing', 'ti']	2	6	6	
+niao3	ni#3	['niao']	1	4	3	
+ling2xing4	ljəŋ2xjəŋ4	['ling', 'xing']	2	8	8	
+zha3	$a3	['zha']	1	3	2	
+quan2shi4	quan2$i4	['quan', 'shi']	2	7	6	
+zi1	zi1	['zi']	1	2	2	
+gong1xiao4	goŋ1xi#4	['gong', 'xiao']	2	8	6	
+fan3dui4	fan3dui4	['fan', 'dui']	2	6	6	
+gang1qiang2	gaŋ1qiaŋ2	['gang', 'qiang']	2	9	7	
+que4deng2	que4deŋ2	['que', 'deng']	2	7	6	
+ten2gai4	ten2g#4	['ten', 'gai']	2	6	5	
+chen2lun2	$en2lwən2	['chen', 'lun']	2	7	7	
+shuai4	$u#4	['shuai']	1	5	3	
+xin1xiang1	xin1xiaŋ1	['xin', 'xiang']	2	8	7	
+bing1bu2	bjəŋ1bu2	['bing', 'bu']	2	6	6	
+pa4zi	pa4zi	['pa', 'zi']	2	4	4	
+jiu4yue1	jiu4ɥe1	['jiu', 'yue']	2	6	5	
+miu4	miu4	['miu']	1	3	3	
+da3dao3	da3d#3	['da', 'dao']	2	5	4	
+zan4	zan4	['zan']	1	3	3	
+fu	fu	['fu']	1	2	2	
+qiong2fa2	qioŋ2fa2	['qiong', 'fa']	2	7	6	
+jian1jin4	jian1jin4	['jian', 'jin']	2	7	7	
+ren2yi4	ren2yi4	['ren', 'yi']	2	5	5	
+xiang	xiaŋ	['xiang']	1	5	4	
+xiang1tong2	xiaŋ1toŋ2	['xiang', 'tong']	2	9	7	
+pian2yi	pian2yi	['pian', 'yi']	2	6	6	
+ning2	njəŋ2	['ning']	1	4	4	
+xiang3nian4	xiaŋ3nian4	['xiang', 'nian']	2	9	8	
+shi4su2	$i4su2	['shi', 'su']	2	5	4	
+yong3gan3	yoŋ3gan3	['yong', 'gan']	2	7	6	
+cu1	cu1	['cu']	1	2	2	
+qing1jie2	qjəŋ1jie2	['qing', 'jie']	2	7	7	
+xia4wa2	xia4wa2	['xia', 'wa']	2	5	5	
+jia3ru2	jia3ru2	['jia', 'ru']	2	5	5	
+bu3zu2	bu3zu2	['bu', 'zu']	2	4	4	
+mu2	mu2	['mu']	1	2	2	
+guai4	gu#4	['guai']	1	4	3	
+lve4lve4	lve4lve4	['lve', 'lve']	2	6	6	
+lu3lve4	lu3lve4	['lu', 'lve']	2	5	5	
+han2leng3	han2leŋ3	['han', 'leng']	2	7	6	
+chuang1hu	$uaŋ1hu	['chuang', 'hu']	2	8	6	
+bai3ban1	b#3ban1	['bai', 'ban']	2	6	5	
+kui4	kui4	['kui']	1	3	3	
+re2nai4	re2n#4	['re', 'nai']	2	5	4	
+geng1gai3	geŋ1g#3	['geng', 'gai']	2	7	5	
+zhang3jin4	$aŋ3jin4	['zhang', 'jin']	2	8	6	
+yuan2xian1	ɥæn2xian1	['yuan', 'xian']	2	8	7	
+chen2shuo1	$en2$uo1	['chen', 'shuo']	2	8	6	
+yin3jin4	yin3jin4	['yin', 'jin']	2	6	6	
+zhu4shi2	$u4$i2	['zhu', 'shi']	2	6	4	
+dang1mian4	daŋ1mian4	['dang', 'mian']	2	8	7	
+zhuang1jia3	$uaŋ1jia3	['zhuang', 'jia']	2	9	7	
+ge4zi	ge4zi	['ge', 'zi']	2	4	4	
+zhong1bao3	$oŋ1b#3	['zhong', 'bao']	2	8	5	
+xiao3xue2	xi#3xue2	['xiao', 'xue']	2	7	6	
+nuo4ruo4	nuo4ruo4	['nuo', 'ruo']	2	6	6	
+li2jian4	li2jian4	['li', 'jian']	2	6	6	
+cheng2xing2	$eŋ2xjəŋ2	['cheng', 'xing']	2	9	7	
+gai3huan4	g#3huan4	['gai', 'huan']	2	7	6	
+kou3qi4	k#3qi4	['kou', 'qi']	2	5	4	
+xia4jia3	xia4jia3	['xia', 'jia']	2	6	6	
+huan1hu1	huan1hu1	['huan', 'hu']	2	6	6	
+xie2zhi4	xie2$i4	['xie', 'zhi']	2	6	5	
+quan4dao3	quan4d#3	['quan', 'dao']	2	7	6	
+tao3yan4	t#3yan4	['tao', 'yan']	2	6	5	
+xiao1mie4	xi#1mie4	['xiao', 'mie']	2	7	6	
+chou2hen4	$#2hen4	['chou', 'hen']	2	7	5	
+fen1zheng1	fen1$eŋ1	['fen', 'zheng']	2	8	6	
+xie2qing2	xie2qjəŋ2	['xie', 'qing']	2	7	7	
+xu1ming2	xu1mjəŋ2	['xu', 'ming']	2	6	6	
+re3qi4	re3qi4	['re', 'qi']	2	4	4	
+sang4zhi4	saŋ4$i4	['sang', 'zhi']	2	7	5	
+xi1tu2	xi1tu2	['xi', 'tu']	2	4	4	
+jin3yao4	jin3y#4	['jin', 'yao']	2	6	5	
+xia2ci1	xia2ci1	['xia', 'ci']	2	5	5	
+da4li4	da4li4	['da', 'li']	2	4	4	
+chao1	$#1	['chao']	1	4	2	
+feng1su2	feŋ1su2	['feng', 'su']	2	6	5	
+ju2	ju2	['ju']	1	2	2	
+du3xin4	du3xin4	['du', 'xin']	2	5	5	
+kuo4	kuo4	['kuo']	1	3	3	
+qia1xu1	qia1xu1	['qia', 'xu']	2	5	5	
+qi1pian4	qi1pian4	['qi', 'pian']	2	6	6	
+yuan2shou3	ɥæn2$#3	['yuan', 'shou']	2	8	5	
+han2	han2	['han']	1	3	3	
+jing	jjəŋ	['jing']	1	4	4	
+xiang1yi2	xiaŋ1yi2	['xiang', 'yi']	2	7	6	
+xu1fu2	xu1fu2	['xu', 'fu']	2	4	4	
+ren2yin1wei	ren2yin1w#	['ren', 'yin', 'wei']	3	9	8	
+yu2mei4	yu2m#4	['yu', 'mei']	2	5	4	
+guang1yin1	guaŋ1yin1	['guang', 'yin']	2	8	7	
+shi1zhang1	$i1$aŋ1	['shi', 'zhang']	2	8	5	
+song4ci2	soŋ4ci2	['song', 'ci']	2	6	5	
+zhe0dao4	$e0d#4	['zhe', 'dao']	2	6	4	
+dian4wu1	dian4wu1	['dian', 'wu']	2	6	6	
+shang3ci4ni3men	$aŋ3ci4ni3men	['shang', 'ci', 'ni', 'men']	4	12	10	
+guan3xia2	guan3xia2	['guan', 'xia']	2	7	7	
+you1an4	y#1an4	['you', 'an']	2	5	4	
+shuai1jiao1	$u#1ji#1	['shuai', 'jiao']	2	9	6	
+teng2	teŋ2	['teng']	1	4	3	
+ti3hui4	ti3hui4	['ti', 'hui']	2	5	5	
+jing1xia4	jjəŋ1xia4	['jing', 'xia']	2	7	7	
+tong2deng3	toŋ2deŋ3	['tong', 'deng']	2	8	6	
+ji2su4	ji2su4	['ji', 'su']	2	4	4	
+quan3	quan3	['quan']	1	4	4	
+fen4tu3	fen4tu3	['fen', 'tu']	2	5	5	
+biao1gan1	bi#1gan1	['biao', 'gan']	2	7	6	
+xiang1si4	xiaŋ1si4	['xiang', 'si']	2	7	6	
+qia1rang4	qia1raŋ4	['qia', 'rang']	2	7	6	
+xin1huai2	xin1hu#2	['xin', 'huai']	2	7	6	
+ke3jing4	ke3jjəŋ4	['ke', 'jing']	2	6	6	
+ke3ai4	ke3#4	['ke', 'ai']	2	4	3	
+mi4jue2	mi4jue2	['mi', 'jue']	2	5	5	
+kui4song4	kui4soŋ4	['kui', 'song']	2	7	6	
+dui4de0qi3	dui4de0qi3	['dui', 'de', 'qi']	3	7	7	
+yuan2shi3	ɥæn2$i3	['yuan', 'shi']	2	7	5	
+wen3gu4	wen3gu4	['wen', 'gu']	2	5	5	
+li4shi4li4dai4	li4$i4li4d#4	['li', 'shi', 'li', 'dai']	4	10	8	
+feng1zu2	feŋ1zu2	['feng', 'zu']	2	6	5	
+yong4ni3men	yoŋ4ni3men	['yong', 'ni', 'men']	3	9	8	
+zi4ju4	zi4ju4	['zi', 'ju']	2	4	4	
+ju1ni	ju1ni	['ju', 'ni']	2	4	4	
+jin1jie2	jin1jie2	['jin', 'jie']	2	6	6	
+chong2bai4	$oŋ2b#4	['chong', 'bai']	2	8	5	
+biao3	bi#3	['biao']	1	4	3	
+ke4zhi4	ke4$i4	['ke', 'zhi']	2	5	4	
+fen1nu2	fen1nu2	['fen', 'nu']	2	5	5	
+bao1kuo4	b#1kuo4	['bao', 'kuo']	2	6	5	
+xian2xi4	xian2xi4	['xian', 'xi']	2	6	6	
+ga3nen1	ga3nen1	['ga', 'nen']	2	5	5	
+he2qi4	he2qi4	['he', 'qi']	2	4	4	
+a1	a1	['a']	1	1	1	
+ta1ye1	ta1ye1	['ta', 'ye']	2	4	4	
+luo2ni2	luo2ni2	['luo', 'ni']	2	5	5	
+cuo4wu4	cuo4wu4	['cuo', 'wu']	2	5	5	
+chan3mei4	$an3m#4	['chan', 'mei']	2	7	5	
+xin1ku3	xin1ku3	['xin', 'ku']	2	5	5	
+mian4mu4	mian4mu4	['mian', 'mu']	2	6	6	
+xiao1xi	xi#1xi	['xiao', 'xi']	2	6	5	
+yin3ling3	yin3ljəŋ3	['yin', 'ling']	2	7	7	
+zhan1ran3	$an1ran3	['zhan', 'ran']	2	7	6	
+wen3tuo3	wen3tuo3	['wen', 'tuo']	2	6	6	
+zai1huo4	z#1huo4	['zai', 'huo']	2	6	5	
+de2rong2yao4	de2roŋ2y#4	['de', 'rong', 'yao']	3	9	7	
+dong4xin1	doŋ4xin1	['dong', 'xin']	2	7	6	
+yun4dong4	yun4doŋ4	['yun', 'dong']	2	7	6	
+shang0di4xiong1	$aŋ0di4xioŋ1	['shang', 'di', 'xiong']	3	12	9	
+xian2shi4	xian2$i4	['xian', 'shi']	2	7	6	
+chou2ren2	$#2ren2	['chou', 'ren']	2	7	5	
+miao3	mi#3	['miao']	1	4	3	
+ren2kou3	ren2k#3	['ren', 'kou']	2	6	5	
+kui	kui	['kui']	1	3	3	
+kui0shen1shang	kui0$en1$aŋ	['kui', 'shen', 'shang']	3	12	9	
+ne4	ne4	['ne']	1	2	2	
+ta1xia2	ta1xia2	['ta', 'xia']	2	5	5	
+wen1he2	wen1he2	['wen', 'he']	2	5	5	
+duan1	duan1	['duan']	1	4	4	
+jia3mao4	jia3m#4	['jia', 'mao']	2	6	5	
+lao4	l#4	['lao']	1	3	2	
+xiao3kan4	xi#3kan4	['xiao', 'kan']	2	7	6	
+nian2qing1	nian2qjəŋ1	['nian', 'qing']	2	8	8	
+sun1zi	swən1zi	['sun', 'zi']	2	5	6	
+sun1nv3	swən1nv3	['sun', 'nv']	2	5	6	
+xi2guan4	xi2guan4	['xi', 'guan']	2	6	6	
+duan3	duan3	['duan']	1	4	4	
+men2lu	men2lu	['men', 'lu']	2	5	5	
+chou2ku3	$#2ku3	['chou', 'ku']	2	6	4	
+jie1xu4	jie1xu4	['jie', 'xu']	2	5	5	
+tiao3	ti#3	['tiao']	1	4	3	
+nong2fu1	noŋ2fu1	['nong', 'fu']	2	6	5	
+jin1qi4	jin1qi4	['jin', 'qi']	2	5	5	
+yin2qi4	yin2qi4	['yin', 'qi']	2	5	5	
+wen1	wen1	['wen']	1	3	3	
+pin3	pin3	['pin']	1	3	3	
+ta4	ta4	['ta']	1	2	2	
+shi1zi	$i1zi	['shi', 'zi']	2	5	4	
+ren4xing4	ren4xjəŋ4	['ren', 'xing']	2	7	7	
+xing2dong4	xjəŋ2doŋ4	['xing', 'dong']	2	8	7	
+ding3zhuang4	djəŋ3$uaŋ4	['ding', 'zhuang']	2	10	8	
+zun1rong2	zwən1roŋ2	['zun', 'rong']	2	7	7	
+xiao3yu4	xi#3yu4	['xiao', 'yu']	2	6	5	
+hui1	hui1	['hui']	1	3	3	
+yi4sheng1	yi4$eŋ1	['yi', 'sheng']	2	7	5	
+jian1chi2	jian1$i2	['jian', 'chi']	2	7	6	
+wei4ju4	w#4ju4	['wei', 'ju']	2	5	4	
+gu3jie2	gu3jie2	['gu', 'jie']	2	5	5	
+gu3sui3	gu3sui3	['gu', 'sui']	2	5	5	
+pou1	p#1	['pou']	1	3	2	
+chi4lu4	$i4lu4	['chi', 'lu']	2	5	4	
+ti3xu4	ti3xu4	['ti', 'xu']	2	4	4	
+ti3liang	ti3liaŋ	['ti', 'liang']	2	7	6	
+mai4ji1xi3de2	m#4ji1xi3de2	['mai', 'ji', 'xi', 'de']	4	9	8	
+deng3ci4	deŋ3ci4	['deng', 'ci']	2	6	5	
+gen1yuan2	gen1ɥæn2	['gen', 'yuan']	2	7	6	
+kai1duan1	k#1duan1	['kai', 'duan']	2	7	6	
+shu2lian4	$u2lian4	['shu', 'lian']	2	7	6	
+hao3dai3	h#3d#3	['hao', 'dai']	2	6	4	
+zi1wei4	zi1w#4	['zi', 'wei']	2	5	4	
+jue2wu4	jue2wu4	['jue', 'wu']	2	5	5	
+jin4hu	jin4hu	['jin', 'hu']	2	5	5	
+xie4dai4	xie4d#4	['xie', 'dai']	2	6	5	
+bi4nan4	bi4nan4	['bi', 'nan']	2	5	5	
+xian1feng1	xian1feŋ1	['xian', 'feng']	2	8	7	
+chang2yuan3	$aŋ2ɥæn3	['chang', 'yuan']	2	9	6	
+shang4deng3	$aŋ4deŋ3	['shang', 'deng']	2	9	6	
+zhao4li4	$#4li4	['zhao', 'li']	2	6	4	
+zhi1yi1du2	$i1yi1du2	['zhi', 'yi', 'du']	3	7	6	
+geng1huan4	geŋ1huan4	['geng', 'huan']	2	8	7	
+ying3	yiŋ3	['ying']	1	4	3	
+kuan1shu4	kuan1$u4	['kuan', 'shu']	2	7	6	
+zui4qia1	zui4qia1	['zui', 'qia']	2	6	6	
+ji1lu4bai3	ji1lu4b#3	['ji', 'lu', 'bai']	3	7	6	
+shao2	$#2	['shao']	1	4	2	
+biao3yang4	bi#3yaŋ4	['biao', 'yang']	2	8	6	
+xi3zhuo2	xi3$uo2	['xi', 'zhuo']	2	6	5	
+zhen4xing1	$en4xjəŋ1	['zhen', 'xing']	2	8	7	
+gong1niu2	goŋ1niu2	['gong', 'niu']	2	7	6	
+you3xiao4	y#3xi#4	['you', 'xiao']	2	7	5	
+cha4bu0duo1	$a4bu0duo1	['cha', 'bu', 'duo']	3	8	7	
+yi3zhi3	yi3$i3	['yi', 'zhi']	2	5	4	
+ji1fa1	ji1fa1	['ji', 'fa']	2	4	4	
+lie4huo3	lie4huo3	['lie', 'huo']	2	6	6	
+bai3xing4luo4	b#3xjəŋ4luo4	['bai', 'xing', 'luo']	3	10	9	
+que4ju4	que4ju4	['que', 'ju']	2	5	5	
+gai1yin3	g#1yin3	['gai', 'yin']	2	6	5	
+zun1meng2	zwən1meŋ2	['zun', 'meng']	2	7	7	
+sui4shu4	sui4$u4	['sui', 'shu']	2	6	5	
+zher4	$er4	['zher']	1	4	3	
+lin2si3	lin2si3	['lin', 'si']	2	5	5	
+ge4zi4	ge4zi4	['ge', 'zi']	2	4	4	
+lin2zhong1	lin2$oŋ1	['lin', 'zhong']	2	8	6	
+hai2gu3	h#2gu3	['hai', 'gu']	2	5	4	
+wei2rao3	w#2r#3	['wei', 'rao']	2	6	4	
+ji4nv3	ji4nv3	['ji', 'nv']	2	4	4	
+tan4zi3	tan4zi3	['tan', 'zi']	2	5	5	
+ji1dian4	ji1dian4	['ji', 'dian']	2	6	6	
+ba1la1	ba1la1	['ba', 'la']	2	4	4	
+san1sun1	san1swən1	['san', 'sun']	2	6	7	
+ye1fu2ta1	ye1fu2ta1	['ye', 'fu', 'ta']	3	6	6	
+yan2xing2	yan2xjəŋ2	['yan', 'xing']	2	7	7	
+gou3qie3	g#3qie3	['gou', 'qie']	2	6	5	
+shan1ling3	$an1ljəŋ3	['shan', 'ling']	2	8	7	
+shan1dong4	$an1doŋ4	['shan', 'dong']	2	8	6	
+piao1liu2	pi#1liu2	['piao', 'liu']	2	7	6	
+chuang4shi3	$uaŋ4$i3	['chuang', 'shi']	2	9	6	
+pi2juan4	pi2juan4	['pi', 'juan']	2	6	6	
+guang3jiao4	guaŋ3ji#4	['guang', 'jiao']	2	9	7	
+si1zi3	si1zi3	['si', 'zi']	2	4	4	
+xia4chui1	xia4$ui1	['xia', 'chui']	2	7	6	
+fa1suan1	fa1suan1	['fa', 'suan']	2	6	6	
+wai1	w#1	['wai']	1	3	2	
+cha4	$a4	['cha']	1	3	2	
+hao2ku1	h#2ku1	['hao', 'ku']	2	5	4	
+dang	daŋ	['dang']	1	4	3	
+xi1an1shan1	xi1an1$an1	['xi', 'an', 'shan']	3	8	7	
+gong4ju4	goŋ4ju4	['gong', 'ju']	2	6	5	
+guai4yi4	gu#4yi4	['guai', 'yi']	2	6	5	
+wan2bei4	wan2b#4	['wan', 'bei']	2	6	5	
+deng2jian4	deŋ2jian4	['deng', 'jian']	2	8	7	
+diao1xie4	di#1xie4	['diao', 'xie']	2	7	6	
+mei3rong2	m#3roŋ2	['mei', 'rong']	2	7	5	
+zhuan4dong4	$uan4doŋ4	['zhuan', 'dong']	2	9	7	
+zhuan3dong4	$uan3doŋ4	['zhuan', 'dong']	2	9	7	
+hang2dao4	haŋ2d#4	['hang', 'dao']	2	7	5	
+dan1dan1	dan1dan1	['dan', 'dan']	2	6	6	
+lei1	l#1	['lei']	1	3	2	
+hua2mei3	hua2m#3	['hua', 'mei']	2	6	5	
+ang1zang1	aŋ1zaŋ1	['ang', 'zang']	2	7	5	
+bei4cheng1	b#4$eŋ1	['bei', 'cheng']	2	8	5	
+nuan3	nuan3	['nuan']	1	4	4	
+jiao2huan2	ji#2huan2	['jiao', 'huan']	2	8	7	
+zui3li3	zui3li3	['zui', 'li']	2	5	5	
+diao4dong4	di#4doŋ4	['diao', 'dong']	2	8	6	
+zhang3duo4	$aŋ3duo4	['zhang', 'duo']	2	8	6	
+da4hua4	da4hua4	['da', 'hua']	2	5	5	
+shu4lin2	$u4lin2	['shu', 'lin']	2	6	5	
+lun2zi	lwən2zi	['lun', 'zi']	2	5	6	
+rou2shun4	r#2$wən4	['rou', 'shun']	2	7	6	
+pian1jian4	pian1jian4	['pian', 'jian']	2	8	8	
+dou4ou1	d#4#1	['dou', 'ou']	2	5	3	
+lia4nai4	lia4n#4	['lia', 'nai']	2	6	5	
+bei1ai1	b#1#1	['bei', 'ai']	2	5	3	
+chou2men4	$#2men4	['chou', 'men']	2	7	5	
+pi1ping2	pi1pjəŋ2	['pi', 'ping']	2	6	6	
+yun2wu4	yun2wu4	['yun', 'wu']	2	5	5	
+shao3shi2	$#3$i2	['shao', 'shi']	2	7	4	
+kua4	kua4	['kua']	1	3	3	
+hao2tao2	h#2t#2	['hao', 'tao']	2	6	4	
+qiu1	qiu1	['qiu']	1	3	3	
+chun1	$wən1	['chun']	1	4	4	
+yue1bo2	ɥe1bwo2	['yue', 'bo']	2	5	5	
+tu3chan3	tu3$an3	['tu', 'chan']	2	6	5	
+xin1ni3men	xin1ni3men	['xin', 'ni', 'men']	3	8	8	
+ru2ci3zhu3	ru2ci3$u3	['ru', 'ci', 'zhu']	3	7	6	
+qi2miao4	qi2mi#4	['qi', 'miao']	2	6	5	
+mei3de2	m#3de2	['mei', 'de']	2	5	4	
+guai1	gu#1	['guai']	1	4	3	
+huan2kou3	huan2k#3	['huan', 'kou']	2	7	6	
+zhui1gan3	$ui1gan3	['zhui', 'gan']	2	7	6	
+yuan2you2	ɥæn2y#2	['yuan', 'you']	2	7	5	
+zhun2bei4	$wən2b#4	['zhun', 'bei']	2	7	6	
+zhe1yan3	$e1yan3	['zhe', 'yan']	2	6	5	
+hou3	h#3	['hou']	1	3	2	
+heng1	heŋ1	['heng']	1	4	3	
+guai1qiao3	gu#1qi#3	['guai', 'qiao']	2	8	6	
+chen2xing1	$en2xjəŋ1	['chen', 'xing']	2	8	7	
+shang4gu3	$aŋ4gu3	['shang', 'gu']	2	7	5	
+qing1fu4	qjəŋ1fu4	['qing', 'fu']	2	6	6	
+zong4	zoŋ4	['zong']	1	4	3	
+chu4lei4	$u4l#4	['chu', 'lei']	2	6	4	
+zhong	$oŋ	['zhong']	1	5	3	
+bi3er3	bi3er3	['bi', 'er']	2	4	4	
+ba1lan2	ba1lan2	['ba', 'lan']	2	5	5	
+wu4qi4	wu4qi4	['wu', 'qi']	2	4	4	
+jin1kua1	jin1kua1	['jin', 'kua']	2	6	6	
+bei4qi4	b#4qi4	['bei', 'qi']	2	5	4	
+tai4gu3	t#4gu3	['tai', 'gu']	2	5	4	
+yan1mo4	yan1mwo4	['yan', 'mo']	2	5	6	
+rong2hua4	roŋ2hua4	['rong', 'hua']	2	7	6	
+yin1you2	yin1y#2	['yin', 'you']	2	6	5	
+pian2	pian2	['pian']	1	4	4	
+yan3mu4	yan3mu4	['yan', 'mu']	2	5	5	
+en1gao1	en1g#1	['en', 'gao']	2	5	4	
+er2nu3	er2nu3	['er', 'nu']	2	4	4	
+an1wen3	an1wen3	['an', 'wen']	2	5	5	
+miu4wang4	miu4waŋ4	['miu', 'wang']	2	7	6	
+de2sheng1	de2$eŋ1	['de', 'sheng']	2	7	5	
+bu2shi4	bu2$i4	['bu', 'shi']	2	5	4	
+tai4tai	t#4t#	['tai', 'tai']	2	6	4	
+you3zi3	y#3zi3	['you', 'zi']	2	5	4	
+gai1you2	g#1y#2	['gai', 'you']	2	6	4	
+diu1te4fei2	diu1te4f#2	['diu', 'te', 'fei']	3	8	7	
+di1mi3diu1	di1mi3diu1	['di', 'mi', 'diu']	3	7	7	
+xing4ming2	xjəŋ4mjəŋ2	['xing', 'ming']	2	8	8	
+zuo4meng4	zuo4meŋ4	['zuo', 'meng']	2	7	6	
+mi3jia1le4	mi3jia1le4	['mi', 'jia', 'le']	3	7	7	
+ke3la1	ke3la1	['ke', 'la']	2	4	4	
+piao1dang4	pi#1daŋ4	['piao', 'dang']	2	8	6	
+qiu1tian1	qiu1tian1	['qiu', 'tian']	2	7	7	
+shu	$u	['shu']	1	3	2	
+wei1yan2	w#1yan2	['wei', 'yan']	2	6	5	
+ya4xi1ya4	ya4xi1ya4	['ya', 'xi', 'ya']	3	6	6	
+e2	e2	['e']	1	1	1	
+jia2	jia2	['jia']	1	3	3	
+ba2mo2	ba2mwo2	['ba', 'mo']	2	4	5	
+shi4mei3na2	$i4m#3na2	['shi', 'mei', 'na']	3	8	6	
+bie2jia1mo2	bie2jia1mwo2	['bie', 'jia', 'mo']	3	8	9	
+tui1ya3tui1la3	tui1ya3tui1la3	['tui', 'ya', 'tui', 'la']	4	10	10	
+sa1di2	sa1di2	['sa', 'di']	2	4	4	
+fei1la1tie3fei1	f#1la1tie3f#1	['fei', 'la', 'tie', 'fei']	4	11	9	
+lao3di3jia1	l#3di3jia1	['lao', 'di', 'jia']	3	8	7	
+duan4lian4	duan4lian4	['duan', 'lian']	2	8	8	
+ni2ge1la1	ni2ge1la1	['ni', 'ge', 'la']	3	6	6	
+an1ti2pa4	an1ti2pa4	['an', 'ti', 'pa']	3	6	6	
+ye1xi3bie2	ye1xi3bie2	['ye', 'xi', 'bie']	3	7	7	
+fen3sui4	fen3sui4	['fen', 'sui']	2	6	6	
+zhu4zi	$u4zi	['zhu', 'zi']	2	5	4	
+bi4yu4	bi4yu4	['bi', 'yu']	2	4	4	
+hong2bao3shi2	hoŋ2b#3$i2	['hong', 'bao', 'shi']	3	10	7	
+lv4bao3shi2	lv4b#3$i2	['lv', 'bao', 'shi']	3	8	6	
+sheng4zai1	$eŋ4z#1	['sheng', 'zai']	2	8	5	
+ne2	ne2	['ne']	1	2	2	
+liu2bian4	liu2bian4	['liu', 'bian']	2	7	7	
+jia1de2	jia1de2	['jia', 'de']	2	5	5	
+yi3sa4jia1	yi3sa4jia1	['yi', 'sa', 'jia']	3	7	7	
+bao2	b#2	['bao']	1	3	2	
+chan1	$an1	['chan']	1	4	3	
+wei3ba	w#3ba	['wei', 'ba']	2	5	4	
+ya4ba1dun4	ya4ba1dwən4	['ya', 'ba', 'dun']	3	7	8	
+ma3nao3	ma3n#3	['ma', 'nao']	2	5	4	
+shi1zi0tou2	$i1zi0t#2	['shi', 'zi', 'tou']	3	8	6	
+hu1han3	hu1han3	['hu', 'han']	2	5	5	
+mao2yi1	m#2yi1	['mao', 'yi']	2	5	4	
+zai1yang1	z#1yaŋ1	['zai', 'yang']	2	7	5	
+xiong2	xioŋ2	['xiong']	1	5	4	
+pin2	pin2	['pin']	1	3	3	
+zha4	$a4	['zha']	1	3	2	
+wan2bi4	wan2bi4	['wan', 'bi']	2	5	5	
+qing1wa1	qjəŋ1wa1	['qing', 'wa']	2	6	6	
+ha1mi3ji2duo1dun4	ha1mi3ji2duo1dwən4	['ha', 'mi', 'ji', 'duo', 'dun']	5	12	13	
+da4di4	da4di4	['da', 'di']	2	4	4	
+tuo2	tuo2	['tuo']	1	3	3	
+tao1	t#1	['tao']	1	3	2	
+chou2zi	$#2zi	['chou', 'zi']	2	6	4	
+ron4gui4	ron4gui4	['ron', 'gui']	2	6	6	
+mei3wei4	m#3w#4	['mei', 'wei']	2	6	4	
+qun2zhong4	qun2$oŋ4	['qun', 'zhong']	2	8	6	
+ha1li4lu4ya4	ha1li4lu4ya4	['ha', 'li', 'lu', 'ya']	4	8	8	
+ye1he2hua2	ye1he2hua2	['ye', 'he', 'hua']	3	7	7	
+da4tui3	da4tui3	['da', 'tui']	2	5	5	
+xiao3ren2	xi#3ren2	['xiao', 'ren']	2	7	6	
+ge1ge2	ge1ge2	['ge', 'ge']	2	4	4	
+ma3ge4	ma3ge4	['ma', 'ge']	2	4	4	
+bei3bian1	b#3bian1	['bei', 'bian']	2	7	6	
+chi3cun4	$i3cwən4	['chi', 'cun']	2	6	6	
+ming2jing4	mjəŋ2jjəŋ4	['ming', 'jing']	2	8	8	
+lan2bao3shi2	lan2b#3$i2	['lan', 'bao', 'shi']	3	9	7	
+hong2ma3nao3	hoŋ2ma3n#3	['hong', 'ma', 'nao']	3	9	7	
+yue4guang1	ɥe4guaŋ1	['yue', 'guang']	2	8	6	

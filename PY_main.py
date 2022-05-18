@@ -107,5 +107,5 @@ process_pinyin_texts(['T40_66_piniyin_bible.txt'],
                      ['T40_66_pinyin_bible_type.txt'])
 
 process_char_texts(['T40_66_character_bible.txt'], 
-                     ['T40_66_character_token.txt'],
-                     ['T40_66_character_type.txt'])
+                     ['new_testament_40_66_character_token.txt'],
+                     ['new_testament_40_66_character_type.txt'])

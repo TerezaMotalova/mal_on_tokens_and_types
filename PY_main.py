@@ -1,6 +1,5 @@
 # MAIN FUNCTIONS FOR PROCESSING OF A TEXT BOTH IN PINYIN AND CHINESE CHARACTERS
 # NOTE: output data have a tabular form intended to be saved in plain text format (e.g. .txt)
-# and being compatibile with the Menzerath's Law Meter (MLM) software (Milička, 2013) for futrher processing 
 
 
 import PY_pinyin_text_processing_script as pinyin_text
@@ -102,10 +101,10 @@ def process_char_texts(char_input, txt_token_output, txt_type_output):
 
 
 # EXAMPLE OF RUNNING THE SCRIPT:
-process_pinyin_texts(['T40_66_piniyin_bible.txt'], 
-                     ['T40_66_pinyin_bible_token.txt'],
-                     ['T40_66_pinyin_bible_type.txt'])
+process_pinyin_texts(['new_testament_40_66_pinyin_text.txt'], 
+                     ['new_testament_40_66_pinyin_token.txt'],
+                     ['new_testament_40_66_pinyin_type.txt'])
 
-process_char_texts(['T40_66_character_bible.txt'], 
+process_char_texts(['new_testament_40_66_character_text.txt'], 
                      ['new_testament_40_66_character_token.txt'],
                      ['new_testament_40_66_character_type.txt'])

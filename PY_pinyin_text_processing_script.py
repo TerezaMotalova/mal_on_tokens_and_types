@@ -156,7 +156,7 @@ def process_pinyin_words(word_list):
         word[1] = replace_initials(word[1])
         word[1] = replace_diphthongs(word[1])
         word[1] = replace_yue_yuan(word[1])
-        word[1] = replace_o(word[1])
+        # word[1] = replace_o(word[1])
         word[1] = replace_ing(word[1])
         word[1] = replace_un(word[1])
         word[1] = replace_nasal_ng(word[1])

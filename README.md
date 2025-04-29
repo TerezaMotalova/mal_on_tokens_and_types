@@ -33,7 +33,8 @@ By using the scripts and the data input above, we created four datasets that all
 3. new_testament_40_66_character_token -> word lengths in characters, components and strokes for the tokens (c and d),
 4. new_testament_40_66_character_type -> word lengths in characters, components and strokes for the types (c and d).
 
-The fitting results are available at TBA.
+The fitting results are published in the article:
+Word Length in Chinese: The Menzerath-Altmann Law is Valid After All (Motalová, Mačutek, Čech), 2023, Journal of Quantitative Linguistics, Volume 30, Issue 3-4, available at https://doi.org/10.1080/09296174.2023.2259937.
 
 Persistent identifier of the repository (scripts and data):
 <a href="https://zenodo.org/badge/latestdoi/493632778"><img src="https://zenodo.org/badge/493632778.svg" alt="DOI"></a>
